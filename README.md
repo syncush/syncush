@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-<p align='center'>
+<p>
   <img src="https://visitor-badge.glitch.me/badge?page_id=syncush.github.welcome">
 </p>
 
