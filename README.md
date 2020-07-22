@@ -4,7 +4,9 @@
   <img src="https://visitor-badge.glitch.me/badge?page_id=syncush.github.welcome">
 </p>
 
-I'm **Daniel**, and I'm a team leader and a backend software developer that is usually interested in:
+I'm **Daniel**, and I'm a team leader and a backend software developer.
+
+My interests:
 
 ⚡ NodeJS
 
