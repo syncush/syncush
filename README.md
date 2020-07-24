@@ -1,7 +1,7 @@
 ## Hi there! 👋
 
 <p>
-  <img src="https://visitor-badge.glitch.me/badge?page_id=syncush.github.welcome">
+  <img src="https://github-readme-stats.vercel.app/api?username=syncush&theme=tokyonight">
 </p>
 
 I'm **Daniel**, and I'm a team leader and a backend software developer.
