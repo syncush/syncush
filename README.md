@@ -16,6 +16,9 @@ My interests:
 
 🧠 Event driven architectures
 
+## Packages
+Check out my first npm package: [slack-emojis](https://www.npmjs.com/package/slack-emojis)
+
 ## 📬 Get in touch
 
 * connect with me on [**Linkedin**](https://www.linkedin.com/in/daniel-hermon-927372144/)
