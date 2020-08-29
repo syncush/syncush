@@ -4,7 +4,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=syncush&theme=tokyonight">
 </p>
 
-[![Spotify](https://syncush.vercel.app/api/spotify)](https://open.spotify.com/user/syncush)
+[![Spotify](https://novatorem-rust.vercel.app/api/spotify)](https://open.spotify.com/user/syncush)
 
 I'm **Daniel**, and I'm a team leader and a backend software developer.
 
