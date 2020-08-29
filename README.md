@@ -19,6 +19,9 @@ My interests:
 ## Packages
 Check out my first npm package: [slack-emojis](https://www.npmjs.com/package/slack-emojis)
 
+## Recent Acitivty
+<!--START_SECTION:activity-->
+
 ## 📬 Get in touch
 
 * connect with me on [**Linkedin**](https://www.linkedin.com/in/daniel-hermon-927372144/)
