@@ -23,10 +23,10 @@ Check out my first npm package: [slack-emojis](https://www.npmjs.com/package/sla
 
 ## Recent Acitivty
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#36](https://github.com//MapColonies/shared-components/issues/36) in [MapColonies/shared-components](https://github.com//MapColonies/shared-components)
-2. 🗣 Commented on [#1](https://github.com//MapColonies/work-standard/issues/1) in [MapColonies/work-standard](https://github.com//MapColonies/work-standard)
-3. 💪 Opened PR [#36](https://github.com//MapColonies/shared-components/pull/36) in [MapColonies/shared-components](https://github.com//MapColonies/shared-components)
-4. 🗣 Commented on [#24](https://github.com//MapColonies/shared-components/issues/24) in [MapColonies/shared-components](https://github.com//MapColonies/shared-components)
+1. 💪 Opened PR [#361](https://github.com//Zooz/predator/pull/361) in [Zooz/predator](https://github.com//Zooz/predator)
+2. 🗣 Commented on [#36](https://github.com//MapColonies/shared-components/issues/36) in [MapColonies/shared-components](https://github.com//MapColonies/shared-components)
+3. 🗣 Commented on [#1](https://github.com//MapColonies/work-standard/issues/1) in [MapColonies/work-standard](https://github.com//MapColonies/work-standard)
+4. 💪 Opened PR [#36](https://github.com//MapColonies/shared-components/pull/36) in [MapColonies/shared-components](https://github.com//MapColonies/shared-components)
 5. 🗣 Commented on [#24](https://github.com//MapColonies/shared-components/issues/24) in [MapColonies/shared-components](https://github.com//MapColonies/shared-components)
 <!--END_SECTION:activity-->
 
