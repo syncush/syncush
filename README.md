@@ -6,7 +6,7 @@
 
 [![Spotify](https://novatorem-rust.vercel.app/api/spotify)](https://open.spotify.com/user/syncush)
 
-I'm **Daniel**, and I'm a team leader and a backend software developer.
+I'm **Daniel** and I'm a team leader and a backend software developer.
 
 My interests:
 
