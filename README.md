@@ -23,11 +23,11 @@ Check out my first npm package: [slack-emojis](https://www.npmjs.com/package/sla
 
 ## Recent Acitivty
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12278](https://github.com//storybookjs/storybook/issues/12278) in [storybookjs/storybook](https://github.com//storybookjs/storybook)
-2. 💪 Opened PR [#361](https://github.com//Zooz/predator/pull/361) in [Zooz/predator](https://github.com//Zooz/predator)
-3. 🗣 Commented on [#36](https://github.com//MapColonies/shared-components/issues/36) in [MapColonies/shared-components](https://github.com//MapColonies/shared-components)
-4. 🗣 Commented on [#1](https://github.com//MapColonies/work-standard/issues/1) in [MapColonies/work-standard](https://github.com//MapColonies/work-standard)
-5. 💪 Opened PR [#36](https://github.com//MapColonies/shared-components/pull/36) in [MapColonies/shared-components](https://github.com//MapColonies/shared-components)
+1. 🗣 Commented on [#11](https://github.com//MapColonies/osm-depolyment-stack/issues/11) in [MapColonies/osm-depolyment-stack](https://github.com//MapColonies/osm-depolyment-stack)
+2. ❗️ Closed issue [#11](https://github.com//MapColonies/osm-depolyment-stack/issues/11) in [MapColonies/osm-depolyment-stack](https://github.com//MapColonies/osm-depolyment-stack)
+3. ❗️ Opened issue [#1](https://github.com//MapColonies/osm-seed/issues/1) in [MapColonies/osm-seed](https://github.com//MapColonies/osm-seed)
+4. ❌ Closed PR [#167](https://github.com//developmentseed/osm-seed/pull/167) in [developmentseed/osm-seed](https://github.com//developmentseed/osm-seed)
+5. 💪 Opened PR [#167](https://github.com//developmentseed/osm-seed/pull/167) in [developmentseed/osm-seed](https://github.com//developmentseed/osm-seed)
 <!--END_SECTION:activity-->
 
 ## 📬 Get in touch
