@@ -23,11 +23,11 @@ Check out my first npm package: [slack-emojis](https://www.npmjs.com/package/sla
 
 ## Recent Acitivty
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#363](https://github.com//Zooz/predator/pull/363) in [Zooz/predator](https://github.com//Zooz/predator)
-2. 🗣 Commented on [#361](https://github.com//Zooz/predator/issues/361) in [Zooz/predator](https://github.com//Zooz/predator)
-3. 💪 Opened PR [#2](https://github.com//MapColonies/osm-seed/pull/2) in [MapColonies/osm-seed](https://github.com//MapColonies/osm-seed)
-4. 🗣 Commented on [#11](https://github.com//MapColonies/osm-depolyment-stack/issues/11) in [MapColonies/osm-depolyment-stack](https://github.com//MapColonies/osm-depolyment-stack)
-5. ❗️ Closed issue [#11](https://github.com//MapColonies/osm-depolyment-stack/issues/11) in [MapColonies/osm-depolyment-stack](https://github.com//MapColonies/osm-depolyment-stack)
+1. ❗️ Opened issue [#39](https://github.com//MapColonies/shared-components/issues/39) in [MapColonies/shared-components](https://github.com//MapColonies/shared-components)
+2. ❗️ Opened issue [#3](https://github.com//MapColonies/VectorLayersCatalog/issues/3) in [MapColonies/VectorLayersCatalog](https://github.com//MapColonies/VectorLayersCatalog)
+3. ❗️ Opened issue [#2](https://github.com//MapColonies/VectorLayersCatalog/issues/2) in [MapColonies/VectorLayersCatalog](https://github.com//MapColonies/VectorLayersCatalog)
+4. ❗️ Opened issue [#1](https://github.com//MapColonies/VectorLayersCatalog/issues/1) in [MapColonies/VectorLayersCatalog](https://github.com//MapColonies/VectorLayersCatalog)
+5. 💪 Opened PR [#363](https://github.com//Zooz/predator/pull/363) in [Zooz/predator](https://github.com//Zooz/predator)
 <!--END_SECTION:activity-->
 
 ## 📬 Get in touch
