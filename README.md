@@ -23,11 +23,11 @@ Check out my first npm package: [slack-emojis](https://www.npmjs.com/package/sla
 
 ## Recent Acitivty
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#23](https://github.com//MapColonies/shared-components/issues/23) in [MapColonies/shared-components](https://github.com//MapColonies/shared-components)
-2. 🗣 Commented on [#23](https://github.com//MapColonies/shared-components/issues/23) in [MapColonies/shared-components](https://github.com//MapColonies/shared-components)
-3. 🎉 Merged PR [#36](https://github.com//MapColonies/shared-components/pull/36) in [MapColonies/shared-components](https://github.com//MapColonies/shared-components)
-4. ❗️ Closed issue [#24](https://github.com//MapColonies/shared-components/issues/24) in [MapColonies/shared-components](https://github.com//MapColonies/shared-components)
-5. 🎉 Merged PR [#9](https://github.com//MapColonies/eslint-config/pull/9) in [MapColonies/eslint-config](https://github.com//MapColonies/eslint-config)
+1. 🗣 Commented on [#42](https://github.com//MapColonies/shared-components/issues/42) in [MapColonies/shared-components](https://github.com//MapColonies/shared-components)
+2. 🎉 Merged PR [#2](https://github.com//MapColonies/osm-seed/pull/2) in [MapColonies/osm-seed](https://github.com//MapColonies/osm-seed)
+3. ❗️ Closed issue [#23](https://github.com//MapColonies/shared-components/issues/23) in [MapColonies/shared-components](https://github.com//MapColonies/shared-components)
+4. 🗣 Commented on [#23](https://github.com//MapColonies/shared-components/issues/23) in [MapColonies/shared-components](https://github.com//MapColonies/shared-components)
+5. 🎉 Merged PR [#36](https://github.com//MapColonies/shared-components/pull/36) in [MapColonies/shared-components](https://github.com//MapColonies/shared-components)
 <!--END_SECTION:activity-->
 
 ## 📬 Get in touch
