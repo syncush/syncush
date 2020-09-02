@@ -23,11 +23,11 @@ Check out my first npm package: [slack-emojis](https://www.npmjs.com/package/sla
 
 ## Recent Acitivty
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#25](https://github.com//MapColonies/shared-components/pull/25) in [MapColonies/shared-components](https://github.com//MapColonies/shared-components)
-2. ❗️ Closed issue [#22](https://github.com//MapColonies/shared-components/issues/22) in [MapColonies/shared-components](https://github.com//MapColonies/shared-components)
-3. ❗️ Opened issue [#40](https://github.com//MapColonies/shared-components/issues/40) in [MapColonies/shared-components](https://github.com//MapColonies/shared-components)
-4. ❗️ Opened issue [#39](https://github.com//MapColonies/shared-components/issues/39) in [MapColonies/shared-components](https://github.com//MapColonies/shared-components)
-5. ❗️ Opened issue [#3](https://github.com//MapColonies/VectorLayersCatalog/issues/3) in [MapColonies/VectorLayersCatalog](https://github.com//MapColonies/VectorLayersCatalog)
+1. 🎉 Merged PR [#9](https://github.com//MapColonies/eslint-config/pull/9) in [MapColonies/eslint-config](https://github.com//MapColonies/eslint-config)
+2. 🎉 Merged PR [#25](https://github.com//MapColonies/shared-components/pull/25) in [MapColonies/shared-components](https://github.com//MapColonies/shared-components)
+3. ❗️ Closed issue [#22](https://github.com//MapColonies/shared-components/issues/22) in [MapColonies/shared-components](https://github.com//MapColonies/shared-components)
+4. ❗️ Opened issue [#40](https://github.com//MapColonies/shared-components/issues/40) in [MapColonies/shared-components](https://github.com//MapColonies/shared-components)
+5. ❗️ Opened issue [#39](https://github.com//MapColonies/shared-components/issues/39) in [MapColonies/shared-components](https://github.com//MapColonies/shared-components)
 <!--END_SECTION:activity-->
 
 ## 📬 Get in touch
