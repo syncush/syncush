@@ -23,11 +23,11 @@ Check out my first npm package: [slack-emojis](https://www.npmjs.com/package/sla
 
 ## Recent Acitivty
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#16](https://github.com//MapColonies/shared-components/issues/16) in [MapColonies/shared-components](https://github.com//MapColonies/shared-components)
-2. 🗣 Commented on [#31](https://github.com//MapColonies/shared-components/issues/31) in [MapColonies/shared-components](https://github.com//MapColonies/shared-components)
-3. 🗣 Commented on [#21](https://github.com//MapColonies/shared-components/issues/21) in [MapColonies/shared-components](https://github.com//MapColonies/shared-components)
-4. ❗️ Closed issue [#20](https://github.com//MapColonies/shared-components/issues/20) in [MapColonies/shared-components](https://github.com//MapColonies/shared-components)
-5. 🗣 Commented on [#28](https://github.com//MapColonies/shared-components/issues/28) in [MapColonies/shared-components](https://github.com//MapColonies/shared-components)
+1. ❌ Closed PR [#15](https://github.com//MapColonies/shared-components/pull/15) in [MapColonies/shared-components](https://github.com//MapColonies/shared-components)
+2. ❗️ Closed issue [#16](https://github.com//MapColonies/shared-components/issues/16) in [MapColonies/shared-components](https://github.com//MapColonies/shared-components)
+3. 🗣 Commented on [#16](https://github.com//MapColonies/shared-components/issues/16) in [MapColonies/shared-components](https://github.com//MapColonies/shared-components)
+4. 🗣 Commented on [#31](https://github.com//MapColonies/shared-components/issues/31) in [MapColonies/shared-components](https://github.com//MapColonies/shared-components)
+5. 🗣 Commented on [#21](https://github.com//MapColonies/shared-components/issues/21) in [MapColonies/shared-components](https://github.com//MapColonies/shared-components)
 <!--END_SECTION:activity-->
 
 ## 📬 Get in touch
