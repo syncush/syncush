@@ -23,11 +23,11 @@ Check out my first npm package: [slack-emojis](https://www.npmjs.com/package/sla
 
 ## Recent Acitivty
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#55](https://github.com//MapColonies/shared-components/issues/55) in [MapColonies/shared-components](https://github.com//MapColonies/shared-components)
-2. 🗣 Commented on [#47](https://github.com//MapColonies/shared-components/issues/47) in [MapColonies/shared-components](https://github.com//MapColonies/shared-components)
-3. 🎉 Merged PR [#26](https://github.com//MapColonies/osm-depolyment-stack/pull/26) in [MapColonies/osm-depolyment-stack](https://github.com//MapColonies/osm-depolyment-stack)
-4. 🎉 Merged PR [#9](https://github.com//MapColonies/osm-seed/pull/9) in [MapColonies/osm-seed](https://github.com//MapColonies/osm-seed)
-5. ❗️ Opened issue [#10](https://github.com//MapColonies/osm-seed/issues/10) in [MapColonies/osm-seed](https://github.com//MapColonies/osm-seed)
+1. ❗️ Opened issue [#11](https://github.com//MapColonies/osm-seed/issues/11) in [MapColonies/osm-seed](https://github.com//MapColonies/osm-seed)
+2. ❗️ Closed issue [#8](https://github.com//MapColonies/osm-seed/issues/8) in [MapColonies/osm-seed](https://github.com//MapColonies/osm-seed)
+3. 🗣 Commented on [#8](https://github.com//MapColonies/osm-seed/issues/8) in [MapColonies/osm-seed](https://github.com//MapColonies/osm-seed)
+4. ❗️ Closed issue [#2](https://github.com//MapColonies/vector-layers-catalog/issues/2) in [MapColonies/vector-layers-catalog](https://github.com//MapColonies/vector-layers-catalog)
+5. 🎉 Merged PR [#56](https://github.com//MapColonies/shared-components/pull/56) in [MapColonies/shared-components](https://github.com//MapColonies/shared-components)
 <!--END_SECTION:activity-->
 
 ## 📬 Get in touch
