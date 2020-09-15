@@ -23,11 +23,11 @@ Check out my first npm package: [slack-emojis](https://www.npmjs.com/package/sla
 
 ## Recent Acitivty
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#14](https://github.com//MapColonies/osm-depolyment-stack/issues/14) in [MapColonies/osm-depolyment-stack](https://github.com//MapColonies/osm-depolyment-stack)
-2. ❗️ Closed issue [#17](https://github.com//MapColonies/osm-depolyment-stack/issues/17) in [MapColonies/osm-depolyment-stack](https://github.com//MapColonies/osm-depolyment-stack)
-3. ❗️ Closed issue [#46](https://github.com//MapColonies/shared-components/issues/46) in [MapColonies/shared-components](https://github.com//MapColonies/shared-components)
-4. 🎉 Merged PR [#57](https://github.com//MapColonies/shared-components/pull/57) in [MapColonies/shared-components](https://github.com//MapColonies/shared-components)
-5. ❗️ Opened issue [#11](https://github.com//MapColonies/osm-seed/issues/11) in [MapColonies/osm-seed](https://github.com//MapColonies/osm-seed)
+1. 🎉 Merged PR [#58](https://github.com//MapColonies/shared-components/pull/58) in [MapColonies/shared-components](https://github.com//MapColonies/shared-components)
+2. ❗️ Closed issue [#14](https://github.com//MapColonies/osm-depolyment-stack/issues/14) in [MapColonies/osm-depolyment-stack](https://github.com//MapColonies/osm-depolyment-stack)
+3. ❗️ Closed issue [#17](https://github.com//MapColonies/osm-depolyment-stack/issues/17) in [MapColonies/osm-depolyment-stack](https://github.com//MapColonies/osm-depolyment-stack)
+4. ❗️ Closed issue [#46](https://github.com//MapColonies/shared-components/issues/46) in [MapColonies/shared-components](https://github.com//MapColonies/shared-components)
+5. 🎉 Merged PR [#57](https://github.com//MapColonies/shared-components/pull/57) in [MapColonies/shared-components](https://github.com//MapColonies/shared-components)
 <!--END_SECTION:activity-->
 
 ## 📬 Get in touch
