@@ -23,11 +23,11 @@ Check out my first npm package: [slack-emojis](https://www.npmjs.com/package/sla
 
 ## Recent Acitivty
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#409](https://github.com//ealush/vest/pull/409) in [ealush/vest](https://github.com//ealush/vest)
-2. 🗣 Commented on [#11](https://github.com//MapColonies/work-standard/issues/11) in [MapColonies/work-standard](https://github.com//MapColonies/work-standard)
-3. 🎉 Merged PR [#11](https://github.com//MapColonies/vector-layers-catalog/pull/11) in [MapColonies/vector-layers-catalog](https://github.com//MapColonies/vector-layers-catalog)
-4. ❗️ Closed issue [#10](https://github.com//MapColonies/vector-layers-catalog/issues/10) in [MapColonies/vector-layers-catalog](https://github.com//MapColonies/vector-layers-catalog)
-5. ❗️ Closed issue [#9](https://github.com//MapColonies/vector-layers-catalog/issues/9) in [MapColonies/vector-layers-catalog](https://github.com//MapColonies/vector-layers-catalog)
+1. 🗣 Commented on [#12](https://github.com//MapColonies/work-standard/issues/12) in [MapColonies/work-standard](https://github.com//MapColonies/work-standard)
+2. 💪 Opened PR [#409](https://github.com//ealush/vest/pull/409) in [ealush/vest](https://github.com//ealush/vest)
+3. 🗣 Commented on [#11](https://github.com//MapColonies/work-standard/issues/11) in [MapColonies/work-standard](https://github.com//MapColonies/work-standard)
+4. 🎉 Merged PR [#11](https://github.com//MapColonies/vector-layers-catalog/pull/11) in [MapColonies/vector-layers-catalog](https://github.com//MapColonies/vector-layers-catalog)
+5. ❗️ Closed issue [#10](https://github.com//MapColonies/vector-layers-catalog/issues/10) in [MapColonies/vector-layers-catalog](https://github.com//MapColonies/vector-layers-catalog)
 <!--END_SECTION:activity-->
 
 ## 📬 Get in touch
