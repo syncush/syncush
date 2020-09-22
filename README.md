@@ -23,11 +23,11 @@ Check out my first npm package: [slack-emojis](https://www.npmjs.com/package/sla
 
 ## Recent Acitivty
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11](https://github.com//MapColonies/vector-layers-catalog/pull/11) in [MapColonies/vector-layers-catalog](https://github.com//MapColonies/vector-layers-catalog)
-2. ❗️ Closed issue [#10](https://github.com//MapColonies/vector-layers-catalog/issues/10) in [MapColonies/vector-layers-catalog](https://github.com//MapColonies/vector-layers-catalog)
-3. ❗️ Closed issue [#9](https://github.com//MapColonies/vector-layers-catalog/issues/9) in [MapColonies/vector-layers-catalog](https://github.com//MapColonies/vector-layers-catalog)
-4. ❗️ Opened issue [#402](https://github.com//ealush/vest/issues/402) in [ealush/vest](https://github.com//ealush/vest)
-5. 💪 Opened PR [#391](https://github.com//Zooz/predator/pull/391) in [Zooz/predator](https://github.com//Zooz/predator)
+1. 🗣 Commented on [#11](https://github.com//MapColonies/work-standard/issues/11) in [MapColonies/work-standard](https://github.com//MapColonies/work-standard)
+2. 🎉 Merged PR [#11](https://github.com//MapColonies/vector-layers-catalog/pull/11) in [MapColonies/vector-layers-catalog](https://github.com//MapColonies/vector-layers-catalog)
+3. ❗️ Closed issue [#10](https://github.com//MapColonies/vector-layers-catalog/issues/10) in [MapColonies/vector-layers-catalog](https://github.com//MapColonies/vector-layers-catalog)
+4. ❗️ Closed issue [#9](https://github.com//MapColonies/vector-layers-catalog/issues/9) in [MapColonies/vector-layers-catalog](https://github.com//MapColonies/vector-layers-catalog)
+5. ❗️ Opened issue [#402](https://github.com//ealush/vest/issues/402) in [ealush/vest](https://github.com//ealush/vest)
 <!--END_SECTION:activity-->
 
 ## 📬 Get in touch
