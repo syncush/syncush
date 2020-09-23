@@ -29,7 +29,3 @@ Check out my first npm package: [slack-emojis](https://www.npmjs.com/package/sla
 4. 💪 Opened PR [#409](https://github.com//ealush/vest/pull/409) in [ealush/vest](https://github.com//ealush/vest)
 5. 🗣 Commented on [#11](https://github.com//MapColonies/work-standard/issues/11) in [MapColonies/work-standard](https://github.com//MapColonies/work-standard)
 <!--END_SECTION:activity-->
-
-## 📬 Get in touch
-
-* connect with me on [**Linkedin**](https://www.linkedin.com/in/daniel-hermon-927372144/)
