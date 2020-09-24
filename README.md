@@ -23,9 +23,9 @@ Check out my first npm package: [slack-emojis](https://www.npmjs.com/package/sla
 
 ## Recent Acitivty
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#405](https://github.com//Zooz/predator/issues/405) in [Zooz/predator](https://github.com//Zooz/predator)
-2. ❗️ Opened issue [#404](https://github.com//Zooz/predator/issues/404) in [Zooz/predator](https://github.com//Zooz/predator)
-3. 🎉 Merged PR [#12](https://github.com//MapColonies/work-standard/pull/12) in [MapColonies/work-standard](https://github.com//MapColonies/work-standard)
-4. 🗣 Commented on [#409](https://github.com//ealush/vest/issues/409) in [ealush/vest](https://github.com//ealush/vest)
-5. 💪 Opened PR [#411](https://github.com//ealush/vest/pull/411) in [ealush/vest](https://github.com//ealush/vest)
+1. ❗️ Opened issue [#409](https://github.com//Zooz/predator/issues/409) in [Zooz/predator](https://github.com//Zooz/predator)
+2. ❗️ Opened issue [#408](https://github.com//Zooz/predator/issues/408) in [Zooz/predator](https://github.com//Zooz/predator)
+3. ❗️ Opened issue [#407](https://github.com//Zooz/predator/issues/407) in [Zooz/predator](https://github.com//Zooz/predator)
+4. ❗️ Opened issue [#405](https://github.com//Zooz/predator/issues/405) in [Zooz/predator](https://github.com//Zooz/predator)
+5. ❗️ Opened issue [#404](https://github.com//Zooz/predator/issues/404) in [Zooz/predator](https://github.com//Zooz/predator)
 <!--END_SECTION:activity-->
