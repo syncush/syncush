@@ -23,9 +23,9 @@ Check out my first npm package: [slack-emojis](https://www.npmjs.com/package/sla
 
 ## Recent Acitivty
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#414](https://github.com/ealush/vest/issues/414) in [ealush/vest](https://github.com/ealush/vest)
-2. 💪 Opened PR [#98](https://github.com/OpenSourceTogether/Hacktoberfest-2020/pull/98) in [OpenSourceTogether/Hacktoberfest-2020](https://github.com/OpenSourceTogether/Hacktoberfest-2020)
-3. 🗣 Commented on [#416](https://github.com/Zooz/predator/issues/416) in [Zooz/predator](https://github.com/Zooz/predator)
+1. 💪 Opened PR [#437](https://github.com/Zooz/predator/pull/437) in [Zooz/predator](https://github.com/Zooz/predator)
+2. 🗣 Commented on [#414](https://github.com/ealush/vest/issues/414) in [ealush/vest](https://github.com/ealush/vest)
+3. 💪 Opened PR [#98](https://github.com/OpenSourceTogether/Hacktoberfest-2020/pull/98) in [OpenSourceTogether/Hacktoberfest-2020](https://github.com/OpenSourceTogether/Hacktoberfest-2020)
 4. 🗣 Commented on [#416](https://github.com/Zooz/predator/issues/416) in [Zooz/predator](https://github.com/Zooz/predator)
-5. 🗣 Commented on [#414](https://github.com/Zooz/predator/issues/414) in [Zooz/predator](https://github.com/Zooz/predator)
+5. 🗣 Commented on [#416](https://github.com/Zooz/predator/issues/416) in [Zooz/predator](https://github.com/Zooz/predator)
 <!--END_SECTION:activity-->
