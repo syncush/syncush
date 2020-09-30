@@ -23,9 +23,9 @@ Check out my first npm package: [slack-emojis](https://www.npmjs.com/package/sla
 
 ## Recent Acitivty
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#14](https://github.com/MapColonies/osm-seed/pull/14) in [MapColonies/osm-seed](https://github.com/MapColonies/osm-seed)
-2. ❗️ Closed issue [#22](https://github.com/MapColonies/osm-depolyment-stack/issues/22) in [MapColonies/osm-depolyment-stack](https://github.com/MapColonies/osm-depolyment-stack)
-3. 🗣 Commented on [#424](https://github.com/Zooz/predator/issues/424) in [Zooz/predator](https://github.com/Zooz/predator)
-4. 💪 Opened PR [#437](https://github.com/Zooz/predator/pull/437) in [Zooz/predator](https://github.com/Zooz/predator)
-5. 🗣 Commented on [#414](https://github.com/ealush/vest/issues/414) in [ealush/vest](https://github.com/ealush/vest)
+1. 💪 Opened PR [#439](https://github.com/Zooz/predator/pull/439) in [Zooz/predator](https://github.com/Zooz/predator)
+2. 🎉 Merged PR [#14](https://github.com/MapColonies/osm-seed/pull/14) in [MapColonies/osm-seed](https://github.com/MapColonies/osm-seed)
+3. ❗️ Closed issue [#22](https://github.com/MapColonies/osm-depolyment-stack/issues/22) in [MapColonies/osm-depolyment-stack](https://github.com/MapColonies/osm-depolyment-stack)
+4. 🗣 Commented on [#424](https://github.com/Zooz/predator/issues/424) in [Zooz/predator](https://github.com/Zooz/predator)
+5. 💪 Opened PR [#437](https://github.com/Zooz/predator/pull/437) in [Zooz/predator](https://github.com/Zooz/predator)
 <!--END_SECTION:activity-->
