@@ -23,9 +23,9 @@ Check out my first npm package: [slack-emojis](https://www.npmjs.com/package/sla
 
 ## Recent Acitivty
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#27](https://github.com/MapColonies/osm-depolyment-stack/issues/27) in [MapColonies/osm-depolyment-stack](https://github.com/MapColonies/osm-depolyment-stack)
-2. ❗️ Opened issue [#12](https://github.com/MapColonies/mc-productBacklog/issues/12) in [MapColonies/mc-productBacklog](https://github.com/MapColonies/mc-productBacklog)
-3. ❗️ Opened issue [#12](https://github.com/MapColonies/conflict-resolution/issues/12) in [MapColonies/conflict-resolution](https://github.com/MapColonies/conflict-resolution)
-4. ❗️ Opened issue [#11](https://github.com/MapColonies/mc-productBacklog/issues/11) in [MapColonies/mc-productBacklog](https://github.com/MapColonies/mc-productBacklog)
-5. 💪 Opened PR [#419](https://github.com/ealush/vest/pull/419) in [ealush/vest](https://github.com/ealush/vest)
+1. ❗️ Opened issue [#14](https://github.com/MapColonies/mc-productBacklog/issues/14) in [MapColonies/mc-productBacklog](https://github.com/MapColonies/mc-productBacklog)
+2. ❗️ Opened issue [#13](https://github.com/MapColonies/mc-productBacklog/issues/13) in [MapColonies/mc-productBacklog](https://github.com/MapColonies/mc-productBacklog)
+3. ❗️ Opened issue [#27](https://github.com/MapColonies/osm-depolyment-stack/issues/27) in [MapColonies/osm-depolyment-stack](https://github.com/MapColonies/osm-depolyment-stack)
+4. ❗️ Opened issue [#12](https://github.com/MapColonies/mc-productBacklog/issues/12) in [MapColonies/mc-productBacklog](https://github.com/MapColonies/mc-productBacklog)
+5. ❗️ Opened issue [#12](https://github.com/MapColonies/conflict-resolution/issues/12) in [MapColonies/conflict-resolution](https://github.com/MapColonies/conflict-resolution)
 <!--END_SECTION:activity-->
