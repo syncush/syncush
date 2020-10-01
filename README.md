@@ -23,9 +23,9 @@ Check out my first npm package: [slack-emojis](https://www.npmjs.com/package/sla
 
 ## Recent Acitivty
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#419](https://github.com/ealush/vest/pull/419) in [ealush/vest](https://github.com/ealush/vest)
-2. 🗣 Commented on [#396](https://github.com/ealush/vest/issues/396) in [ealush/vest](https://github.com/ealush/vest)
-3. 🗣 Commented on [#438](https://github.com/Zooz/predator/issues/438) in [Zooz/predator](https://github.com/Zooz/predator)
-4. 💪 Opened PR [#442](https://github.com/Zooz/predator/pull/442) in [Zooz/predator](https://github.com/Zooz/predator)
-5. 💪 Opened PR [#439](https://github.com/Zooz/predator/pull/439) in [Zooz/predator](https://github.com/Zooz/predator)
+1. ❗️ Opened issue [#27](https://github.com/MapColonies/osm-depolyment-stack/issues/27) in [MapColonies/osm-depolyment-stack](https://github.com/MapColonies/osm-depolyment-stack)
+2. ❗️ Opened issue [#12](https://github.com/MapColonies/mc-productBacklog/issues/12) in [MapColonies/mc-productBacklog](https://github.com/MapColonies/mc-productBacklog)
+3. ❗️ Opened issue [#12](https://github.com/MapColonies/conflict-resolution/issues/12) in [MapColonies/conflict-resolution](https://github.com/MapColonies/conflict-resolution)
+4. ❗️ Opened issue [#11](https://github.com/MapColonies/mc-productBacklog/issues/11) in [MapColonies/mc-productBacklog](https://github.com/MapColonies/mc-productBacklog)
+5. 💪 Opened PR [#419](https://github.com/ealush/vest/pull/419) in [ealush/vest](https://github.com/ealush/vest)
 <!--END_SECTION:activity-->
