@@ -23,9 +23,9 @@ Check out my first npm package: [slack-emojis](https://www.npmjs.com/package/sla
 
 ## Recent Acitivty
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#451](https://github.com/Zooz/predator/issues/451) in [Zooz/predator](https://github.com/Zooz/predator)
-2. 🗣 Commented on [#404](https://github.com/Zooz/predator/issues/404) in [Zooz/predator](https://github.com/Zooz/predator)
+1. ❗️ Opened issue [#466](https://github.com/Zooz/predator/issues/466) in [Zooz/predator](https://github.com/Zooz/predator)
+2. 🗣 Commented on [#451](https://github.com/Zooz/predator/issues/451) in [Zooz/predator](https://github.com/Zooz/predator)
 3. 🗣 Commented on [#404](https://github.com/Zooz/predator/issues/404) in [Zooz/predator](https://github.com/Zooz/predator)
-4. ❗️ Opened issue [#14](https://github.com/MapColonies/mc-productBacklog/issues/14) in [MapColonies/mc-productBacklog](https://github.com/MapColonies/mc-productBacklog)
-5. ❗️ Opened issue [#13](https://github.com/MapColonies/mc-productBacklog/issues/13) in [MapColonies/mc-productBacklog](https://github.com/MapColonies/mc-productBacklog)
+4. 🗣 Commented on [#404](https://github.com/Zooz/predator/issues/404) in [Zooz/predator](https://github.com/Zooz/predator)
+5. ❗️ Opened issue [#14](https://github.com/MapColonies/mc-productBacklog/issues/14) in [MapColonies/mc-productBacklog](https://github.com/MapColonies/mc-productBacklog)
 <!--END_SECTION:activity-->
