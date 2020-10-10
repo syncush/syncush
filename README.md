@@ -23,9 +23,9 @@ Check out my first npm package: [slack-emojis](https://www.npmjs.com/package/sla
 
 ## Recent Acitivty
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#451](https://github.com/Zooz/predator/issues/451) in [Zooz/predator](https://github.com/Zooz/predator)
-2. ❗️ Opened issue [#475](https://github.com/Zooz/predator/issues/475) in [Zooz/predator](https://github.com/Zooz/predator)
-3. 🗣 Commented on [#451](https://github.com/Zooz/predator/issues/451) in [Zooz/predator](https://github.com/Zooz/predator)
-4. 🗣 Commented on [#451](https://github.com/Zooz/predator/issues/451) in [Zooz/predator](https://github.com/Zooz/predator)
-5. ❗️ Opened issue [#466](https://github.com/Zooz/predator/issues/466) in [Zooz/predator](https://github.com/Zooz/predator)
+1. 💪 Opened PR [#49](https://github.com/Zooz/predator-runner/pull/49) in [Zooz/predator-runner](https://github.com/Zooz/predator-runner)
+2. ❌ Closed PR [#48](https://github.com/Zooz/predator-runner/pull/48) in [Zooz/predator-runner](https://github.com/Zooz/predator-runner)
+3. 💪 Opened PR [#481](https://github.com/Zooz/predator/pull/481) in [Zooz/predator](https://github.com/Zooz/predator)
+4. ❌ Closed PR [#411](https://github.com/Zooz/predator/pull/411) in [Zooz/predator](https://github.com/Zooz/predator)
+5. 🗣 Commented on [#451](https://github.com/Zooz/predator/issues/451) in [Zooz/predator](https://github.com/Zooz/predator)
 <!--END_SECTION:activity-->
