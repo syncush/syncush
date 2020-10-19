@@ -23,9 +23,9 @@ Check out my first npm package: [slack-emojis](https://www.npmjs.com/package/sla
 
 ## Recent Acitivty
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#17](https://github.com/MapColonies/osm-seed/pull/17) in [MapColonies/osm-seed](https://github.com/MapColonies/osm-seed)
-2. ❌ Closed PR [#487](https://github.com/Zooz/predator/pull/487) in [Zooz/predator](https://github.com/Zooz/predator)
-3. 🗣 Commented on [#14](https://github.com/MapColonies/mc-productBacklog/issues/14) in [MapColonies/mc-productBacklog](https://github.com/MapColonies/mc-productBacklog)
-4. 💪 Opened PR [#487](https://github.com/Zooz/predator/pull/487) in [Zooz/predator](https://github.com/Zooz/predator)
-5. 🗣 Commented on [#17](https://github.com/MapColonies/osm-seed/issues/17) in [MapColonies/osm-seed](https://github.com/MapColonies/osm-seed)
+1. 💪 Opened PR [#50](https://github.com/Zooz/predator-runner/pull/50) in [Zooz/predator-runner](https://github.com/Zooz/predator-runner)
+2. 🗣 Commented on [#483](https://github.com/Zooz/predator/issues/483) in [Zooz/predator](https://github.com/Zooz/predator)
+3. 💪 Opened PR [#511](https://github.com/Zooz/predator/pull/511) in [Zooz/predator](https://github.com/Zooz/predator)
+4. ❌ Closed PR [#17](https://github.com/MapColonies/osm-seed/pull/17) in [MapColonies/osm-seed](https://github.com/MapColonies/osm-seed)
+5. ❌ Closed PR [#487](https://github.com/Zooz/predator/pull/487) in [Zooz/predator](https://github.com/Zooz/predator)
 <!--END_SECTION:activity-->
