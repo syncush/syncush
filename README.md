@@ -23,9 +23,9 @@ Check out my first npm package: [slack-emojis](https://www.npmjs.com/package/sla
 
 ## Recent Acitivty
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#483](https://github.com/Zooz/predator/issues/483) in [Zooz/predator](https://github.com/Zooz/predator)
-2. 💪 Opened PR [#518](https://github.com/Zooz/predator/pull/518) in [Zooz/predator](https://github.com/Zooz/predator)
-3. 🗣 Commented on [#483](https://github.com/Zooz/predator/issues/483) in [Zooz/predator](https://github.com/Zooz/predator)
-4. 🗣 Commented on [#507](https://github.com/Zooz/predator/issues/507) in [Zooz/predator](https://github.com/Zooz/predator)
-5. ❗️ Closed issue [#15](https://github.com/MapColonies/osm-depolyment-stack/issues/15) in [MapColonies/osm-depolyment-stack](https://github.com/MapColonies/osm-depolyment-stack)
+1. ❗️ Closed issue [#1](https://github.com/MapColonies/json-logger/issues/1) in [MapColonies/json-logger](https://github.com/MapColonies/json-logger)
+2. ❗️ Opened issue [#1](https://github.com/MapColonies/json-logger/issues/1) in [MapColonies/json-logger](https://github.com/MapColonies/json-logger)
+3. 🗣 Commented on [#38](https://github.com/MapColonies/shared-components/issues/38) in [MapColonies/shared-components](https://github.com/MapColonies/shared-components)
+4. 🗣 Commented on [#483](https://github.com/Zooz/predator/issues/483) in [Zooz/predator](https://github.com/Zooz/predator)
+5. 💪 Opened PR [#518](https://github.com/Zooz/predator/pull/518) in [Zooz/predator](https://github.com/Zooz/predator)
 <!--END_SECTION:activity-->
