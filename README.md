@@ -23,9 +23,9 @@ Check out my first npm package: [slack-emojis](https://www.npmjs.com/package/sla
 
 ## Recent Acitivty
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/MapColonies/json-logger/issues/1) in [MapColonies/json-logger](https://github.com/MapColonies/json-logger)
-2. ❗️ Opened issue [#1](https://github.com/MapColonies/json-logger/issues/1) in [MapColonies/json-logger](https://github.com/MapColonies/json-logger)
-3. 🗣 Commented on [#38](https://github.com/MapColonies/shared-components/issues/38) in [MapColonies/shared-components](https://github.com/MapColonies/shared-components)
-4. 🗣 Commented on [#483](https://github.com/Zooz/predator/issues/483) in [Zooz/predator](https://github.com/Zooz/predator)
-5. 💪 Opened PR [#518](https://github.com/Zooz/predator/pull/518) in [Zooz/predator](https://github.com/Zooz/predator)
+1. ❗️ Opened issue [#2](https://github.com/MapColonies/json-logger/issues/2) in [MapColonies/json-logger](https://github.com/MapColonies/json-logger)
+2. ❗️ Closed issue [#1](https://github.com/MapColonies/json-logger/issues/1) in [MapColonies/json-logger](https://github.com/MapColonies/json-logger)
+3. ❗️ Opened issue [#1](https://github.com/MapColonies/json-logger/issues/1) in [MapColonies/json-logger](https://github.com/MapColonies/json-logger)
+4. 🗣 Commented on [#38](https://github.com/MapColonies/shared-components/issues/38) in [MapColonies/shared-components](https://github.com/MapColonies/shared-components)
+5. 🗣 Commented on [#483](https://github.com/Zooz/predator/issues/483) in [Zooz/predator](https://github.com/Zooz/predator)
 <!--END_SECTION:activity-->
