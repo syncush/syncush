@@ -23,9 +23,9 @@ Check out my first npm package: [slack-emojis](https://www.npmjs.com/package/sla
 
 ## Recent Acitivty
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/MapColonies/microcOSM/issues/2) in [MapColonies/microcOSM](https://github.com/MapColonies/microcOSM)
-2. 🗣 Commented on [#3](https://github.com/MapColonies/osm-seed/issues/3) in [MapColonies/osm-seed](https://github.com/MapColonies/osm-seed)
-3. ❗️ Closed issue [#3](https://github.com/MapColonies/osm-seed/issues/3) in [MapColonies/osm-seed](https://github.com/MapColonies/osm-seed)
-4. ❗️ Opened issue [#5](https://github.com/MapColonies/microcOSM/issues/5) in [MapColonies/microcOSM](https://github.com/MapColonies/microcOSM)
-5. ❗️ Closed issue [#19](https://github.com/MapColonies/shared-components/issues/19) in [MapColonies/shared-components](https://github.com/MapColonies/shared-components)
+1. ❗️ Opened issue [#528](https://github.com/Zooz/predator/issues/528) in [Zooz/predator](https://github.com/Zooz/predator)
+2. 🗣 Commented on [#2](https://github.com/MapColonies/microcOSM/issues/2) in [MapColonies/microcOSM](https://github.com/MapColonies/microcOSM)
+3. 🗣 Commented on [#3](https://github.com/MapColonies/osm-seed/issues/3) in [MapColonies/osm-seed](https://github.com/MapColonies/osm-seed)
+4. ❗️ Closed issue [#3](https://github.com/MapColonies/osm-seed/issues/3) in [MapColonies/osm-seed](https://github.com/MapColonies/osm-seed)
+5. ❗️ Opened issue [#5](https://github.com/MapColonies/microcOSM/issues/5) in [MapColonies/microcOSM](https://github.com/MapColonies/microcOSM)
 <!--END_SECTION:activity-->
