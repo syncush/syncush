@@ -23,9 +23,9 @@ Check out my first npm package: [slack-emojis](https://www.npmjs.com/package/sla
 
 ## Recent Acitivty
 <!--START_SECTION:activity-->
-1. ❗️ Reopened issue [#15](https://github.com/MapColonies/microcOSM/issues/15) in [MapColonies/microcOSM](https://github.com/MapColonies/microcOSM)
-2. ❗️ Closed issue [#15](https://github.com/MapColonies/microcOSM/issues/15) in [MapColonies/microcOSM](https://github.com/MapColonies/microcOSM)
-3. 🗣 Commented on [#14](https://github.com/MapColonies/microcOSM/issues/14) in [MapColonies/microcOSM](https://github.com/MapColonies/microcOSM)
-4. ❗️ Opened issue [#15](https://github.com/MapColonies/microcOSM/issues/15) in [MapColonies/microcOSM](https://github.com/MapColonies/microcOSM)
-5. ❌ Closed PR [#12](https://github.com/MapColonies/osm-seed/pull/12) in [MapColonies/osm-seed](https://github.com/MapColonies/osm-seed)
+1. ❗️ Closed issue [#16](https://github.com/MapColonies/microcOSM/issues/16) in [MapColonies/microcOSM](https://github.com/MapColonies/microcOSM)
+2. 🎉 Merged PR [#19](https://github.com/MapColonies/microcOSM/pull/19) in [MapColonies/microcOSM](https://github.com/MapColonies/microcOSM)
+3. ❗️ Closed issue [#15](https://github.com/MapColonies/microcOSM/issues/15) in [MapColonies/microcOSM](https://github.com/MapColonies/microcOSM)
+4. ❗️ Reopened issue [#15](https://github.com/MapColonies/microcOSM/issues/15) in [MapColonies/microcOSM](https://github.com/MapColonies/microcOSM)
+5. ❗️ Closed issue [#15](https://github.com/MapColonies/microcOSM/issues/15) in [MapColonies/microcOSM](https://github.com/MapColonies/microcOSM)
 <!--END_SECTION:activity-->
