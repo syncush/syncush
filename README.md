@@ -23,9 +23,9 @@ Check out my first npm package: [slack-emojis](https://www.npmjs.com/package/sla
 
 ## Recent Acitivty
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/MapColonies/CIA/issues/1) in [MapColonies/CIA](https://github.com/MapColonies/CIA)
-2. 💪 Opened PR [#540](https://github.com/Zooz/predator/pull/540) in [Zooz/predator](https://github.com/Zooz/predator)
-3. ❗️ Opened issue [#24](https://github.com/MapColonies/microcOSM/issues/24) in [MapColonies/microcOSM](https://github.com/MapColonies/microcOSM)
-4. ❗️ Opened issue [#23](https://github.com/MapColonies/microcOSM/issues/23) in [MapColonies/microcOSM](https://github.com/MapColonies/microcOSM)
-5. ❗️ Opened issue [#22](https://github.com/MapColonies/microcOSM/issues/22) in [MapColonies/microcOSM](https://github.com/MapColonies/microcOSM)
+1. ❗️ Opened issue [#2](https://github.com/MapColonies/CIA/issues/2) in [MapColonies/CIA](https://github.com/MapColonies/CIA)
+2. ❗️ Opened issue [#1](https://github.com/MapColonies/CIA/issues/1) in [MapColonies/CIA](https://github.com/MapColonies/CIA)
+3. 💪 Opened PR [#540](https://github.com/Zooz/predator/pull/540) in [Zooz/predator](https://github.com/Zooz/predator)
+4. ❗️ Opened issue [#24](https://github.com/MapColonies/microcOSM/issues/24) in [MapColonies/microcOSM](https://github.com/MapColonies/microcOSM)
+5. ❗️ Opened issue [#23](https://github.com/MapColonies/microcOSM/issues/23) in [MapColonies/microcOSM](https://github.com/MapColonies/microcOSM)
 <!--END_SECTION:activity-->
