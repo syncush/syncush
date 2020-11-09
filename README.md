@@ -23,9 +23,9 @@ Check out my first npm package: [slack-emojis](https://www.npmjs.com/package/sla
 
 ## Recent Acitivty
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com/MapColonies/microcOSM/issues/6) in [MapColonies/microcOSM](https://github.com/MapColonies/microcOSM)
-2. 🗣 Commented on [#7](https://github.com/MapColonies/microcOSM/issues/7) in [MapColonies/microcOSM](https://github.com/MapColonies/microcOSM)
-3. ❗️ Closed issue [#5](https://github.com/MapColonies/microcOSM/issues/5) in [MapColonies/microcOSM](https://github.com/MapColonies/microcOSM)
-4. ❗️ Opened issue [#28](https://github.com/MapColonies/microcOSM/issues/28) in [MapColonies/microcOSM](https://github.com/MapColonies/microcOSM)
-5. 🗣 Commented on [#541](https://github.com/Zooz/predator/issues/541) in [Zooz/predator](https://github.com/Zooz/predator)
+1. 💪 Opened PR [#33](https://github.com/MapColonies/microcOSM/pull/33) in [MapColonies/microcOSM](https://github.com/MapColonies/microcOSM)
+2. 🗣 Commented on [#17](https://github.com/MapColonies/microcOSM/issues/17) in [MapColonies/microcOSM](https://github.com/MapColonies/microcOSM)
+3. 🗣 Commented on [#27](https://github.com/MapColonies/microcOSM/issues/27) in [MapColonies/microcOSM](https://github.com/MapColonies/microcOSM)
+4. 🗣 Commented on [#6](https://github.com/MapColonies/microcOSM/issues/6) in [MapColonies/microcOSM](https://github.com/MapColonies/microcOSM)
+5. 🗣 Commented on [#7](https://github.com/MapColonies/microcOSM/issues/7) in [MapColonies/microcOSM](https://github.com/MapColonies/microcOSM)
 <!--END_SECTION:activity-->
