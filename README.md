@@ -23,9 +23,9 @@ Check out my first npm package: [slack-emojis](https://www.npmjs.com/package/sla
 
 ## Recent Acitivty
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#33](https://github.com/MapColonies/microcOSM/pull/33) in [MapColonies/microcOSM](https://github.com/MapColonies/microcOSM)
-2. ❗️ Reopened issue [#37](https://github.com/MapColonies/microcOSM/issues/37) in [MapColonies/microcOSM](https://github.com/MapColonies/microcOSM)
-3. 🎉 Merged PR [#34](https://github.com/MapColonies/microcOSM/pull/34) in [MapColonies/microcOSM](https://github.com/MapColonies/microcOSM)
-4. ❗️ Closed issue [#37](https://github.com/MapColonies/microcOSM/issues/37) in [MapColonies/microcOSM](https://github.com/MapColonies/microcOSM)
-5. 🎉 Merged PR [#35](https://github.com/MapColonies/microcOSM/pull/35) in [MapColonies/microcOSM](https://github.com/MapColonies/microcOSM)
+1. ❗️ Closed issue [#2](https://github.com/MapColonies/conflict-resolution/issues/2) in [MapColonies/conflict-resolution](https://github.com/MapColonies/conflict-resolution)
+2. ❗️ Closed issue [#3](https://github.com/MapColonies/conflict-resolution/issues/3) in [MapColonies/conflict-resolution](https://github.com/MapColonies/conflict-resolution)
+3. ❗️ Closed issue [#8](https://github.com/MapColonies/conflict-resolution/issues/8) in [MapColonies/conflict-resolution](https://github.com/MapColonies/conflict-resolution)
+4. 🎉 Merged PR [#33](https://github.com/MapColonies/microcOSM/pull/33) in [MapColonies/microcOSM](https://github.com/MapColonies/microcOSM)
+5. ❗️ Reopened issue [#37](https://github.com/MapColonies/microcOSM/issues/37) in [MapColonies/microcOSM](https://github.com/MapColonies/microcOSM)
 <!--END_SECTION:activity-->
