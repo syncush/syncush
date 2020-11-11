@@ -23,9 +23,9 @@ Check out my first npm package: [slack-emojis](https://www.npmjs.com/package/sla
 
 ## Recent Acitivty
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#40](https://github.com/MapColonies/microcOSM/pull/40) in [MapColonies/microcOSM](https://github.com/MapColonies/microcOSM)
-2. ❗️ Closed issue [#24](https://github.com/MapColonies/microcOSM/issues/24) in [MapColonies/microcOSM](https://github.com/MapColonies/microcOSM)
-3. ❗️ Closed issue [#23](https://github.com/MapColonies/microcOSM/issues/23) in [MapColonies/microcOSM](https://github.com/MapColonies/microcOSM)
-4. 🗣 Commented on [#4245](https://github.com/gravitystorm/openstreetmap-carto/issues/4245) in [gravitystorm/openstreetmap-carto](https://github.com/gravitystorm/openstreetmap-carto)
-5. ❗️ Closed issue [#2](https://github.com/MapColonies/conflict-resolution/issues/2) in [MapColonies/conflict-resolution](https://github.com/MapColonies/conflict-resolution)
+1. ❗️ Opened issue [#42](https://github.com/MapColonies/microcOSM/issues/42) in [MapColonies/microcOSM](https://github.com/MapColonies/microcOSM)
+2. 💪 Opened PR [#41](https://github.com/MapColonies/microcOSM/pull/41) in [MapColonies/microcOSM](https://github.com/MapColonies/microcOSM)
+3. 🎉 Merged PR [#40](https://github.com/MapColonies/microcOSM/pull/40) in [MapColonies/microcOSM](https://github.com/MapColonies/microcOSM)
+4. ❗️ Closed issue [#24](https://github.com/MapColonies/microcOSM/issues/24) in [MapColonies/microcOSM](https://github.com/MapColonies/microcOSM)
+5. ❗️ Closed issue [#23](https://github.com/MapColonies/microcOSM/issues/23) in [MapColonies/microcOSM](https://github.com/MapColonies/microcOSM)
 <!--END_SECTION:activity-->
