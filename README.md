@@ -23,9 +23,9 @@ Check out my first npm package: [slack-emojis](https://www.npmjs.com/package/sla
 
 ## Recent Acitivty
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#69](https://github.com/MapColonies/shared-components/pull/69) in [MapColonies/shared-components](https://github.com/MapColonies/shared-components)
-2. ❗️ Closed issue [#55](https://github.com/MapColonies/shared-components/issues/55) in [MapColonies/shared-components](https://github.com/MapColonies/shared-components)
-3. 🎉 Merged PR [#41](https://github.com/MapColonies/microcOSM/pull/41) in [MapColonies/microcOSM](https://github.com/MapColonies/microcOSM)
-4. 🗣 Commented on [#27](https://github.com/MapColonies/microcOSM/issues/27) in [MapColonies/microcOSM](https://github.com/MapColonies/microcOSM)
-5. ❗️ Opened issue [#42](https://github.com/MapColonies/microcOSM/issues/42) in [MapColonies/microcOSM](https://github.com/MapColonies/microcOSM)
+1. ❗️ Opened issue [#49](https://github.com/MapColonies/microcOSM/issues/49) in [MapColonies/microcOSM](https://github.com/MapColonies/microcOSM)
+2. ❗️ Opened issue [#48](https://github.com/MapColonies/microcOSM/issues/48) in [MapColonies/microcOSM](https://github.com/MapColonies/microcOSM)
+3. ❗️ Opened issue [#47](https://github.com/MapColonies/microcOSM/issues/47) in [MapColonies/microcOSM](https://github.com/MapColonies/microcOSM)
+4. ❗️ Opened issue [#46](https://github.com/MapColonies/microcOSM/issues/46) in [MapColonies/microcOSM](https://github.com/MapColonies/microcOSM)
+5. 🎉 Merged PR [#69](https://github.com/MapColonies/shared-components/pull/69) in [MapColonies/shared-components](https://github.com/MapColonies/shared-components)
 <!--END_SECTION:activity-->
