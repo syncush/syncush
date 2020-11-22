@@ -23,9 +23,9 @@ Check out my first npm package: [slack-emojis](https://www.npmjs.com/package/sla
 
 ## Recent Acitivty
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#43](https://github.com/MapColonies/microcOSM/pull/43) in [MapColonies/microcOSM](https://github.com/MapColonies/microcOSM)
-2. ❗️ Closed issue [#3](https://github.com/MapColonies/microcOSM/issues/3) in [MapColonies/microcOSM](https://github.com/MapColonies/microcOSM)
-3. ❗️ Opened issue [#49](https://github.com/MapColonies/microcOSM/issues/49) in [MapColonies/microcOSM](https://github.com/MapColonies/microcOSM)
-4. ❗️ Opened issue [#48](https://github.com/MapColonies/microcOSM/issues/48) in [MapColonies/microcOSM](https://github.com/MapColonies/microcOSM)
-5. ❗️ Opened issue [#47](https://github.com/MapColonies/microcOSM/issues/47) in [MapColonies/microcOSM](https://github.com/MapColonies/microcOSM)
+1. ❗️ Opened issue [#4](https://github.com/MapColonies/node-osm-api/issues/4) in [MapColonies/node-osm-api](https://github.com/MapColonies/node-osm-api)
+2. ❗️ Opened issue [#3](https://github.com/MapColonies/node-osm-api/issues/3) in [MapColonies/node-osm-api](https://github.com/MapColonies/node-osm-api)
+3. ❗️ Opened issue [#2](https://github.com/MapColonies/node-osm-api/issues/2) in [MapColonies/node-osm-api](https://github.com/MapColonies/node-osm-api)
+4. ❗️ Opened issue [#1](https://github.com/MapColonies/node-osm-api/issues/1) in [MapColonies/node-osm-api](https://github.com/MapColonies/node-osm-api)
+5. ❗️ Opened issue [#50](https://github.com/MapColonies/microcOSM/issues/50) in [MapColonies/microcOSM](https://github.com/MapColonies/microcOSM)
 <!--END_SECTION:activity-->
