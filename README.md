@@ -23,9 +23,9 @@ Check out my first npm package: [slack-emojis](https://www.npmjs.com/package/sla
 
 ## Recent Acitivty
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#55](https://github.com/MapColonies/microcOSM/pull/55) in [MapColonies/microcOSM](https://github.com/MapColonies/microcOSM)
-2. 🎉 Merged PR [#3](https://github.com/MapColonies/CIA/pull/3) in [MapColonies/CIA](https://github.com/MapColonies/CIA)
-3. ❗️ Closed issue [#1](https://github.com/MapColonies/CIA/issues/1) in [MapColonies/CIA](https://github.com/MapColonies/CIA)
-4. ❗️ Opened issue [#4](https://github.com/MapColonies/node-osm-api/issues/4) in [MapColonies/node-osm-api](https://github.com/MapColonies/node-osm-api)
-5. ❗️ Opened issue [#3](https://github.com/MapColonies/node-osm-api/issues/3) in [MapColonies/node-osm-api](https://github.com/MapColonies/node-osm-api)
+1. ❗️ Opened issue [#7](https://github.com/MapColonies/CIA/issues/7) in [MapColonies/CIA](https://github.com/MapColonies/CIA)
+2. ❗️ Opened issue [#6](https://github.com/MapColonies/CIA/issues/6) in [MapColonies/CIA](https://github.com/MapColonies/CIA)
+3. ❗️ Opened issue [#5](https://github.com/MapColonies/CIA/issues/5) in [MapColonies/CIA](https://github.com/MapColonies/CIA)
+4. ❗️ Opened issue [#4](https://github.com/MapColonies/CIA/issues/4) in [MapColonies/CIA](https://github.com/MapColonies/CIA)
+5. 💪 Opened PR [#55](https://github.com/MapColonies/microcOSM/pull/55) in [MapColonies/microcOSM](https://github.com/MapColonies/microcOSM)
 <!--END_SECTION:activity-->
