@@ -23,9 +23,9 @@ Check out my first npm package: [slack-emojis](https://www.npmjs.com/package/sla
 
 ## Recent Acitivty
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#53](https://github.com/Zooz/predator-runner/pull/53) in [Zooz/predator-runner](https://github.com/Zooz/predator-runner)
-2. ❗️ Opened issue [#84](https://github.com/MapColonies/microcOSM/issues/84) in [MapColonies/microcOSM](https://github.com/MapColonies/microcOSM)
-3. 🗣 Commented on [#22](https://github.com/MapColonies/node-osm-api/issues/22) in [MapColonies/node-osm-api](https://github.com/MapColonies/node-osm-api)
-4. ❌ Closed PR [#22](https://github.com/MapColonies/node-osm-api/pull/22) in [MapColonies/node-osm-api](https://github.com/MapColonies/node-osm-api)
-5. 🗣 Commented on [#549](https://github.com/Zooz/predator/issues/549) in [Zooz/predator](https://github.com/Zooz/predator)
+1. 🎉 Merged PR [#83](https://github.com/MapColonies/microcOSM/pull/83) in [MapColonies/microcOSM](https://github.com/MapColonies/microcOSM)
+2. 🎉 Merged PR [#11](https://github.com/MapColonies/node-osm-elements/pull/11) in [MapColonies/node-osm-elements](https://github.com/MapColonies/node-osm-elements)
+3. 💪 Opened PR [#53](https://github.com/Zooz/predator-runner/pull/53) in [Zooz/predator-runner](https://github.com/Zooz/predator-runner)
+4. ❗️ Opened issue [#84](https://github.com/MapColonies/microcOSM/issues/84) in [MapColonies/microcOSM](https://github.com/MapColonies/microcOSM)
+5. 🗣 Commented on [#22](https://github.com/MapColonies/node-osm-api/issues/22) in [MapColonies/node-osm-api](https://github.com/MapColonies/node-osm-api)
 <!--END_SECTION:activity-->
