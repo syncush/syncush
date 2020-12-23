@@ -23,9 +23,9 @@ Check out my first npm package: [slack-emojis](https://www.npmjs.com/package/sla
 
 ## Recent Acitivty
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#7](https://github.com/MapColonies/id-2-osm/issues/7) in [MapColonies/id-2-osm](https://github.com/MapColonies/id-2-osm)
-2. ❗️ Opened issue [#6](https://github.com/MapColonies/id-2-osm/issues/6) in [MapColonies/id-2-osm](https://github.com/MapColonies/id-2-osm)
-3. ❗️ Opened issue [#5](https://github.com/MapColonies/id-2-osm/issues/5) in [MapColonies/id-2-osm](https://github.com/MapColonies/id-2-osm)
-4. ❗️ Opened issue [#4](https://github.com/MapColonies/id-2-osm/issues/4) in [MapColonies/id-2-osm](https://github.com/MapColonies/id-2-osm)
-5. 🎉 Merged PR [#3](https://github.com/MapColonies/id-2-osm/pull/3) in [MapColonies/id-2-osm](https://github.com/MapColonies/id-2-osm)
+1. ❗️ Closed issue [#1](https://github.com/MapColonies/node-osm-elements/issues/1) in [MapColonies/node-osm-elements](https://github.com/MapColonies/node-osm-elements)
+2. ❗️ Closed issue [#2](https://github.com/MapColonies/node-osm-elements/issues/2) in [MapColonies/node-osm-elements](https://github.com/MapColonies/node-osm-elements)
+3. ❗️ Closed issue [#3](https://github.com/MapColonies/node-osm-elements/issues/3) in [MapColonies/node-osm-elements](https://github.com/MapColonies/node-osm-elements)
+4. ❗️ Closed issue [#4](https://github.com/MapColonies/node-osm-elements/issues/4) in [MapColonies/node-osm-elements](https://github.com/MapColonies/node-osm-elements)
+5. ❗️ Closed issue [#5](https://github.com/MapColonies/node-osm-elements/issues/5) in [MapColonies/node-osm-elements](https://github.com/MapColonies/node-osm-elements)
 <!--END_SECTION:activity-->
