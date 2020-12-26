@@ -23,9 +23,9 @@ Check out my first npm package: [slack-emojis](https://www.npmjs.com/package/sla
 
 ## Recent Acitivty
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/nwestfall/openapi-action/pull/1) in [nwestfall/openapi-action](https://github.com/nwestfall/openapi-action)
-2. 🎉 Merged PR [#12](https://github.com/MapColonies/external-to-osm-tag-mapping/pull/12) in [MapColonies/external-to-osm-tag-mapping](https://github.com/MapColonies/external-to-osm-tag-mapping)
-3. 🎉 Merged PR [#15](https://github.com/MapColonies/external-to-osm-tag-mapping/pull/15) in [MapColonies/external-to-osm-tag-mapping](https://github.com/MapColonies/external-to-osm-tag-mapping)
-4. 🎉 Merged PR [#17](https://github.com/MapColonies/external-to-osm-tag-mapping/pull/17) in [MapColonies/external-to-osm-tag-mapping](https://github.com/MapColonies/external-to-osm-tag-mapping)
-5. 🎉 Merged PR [#14](https://github.com/MapColonies/external-to-osm-tag-mapping/pull/14) in [MapColonies/external-to-osm-tag-mapping](https://github.com/MapColonies/external-to-osm-tag-mapping)
+1. 🗣 Commented on [#12278](https://github.com/storybookjs/storybook/issues/12278) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
+2. 💪 Opened PR [#1](https://github.com/nwestfall/openapi-action/pull/1) in [nwestfall/openapi-action](https://github.com/nwestfall/openapi-action)
+3. 🎉 Merged PR [#12](https://github.com/MapColonies/external-to-osm-tag-mapping/pull/12) in [MapColonies/external-to-osm-tag-mapping](https://github.com/MapColonies/external-to-osm-tag-mapping)
+4. 🎉 Merged PR [#15](https://github.com/MapColonies/external-to-osm-tag-mapping/pull/15) in [MapColonies/external-to-osm-tag-mapping](https://github.com/MapColonies/external-to-osm-tag-mapping)
+5. 🎉 Merged PR [#17](https://github.com/MapColonies/external-to-osm-tag-mapping/pull/17) in [MapColonies/external-to-osm-tag-mapping](https://github.com/MapColonies/external-to-osm-tag-mapping)
 <!--END_SECTION:activity-->
