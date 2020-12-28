@@ -23,9 +23,9 @@ Check out my first npm package: [slack-emojis](https://www.npmjs.com/package/sla
 
 ## Recent Acitivty
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/MapColonies/avi-and-ofer-forever/pull/1) in [MapColonies/avi-and-ofer-forever](https://github.com/MapColonies/avi-and-ofer-forever)
-2. 🎉 Merged PR [#1](https://github.com/MapColonies/temp/pull/1) in [MapColonies/temp](https://github.com/MapColonies/temp)
-3. 🎉 Merged PR [#2](https://github.com/MapColonies/temp/pull/2) in [MapColonies/temp](https://github.com/MapColonies/temp)
-4. 🎉 Merged PR [#4](https://github.com/MapColonies/temp/pull/4) in [MapColonies/temp](https://github.com/MapColonies/temp)
-5. 🎉 Merged PR [#3](https://github.com/MapColonies/temp/pull/3) in [MapColonies/temp](https://github.com/MapColonies/temp)
+1. ❗️ Opened issue [#7](https://github.com/MapColonies/ts-server-boilerplate/issues/7) in [MapColonies/ts-server-boilerplate](https://github.com/MapColonies/ts-server-boilerplate)
+2. ❗️ Opened issue [#6](https://github.com/MapColonies/ts-server-boilerplate/issues/6) in [MapColonies/ts-server-boilerplate](https://github.com/MapColonies/ts-server-boilerplate)
+3. 💪 Opened PR [#1](https://github.com/MapColonies/avi-and-ofer-forever/pull/1) in [MapColonies/avi-and-ofer-forever](https://github.com/MapColonies/avi-and-ofer-forever)
+4. 🎉 Merged PR [#1](https://github.com/MapColonies/temp/pull/1) in [MapColonies/temp](https://github.com/MapColonies/temp)
+5. 🎉 Merged PR [#2](https://github.com/MapColonies/temp/pull/2) in [MapColonies/temp](https://github.com/MapColonies/temp)
 <!--END_SECTION:activity-->
