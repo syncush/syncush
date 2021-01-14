@@ -23,9 +23,9 @@ Check out my first npm package: [slack-emojis](https://www.npmjs.com/package/sla
 
 ## Recent Acitivty
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5](https://github.com/MapColonies/external-to-geojson/pull/5) in [MapColonies/external-to-geojson](https://github.com/MapColonies/external-to-geojson)
-2. ❗️ Opened issue [#13](https://github.com/MapColonies/eslint-config/issues/13) in [MapColonies/eslint-config](https://github.com/MapColonies/eslint-config)
-3. ❌ Closed PR [#10](https://github.com/MapColonies/eslint-config/pull/10) in [MapColonies/eslint-config](https://github.com/MapColonies/eslint-config)
-4. 🎉 Merged PR [#19](https://github.com/MapColonies/external-to-osm-tag-mapping/pull/19) in [MapColonies/external-to-osm-tag-mapping](https://github.com/MapColonies/external-to-osm-tag-mapping)
-5. 🎉 Merged PR [#16](https://github.com/MapColonies/ts-server-boilerplate/pull/16) in [MapColonies/ts-server-boilerplate](https://github.com/MapColonies/ts-server-boilerplate)
+1. 🗣 Commented on [#4](https://github.com/MapColonies/osm-change-generator/issues/4) in [MapColonies/osm-change-generator](https://github.com/MapColonies/osm-change-generator)
+2. 💪 Opened PR [#5](https://github.com/MapColonies/external-to-geojson/pull/5) in [MapColonies/external-to-geojson](https://github.com/MapColonies/external-to-geojson)
+3. ❗️ Opened issue [#13](https://github.com/MapColonies/eslint-config/issues/13) in [MapColonies/eslint-config](https://github.com/MapColonies/eslint-config)
+4. ❌ Closed PR [#10](https://github.com/MapColonies/eslint-config/pull/10) in [MapColonies/eslint-config](https://github.com/MapColonies/eslint-config)
+5. 🎉 Merged PR [#19](https://github.com/MapColonies/external-to-osm-tag-mapping/pull/19) in [MapColonies/external-to-osm-tag-mapping](https://github.com/MapColonies/external-to-osm-tag-mapping)
 <!--END_SECTION:activity-->
