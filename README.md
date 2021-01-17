@@ -23,9 +23,9 @@ Check out my first npm package: [slack-emojis](https://www.npmjs.com/package/sla
 
 ## Recent Acitivty
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#18](https://github.com/MapColonies/ts-server-boilerplate/issues/18) in [MapColonies/ts-server-boilerplate](https://github.com/MapColonies/ts-server-boilerplate)
-2. 🗣 Commented on [#18](https://github.com/MapColonies/ts-server-boilerplate/issues/18) in [MapColonies/ts-server-boilerplate](https://github.com/MapColonies/ts-server-boilerplate)
-3. ❌ Closed PR [#17](https://github.com/MapColonies/ts-server-boilerplate/pull/17) in [MapColonies/ts-server-boilerplate](https://github.com/MapColonies/ts-server-boilerplate)
-4. ❗️ Opened issue [#18](https://github.com/MapColonies/ts-server-boilerplate/issues/18) in [MapColonies/ts-server-boilerplate](https://github.com/MapColonies/ts-server-boilerplate)
-5. ❗️ Closed issue [#13](https://github.com/MapColonies/eslint-config/issues/13) in [MapColonies/eslint-config](https://github.com/MapColonies/eslint-config)
+1. 🎉 Merged PR [#4](https://github.com/MapColonies/osm-change-generator/pull/4) in [MapColonies/osm-change-generator](https://github.com/MapColonies/osm-change-generator)
+2. ❗️ Closed issue [#1](https://github.com/MapColonies/osm-change-generator/issues/1) in [MapColonies/osm-change-generator](https://github.com/MapColonies/osm-change-generator)
+3. ❗️ Closed issue [#18](https://github.com/MapColonies/ts-server-boilerplate/issues/18) in [MapColonies/ts-server-boilerplate](https://github.com/MapColonies/ts-server-boilerplate)
+4. 🗣 Commented on [#18](https://github.com/MapColonies/ts-server-boilerplate/issues/18) in [MapColonies/ts-server-boilerplate](https://github.com/MapColonies/ts-server-boilerplate)
+5. ❌ Closed PR [#17](https://github.com/MapColonies/ts-server-boilerplate/pull/17) in [MapColonies/ts-server-boilerplate](https://github.com/MapColonies/ts-server-boilerplate)
 <!--END_SECTION:activity-->
