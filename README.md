@@ -23,9 +23,9 @@ Check out my first npm package: [slack-emojis](https://www.npmjs.com/package/sla
 
 ## Recent Acitivty
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com/MapColonies/osm-change-generator-server/issues/2) in [MapColonies/osm-change-generator-server](https://github.com/MapColonies/osm-change-generator-server)
-2. ❗️ Opened issue [#1](https://github.com/MapColonies/osm-change-generator-server/issues/1) in [MapColonies/osm-change-generator-server](https://github.com/MapColonies/osm-change-generator-server)
-3. 🎉 Merged PR [#4](https://github.com/MapColonies/osm-change-generator/pull/4) in [MapColonies/osm-change-generator](https://github.com/MapColonies/osm-change-generator)
-4. ❗️ Closed issue [#1](https://github.com/MapColonies/osm-change-generator/issues/1) in [MapColonies/osm-change-generator](https://github.com/MapColonies/osm-change-generator)
-5. ❗️ Closed issue [#18](https://github.com/MapColonies/ts-server-boilerplate/issues/18) in [MapColonies/ts-server-boilerplate](https://github.com/MapColonies/ts-server-boilerplate)
+1. ❗️ Closed issue [#1](https://github.com/MapColonies/external-to-osm-tag-mapping/issues/1) in [MapColonies/external-to-osm-tag-mapping](https://github.com/MapColonies/external-to-osm-tag-mapping)
+2. 🗣 Commented on [#1](https://github.com/MapColonies/external-to-osm-tag-mapping/issues/1) in [MapColonies/external-to-osm-tag-mapping](https://github.com/MapColonies/external-to-osm-tag-mapping)
+3. ❗️ Closed issue [#4](https://github.com/MapColonies/external-to-osm-tag-mapping/issues/4) in [MapColonies/external-to-osm-tag-mapping](https://github.com/MapColonies/external-to-osm-tag-mapping)
+4. 🎉 Merged PR [#20](https://github.com/MapColonies/external-to-osm-tag-mapping/pull/20) in [MapColonies/external-to-osm-tag-mapping](https://github.com/MapColonies/external-to-osm-tag-mapping)
+5. ❗️ Opened issue [#2](https://github.com/MapColonies/osm-change-generator-server/issues/2) in [MapColonies/osm-change-generator-server](https://github.com/MapColonies/osm-change-generator-server)
 <!--END_SECTION:activity-->
