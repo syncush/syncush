@@ -23,9 +23,9 @@ Check out my first npm package: [slack-emojis](https://www.npmjs.com/package/sla
 
 ## Recent Acitivty
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#23](https://github.com/MapColonies/id-2-osm/pull/23) in [MapColonies/id-2-osm](https://github.com/MapColonies/id-2-osm)
-2. 🎉 Merged PR [#8](https://github.com/MapColonies/osm-change-generator/pull/8) in [MapColonies/osm-change-generator](https://github.com/MapColonies/osm-change-generator)
-3. ❗️ Closed issue [#6](https://github.com/MapColonies/osm-change-generator/issues/6) in [MapColonies/osm-change-generator](https://github.com/MapColonies/osm-change-generator)
-4. 🎉 Merged PR [#19](https://github.com/MapColonies/id-2-osm/pull/19) in [MapColonies/id-2-osm](https://github.com/MapColonies/id-2-osm)
-5. ❌ Closed PR [#21](https://github.com/MapColonies/id-2-osm/pull/21) in [MapColonies/id-2-osm](https://github.com/MapColonies/id-2-osm)
+1. 🎉 Merged PR [#3](https://github.com/MapColonies/dump-server/pull/3) in [MapColonies/dump-server](https://github.com/MapColonies/dump-server)
+2. ❗️ Closed issue [#1](https://github.com/MapColonies/dump-server/issues/1) in [MapColonies/dump-server](https://github.com/MapColonies/dump-server)
+3. 💪 Opened PR [#23](https://github.com/MapColonies/id-2-osm/pull/23) in [MapColonies/id-2-osm](https://github.com/MapColonies/id-2-osm)
+4. 🎉 Merged PR [#8](https://github.com/MapColonies/osm-change-generator/pull/8) in [MapColonies/osm-change-generator](https://github.com/MapColonies/osm-change-generator)
+5. ❗️ Closed issue [#6](https://github.com/MapColonies/osm-change-generator/issues/6) in [MapColonies/osm-change-generator](https://github.com/MapColonies/osm-change-generator)
 <!--END_SECTION:activity-->
