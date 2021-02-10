@@ -23,9 +23,9 @@ Check out my first npm package: [slack-emojis](https://www.npmjs.com/package/sla
 
 ## Recent Acitivty
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1204](https://github.com/geostyler/geostyler/issues/1204) in [geostyler/geostyler](https://github.com/geostyler/geostyler)
-2. 🎉 Merged PR [#24](https://github.com/MapColonies/id-2-osm/pull/24) in [MapColonies/id-2-osm](https://github.com/MapColonies/id-2-osm)
-3. 🎉 Merged PR [#23](https://github.com/MapColonies/id-2-osm/pull/23) in [MapColonies/id-2-osm](https://github.com/MapColonies/id-2-osm)
-4. 🎉 Merged PR [#3](https://github.com/MapColonies/dump-server/pull/3) in [MapColonies/dump-server](https://github.com/MapColonies/dump-server)
-5. ❗️ Closed issue [#1](https://github.com/MapColonies/dump-server/issues/1) in [MapColonies/dump-server](https://github.com/MapColonies/dump-server)
+1. 🎉 Merged PR [#4](https://github.com/MapColonies/dump-server/pull/4) in [MapColonies/dump-server](https://github.com/MapColonies/dump-server)
+2. ❗️ Closed issue [#2](https://github.com/MapColonies/dump-server/issues/2) in [MapColonies/dump-server](https://github.com/MapColonies/dump-server)
+3. 🗣 Commented on [#1204](https://github.com/geostyler/geostyler/issues/1204) in [geostyler/geostyler](https://github.com/geostyler/geostyler)
+4. 🎉 Merged PR [#24](https://github.com/MapColonies/id-2-osm/pull/24) in [MapColonies/id-2-osm](https://github.com/MapColonies/id-2-osm)
+5. 🎉 Merged PR [#23](https://github.com/MapColonies/id-2-osm/pull/23) in [MapColonies/id-2-osm](https://github.com/MapColonies/id-2-osm)
 <!--END_SECTION:activity-->
