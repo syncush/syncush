@@ -23,9 +23,9 @@ Check out my first npm package: [slack-emojis](https://www.npmjs.com/package/sla
 
 ## Recent Acitivty
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/MapColonies/osm-change-generator-server/pull/10) in [MapColonies/osm-change-generator-server](https://github.com/MapColonies/osm-change-generator-server)
-2. ❌ Closed PR [#11](https://github.com/MapColonies/osm-change-generator-server/pull/11) in [MapColonies/osm-change-generator-server](https://github.com/MapColonies/osm-change-generator-server)
-3. 🎉 Merged PR [#12](https://github.com/MapColonies/osm-change-generator-server/pull/12) in [MapColonies/osm-change-generator-server](https://github.com/MapColonies/osm-change-generator-server)
-4. 🎉 Merged PR [#9](https://github.com/MapColonies/osm-change-generator-server/pull/9) in [MapColonies/osm-change-generator-server](https://github.com/MapColonies/osm-change-generator-server)
-5. ❗️ Closed issue [#5](https://github.com/MapColonies/osm-change-generator-server/issues/5) in [MapColonies/osm-change-generator-server](https://github.com/MapColonies/osm-change-generator-server)
+1. 🎉 Merged PR [#13](https://github.com/MapColonies/osm-change-generator-server/pull/13) in [MapColonies/osm-change-generator-server](https://github.com/MapColonies/osm-change-generator-server)
+2. 🎉 Merged PR [#10](https://github.com/MapColonies/osm-change-generator-server/pull/10) in [MapColonies/osm-change-generator-server](https://github.com/MapColonies/osm-change-generator-server)
+3. ❌ Closed PR [#11](https://github.com/MapColonies/osm-change-generator-server/pull/11) in [MapColonies/osm-change-generator-server](https://github.com/MapColonies/osm-change-generator-server)
+4. 🎉 Merged PR [#12](https://github.com/MapColonies/osm-change-generator-server/pull/12) in [MapColonies/osm-change-generator-server](https://github.com/MapColonies/osm-change-generator-server)
+5. 🎉 Merged PR [#9](https://github.com/MapColonies/osm-change-generator-server/pull/9) in [MapColonies/osm-change-generator-server](https://github.com/MapColonies/osm-change-generator-server)
 <!--END_SECTION:activity-->
