@@ -23,9 +23,9 @@ Check out my first npm package: [slack-emojis](https://www.npmjs.com/package/sla
 
 ## Recent Acitivty
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#8](https://github.com/syncush/report-lint-ignores/pull/8) in [syncush/report-lint-ignores](https://github.com/syncush/report-lint-ignores)
-2. 🎉 Merged PR [#30](https://github.com/MapColonies/id-2-osm/pull/30) in [MapColonies/id-2-osm](https://github.com/MapColonies/id-2-osm)
-3. ❗️ Closed issue [#26](https://github.com/MapColonies/id-2-osm/issues/26) in [MapColonies/id-2-osm](https://github.com/MapColonies/id-2-osm)
-4. 💪 Opened PR [#30](https://github.com/MapColonies/id-2-osm/pull/30) in [MapColonies/id-2-osm](https://github.com/MapColonies/id-2-osm)
-5. 🎉 Merged PR [#28](https://github.com/MapColonies/id-2-osm/pull/28) in [MapColonies/id-2-osm](https://github.com/MapColonies/id-2-osm)
+1. 💪 Opened PR [#46](https://github.com/MapColonies/ts-server-boilerplate/pull/46) in [MapColonies/ts-server-boilerplate](https://github.com/MapColonies/ts-server-boilerplate)
+2. ❌ Closed PR [#8](https://github.com/syncush/report-lint-ignores/pull/8) in [syncush/report-lint-ignores](https://github.com/syncush/report-lint-ignores)
+3. 🎉 Merged PR [#30](https://github.com/MapColonies/id-2-osm/pull/30) in [MapColonies/id-2-osm](https://github.com/MapColonies/id-2-osm)
+4. ❗️ Closed issue [#26](https://github.com/MapColonies/id-2-osm/issues/26) in [MapColonies/id-2-osm](https://github.com/MapColonies/id-2-osm)
+5. 💪 Opened PR [#30](https://github.com/MapColonies/id-2-osm/pull/30) in [MapColonies/id-2-osm](https://github.com/MapColonies/id-2-osm)
 <!--END_SECTION:activity-->
