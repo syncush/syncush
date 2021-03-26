@@ -23,9 +23,9 @@ Check out my first npm package: [slack-emojis](https://www.npmjs.com/package/sla
 
 ## Recent Acitivty
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/MapColonies/planet-dumper/pull/7) in [MapColonies/planet-dumper](https://github.com/MapColonies/planet-dumper)
-2. ❗️ Closed issue [#6](https://github.com/MapColonies/planet-dumper/issues/6) in [MapColonies/planet-dumper](https://github.com/MapColonies/planet-dumper)
-3. ❗️ Closed issue [#15](https://github.com/MapColonies/dump-server/issues/15) in [MapColonies/dump-server](https://github.com/MapColonies/dump-server)
-4. 🗣 Commented on [#15](https://github.com/MapColonies/dump-server/issues/15) in [MapColonies/dump-server](https://github.com/MapColonies/dump-server)
-5. 🎉 Merged PR [#17](https://github.com/MapColonies/dump-server/pull/17) in [MapColonies/dump-server](https://github.com/MapColonies/dump-server)
+1. 🎉 Merged PR [#8](https://github.com/MapColonies/planet-dumper/pull/8) in [MapColonies/planet-dumper](https://github.com/MapColonies/planet-dumper)
+2. 🎉 Merged PR [#7](https://github.com/MapColonies/planet-dumper/pull/7) in [MapColonies/planet-dumper](https://github.com/MapColonies/planet-dumper)
+3. ❗️ Closed issue [#6](https://github.com/MapColonies/planet-dumper/issues/6) in [MapColonies/planet-dumper](https://github.com/MapColonies/planet-dumper)
+4. ❗️ Closed issue [#15](https://github.com/MapColonies/dump-server/issues/15) in [MapColonies/dump-server](https://github.com/MapColonies/dump-server)
+5. 🗣 Commented on [#15](https://github.com/MapColonies/dump-server/issues/15) in [MapColonies/dump-server](https://github.com/MapColonies/dump-server)
 <!--END_SECTION:activity-->
