@@ -23,9 +23,9 @@ Check out my first npm package: [slack-emojis](https://www.npmjs.com/package/sla
 
 ## Recent Acitivty
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/MapColonies/planet-dumper/pull/8) in [MapColonies/planet-dumper](https://github.com/MapColonies/planet-dumper)
-2. 🎉 Merged PR [#7](https://github.com/MapColonies/planet-dumper/pull/7) in [MapColonies/planet-dumper](https://github.com/MapColonies/planet-dumper)
-3. ❗️ Closed issue [#6](https://github.com/MapColonies/planet-dumper/issues/6) in [MapColonies/planet-dumper](https://github.com/MapColonies/planet-dumper)
-4. ❗️ Closed issue [#15](https://github.com/MapColonies/dump-server/issues/15) in [MapColonies/dump-server](https://github.com/MapColonies/dump-server)
-5. 🗣 Commented on [#15](https://github.com/MapColonies/dump-server/issues/15) in [MapColonies/dump-server](https://github.com/MapColonies/dump-server)
+1. ❌ Closed PR [#52](https://github.com/MapColonies/work-standard/pull/52) in [MapColonies/work-standard](https://github.com/MapColonies/work-standard)
+2. ❌ Closed PR [#51](https://github.com/MapColonies/work-standard/pull/51) in [MapColonies/work-standard](https://github.com/MapColonies/work-standard)
+3. ❌ Closed PR [#50](https://github.com/MapColonies/work-standard/pull/50) in [MapColonies/work-standard](https://github.com/MapColonies/work-standard)
+4. ❌ Closed PR [#49](https://github.com/MapColonies/work-standard/pull/49) in [MapColonies/work-standard](https://github.com/MapColonies/work-standard)
+5. ❌ Closed PR [#48](https://github.com/MapColonies/work-standard/pull/48) in [MapColonies/work-standard](https://github.com/MapColonies/work-standard)
 <!--END_SECTION:activity-->
