@@ -1,6 +1,6 @@
 ## Hi there! 👋
 <p>
-  <img src="https://imgur.com/I9Z218W.png" />
+  <img src="https://i.imgur.com/agb7xe9.png" />
 </p>
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=syncush&theme=tokyonight">
