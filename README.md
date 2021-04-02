@@ -1,5 +1,7 @@
 ## Hi there! 👋
-
+<p>
+  <img src="https://imgur.com/I9Z218W.png" />
+</p>
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=syncush&theme=tokyonight">
 </p>
