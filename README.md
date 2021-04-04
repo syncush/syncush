@@ -25,9 +25,9 @@ Check out my first npm package: [slack-emojis](https://www.npmjs.com/package/sla
 
 ## Recent Acitivty
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#52](https://github.com/MapColonies/work-standard/pull/52) in [MapColonies/work-standard](https://github.com/MapColonies/work-standard)
-2. ❌ Closed PR [#51](https://github.com/MapColonies/work-standard/pull/51) in [MapColonies/work-standard](https://github.com/MapColonies/work-standard)
-3. ❌ Closed PR [#50](https://github.com/MapColonies/work-standard/pull/50) in [MapColonies/work-standard](https://github.com/MapColonies/work-standard)
-4. ❌ Closed PR [#49](https://github.com/MapColonies/work-standard/pull/49) in [MapColonies/work-standard](https://github.com/MapColonies/work-standard)
-5. ❌ Closed PR [#48](https://github.com/MapColonies/work-standard/pull/48) in [MapColonies/work-standard](https://github.com/MapColonies/work-standard)
+1. 🎉 Merged PR [#45](https://github.com/MapColonies/id-2-osm/pull/45) in [MapColonies/id-2-osm](https://github.com/MapColonies/id-2-osm)
+2. 🎉 Merged PR [#44](https://github.com/MapColonies/id-2-osm/pull/44) in [MapColonies/id-2-osm](https://github.com/MapColonies/id-2-osm)
+3. 🎉 Merged PR [#19](https://github.com/MapColonies/external-to-geojson/pull/19) in [MapColonies/external-to-geojson](https://github.com/MapColonies/external-to-geojson)
+4. 🎉 Merged PR [#41](https://github.com/MapColonies/external-to-osm-tag-mapping/pull/41) in [MapColonies/external-to-osm-tag-mapping](https://github.com/MapColonies/external-to-osm-tag-mapping)
+5. 🎉 Merged PR [#40](https://github.com/MapColonies/external-to-osm-tag-mapping/pull/40) in [MapColonies/external-to-osm-tag-mapping](https://github.com/MapColonies/external-to-osm-tag-mapping)
 <!--END_SECTION:activity-->
