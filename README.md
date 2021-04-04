@@ -25,9 +25,9 @@ Check out my first npm package: [slack-emojis](https://www.npmjs.com/package/sla
 
 ## Recent Acitivty
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#45](https://github.com/MapColonies/id-2-osm/pull/45) in [MapColonies/id-2-osm](https://github.com/MapColonies/id-2-osm)
-2. 🎉 Merged PR [#44](https://github.com/MapColonies/id-2-osm/pull/44) in [MapColonies/id-2-osm](https://github.com/MapColonies/id-2-osm)
-3. 🎉 Merged PR [#19](https://github.com/MapColonies/external-to-geojson/pull/19) in [MapColonies/external-to-geojson](https://github.com/MapColonies/external-to-geojson)
-4. 🎉 Merged PR [#41](https://github.com/MapColonies/external-to-osm-tag-mapping/pull/41) in [MapColonies/external-to-osm-tag-mapping](https://github.com/MapColonies/external-to-osm-tag-mapping)
-5. 🎉 Merged PR [#40](https://github.com/MapColonies/external-to-osm-tag-mapping/pull/40) in [MapColonies/external-to-osm-tag-mapping](https://github.com/MapColonies/external-to-osm-tag-mapping)
+1. 🎉 Merged PR [#23](https://github.com/MapColonies/osm-change-generator-server/pull/23) in [MapColonies/osm-change-generator-server](https://github.com/MapColonies/osm-change-generator-server)
+2. 🎉 Merged PR [#22](https://github.com/MapColonies/osm-change-generator-server/pull/22) in [MapColonies/osm-change-generator-server](https://github.com/MapColonies/osm-change-generator-server)
+3. 🎉 Merged PR [#14](https://github.com/MapColonies/id-merger/pull/14) in [MapColonies/id-merger](https://github.com/MapColonies/id-merger)
+4. 🎉 Merged PR [#13](https://github.com/MapColonies/id-merger/pull/13) in [MapColonies/id-merger](https://github.com/MapColonies/id-merger)
+5. 🎉 Merged PR [#45](https://github.com/MapColonies/id-2-osm/pull/45) in [MapColonies/id-2-osm](https://github.com/MapColonies/id-2-osm)
 <!--END_SECTION:activity-->
