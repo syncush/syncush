@@ -25,9 +25,9 @@ Check out my first npm package: [slack-emojis](https://www.npmjs.com/package/sla
 
 ## Recent Acitivty
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/MapColonies/js-logger/pull/2) in [MapColonies/js-logger](https://github.com/MapColonies/js-logger)
-2. ❌ Closed PR [#98](https://github.com/MapColonies/microcOSM/pull/98) in [MapColonies/microcOSM](https://github.com/MapColonies/microcOSM)
-3. ❌ Closed PR [#96](https://github.com/MapColonies/microcOSM/pull/96) in [MapColonies/microcOSM](https://github.com/MapColonies/microcOSM)
-4. ❌ Closed PR [#97](https://github.com/MapColonies/microcOSM/pull/97) in [MapColonies/microcOSM](https://github.com/MapColonies/microcOSM)
-5. 🎉 Merged PR [#1](https://github.com/MapColonies/js-logger/pull/1) in [MapColonies/js-logger](https://github.com/MapColonies/js-logger)
+1. ❌ Closed PR [#104](https://github.com/MapColonies/microcOSM/pull/104) in [MapColonies/microcOSM](https://github.com/MapColonies/microcOSM)
+2. 🎉 Merged PR [#4](https://github.com/MapColonies/js-logger/pull/4) in [MapColonies/js-logger](https://github.com/MapColonies/js-logger)
+3. 💪 Opened PR [#4](https://github.com/MapColonies/js-logger/pull/4) in [MapColonies/js-logger](https://github.com/MapColonies/js-logger)
+4. ❌ Closed PR [#3](https://github.com/MapColonies/js-logger/pull/3) in [MapColonies/js-logger](https://github.com/MapColonies/js-logger)
+5. 💪 Opened PR [#3](https://github.com/MapColonies/js-logger/pull/3) in [MapColonies/js-logger](https://github.com/MapColonies/js-logger)
 <!--END_SECTION:activity-->
