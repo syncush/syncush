@@ -25,9 +25,9 @@ Check out my first npm package: [slack-emojis](https://www.npmjs.com/package/sla
 
 ## Recent Acitivty
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#15](https://github.com/MapColonies/id-merger/pull/15) in [MapColonies/id-merger](https://github.com/MapColonies/id-merger)
-2. 🎉 Merged PR [#27](https://github.com/MapColonies/change-merger/pull/27) in [MapColonies/change-merger](https://github.com/MapColonies/change-merger)
-3. ❌ Closed PR [#24](https://github.com/MapColonies/osm-change-generator-server/pull/24) in [MapColonies/osm-change-generator-server](https://github.com/MapColonies/osm-change-generator-server)
-4. ❌ Closed PR [#42](https://github.com/MapColonies/external-to-osm-tag-mapping/pull/42) in [MapColonies/external-to-osm-tag-mapping](https://github.com/MapColonies/external-to-osm-tag-mapping)
-5. 🎉 Merged PR [#57](https://github.com/MapColonies/ts-server-boilerplate/pull/57) in [MapColonies/ts-server-boilerplate](https://github.com/MapColonies/ts-server-boilerplate)
+1. 💪 Opened PR [#2](https://github.com/MapColonies/js-logger/pull/2) in [MapColonies/js-logger](https://github.com/MapColonies/js-logger)
+2. ❌ Closed PR [#98](https://github.com/MapColonies/microcOSM/pull/98) in [MapColonies/microcOSM](https://github.com/MapColonies/microcOSM)
+3. ❌ Closed PR [#96](https://github.com/MapColonies/microcOSM/pull/96) in [MapColonies/microcOSM](https://github.com/MapColonies/microcOSM)
+4. ❌ Closed PR [#97](https://github.com/MapColonies/microcOSM/pull/97) in [MapColonies/microcOSM](https://github.com/MapColonies/microcOSM)
+5. 🎉 Merged PR [#1](https://github.com/MapColonies/js-logger/pull/1) in [MapColonies/js-logger](https://github.com/MapColonies/js-logger)
 <!--END_SECTION:activity-->
