@@ -25,9 +25,9 @@ Check out my first npm package: [slack-emojis](https://www.npmjs.com/package/sla
 
 ## Recent Acitivty
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#104](https://github.com/MapColonies/microcOSM/pull/104) in [MapColonies/microcOSM](https://github.com/MapColonies/microcOSM)
-2. 🎉 Merged PR [#4](https://github.com/MapColonies/js-logger/pull/4) in [MapColonies/js-logger](https://github.com/MapColonies/js-logger)
-3. 💪 Opened PR [#4](https://github.com/MapColonies/js-logger/pull/4) in [MapColonies/js-logger](https://github.com/MapColonies/js-logger)
-4. ❌ Closed PR [#3](https://github.com/MapColonies/js-logger/pull/3) in [MapColonies/js-logger](https://github.com/MapColonies/js-logger)
-5. 💪 Opened PR [#3](https://github.com/MapColonies/js-logger/pull/3) in [MapColonies/js-logger](https://github.com/MapColonies/js-logger)
+1. 💪 Opened PR [#59](https://github.com/MapColonies/ts-server-boilerplate/pull/59) in [MapColonies/ts-server-boilerplate](https://github.com/MapColonies/ts-server-boilerplate)
+2. 🎉 Merged PR [#2](https://github.com/MapColonies/ts-npm-package-boilerplate/pull/2) in [MapColonies/ts-npm-package-boilerplate](https://github.com/MapColonies/ts-npm-package-boilerplate)
+3. ❌ Closed PR [#104](https://github.com/MapColonies/microcOSM/pull/104) in [MapColonies/microcOSM](https://github.com/MapColonies/microcOSM)
+4. 🎉 Merged PR [#4](https://github.com/MapColonies/js-logger/pull/4) in [MapColonies/js-logger](https://github.com/MapColonies/js-logger)
+5. 💪 Opened PR [#4](https://github.com/MapColonies/js-logger/pull/4) in [MapColonies/js-logger](https://github.com/MapColonies/js-logger)
 <!--END_SECTION:activity-->
