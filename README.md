@@ -25,9 +25,9 @@ Check out my first npm package: [slack-emojis](https://www.npmjs.com/package/sla
 
 ## Recent Acitivty
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#18](https://github.com/MapColonies/id-merger/pull/18) in [MapColonies/id-merger](https://github.com/MapColonies/id-merger)
-2. 🎉 Merged PR [#29](https://github.com/MapColonies/change-merger/pull/29) in [MapColonies/change-merger](https://github.com/MapColonies/change-merger)
-3. 🎉 Merged PR [#48](https://github.com/MapColonies/id-2-osm/pull/48) in [MapColonies/id-2-osm](https://github.com/MapColonies/id-2-osm)
-4. 🎉 Merged PR [#17](https://github.com/MapColonies/id-merger/pull/17) in [MapColonies/id-merger](https://github.com/MapColonies/id-merger)
-5. 🎉 Merged PR [#28](https://github.com/MapColonies/change-merger/pull/28) in [MapColonies/change-merger](https://github.com/MapColonies/change-merger)
+1. 🎉 Merged PR [#27](https://github.com/MapColonies/osm-change-generator-server/pull/27) in [MapColonies/osm-change-generator-server](https://github.com/MapColonies/osm-change-generator-server)
+2. 🎉 Merged PR [#18](https://github.com/MapColonies/id-merger/pull/18) in [MapColonies/id-merger](https://github.com/MapColonies/id-merger)
+3. 🎉 Merged PR [#29](https://github.com/MapColonies/change-merger/pull/29) in [MapColonies/change-merger](https://github.com/MapColonies/change-merger)
+4. 🎉 Merged PR [#48](https://github.com/MapColonies/id-2-osm/pull/48) in [MapColonies/id-2-osm](https://github.com/MapColonies/id-2-osm)
+5. 🎉 Merged PR [#17](https://github.com/MapColonies/id-merger/pull/17) in [MapColonies/id-merger](https://github.com/MapColonies/id-merger)
 <!--END_SECTION:activity-->
