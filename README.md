@@ -25,9 +25,9 @@ Check out my first npm package: [slack-emojis](https://www.npmjs.com/package/sla
 
 ## Recent Acitivty
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#30](https://github.com/MapColonies/osm-change-generator-server/pull/30) in [MapColonies/osm-change-generator-server](https://github.com/MapColonies/osm-change-generator-server)
-2. 🎉 Merged PR [#29](https://github.com/MapColonies/osm-change-generator-server/pull/29) in [MapColonies/osm-change-generator-server](https://github.com/MapColonies/osm-change-generator-server)
-3. 💪 Opened PR [#29](https://github.com/MapColonies/osm-change-generator-server/pull/29) in [MapColonies/osm-change-generator-server](https://github.com/MapColonies/osm-change-generator-server)
-4. 🎉 Merged PR [#47](https://github.com/MapColonies/external-to-osm-tag-mapping/pull/47) in [MapColonies/external-to-osm-tag-mapping](https://github.com/MapColonies/external-to-osm-tag-mapping)
-5. 💪 Opened PR [#47](https://github.com/MapColonies/external-to-osm-tag-mapping/pull/47) in [MapColonies/external-to-osm-tag-mapping](https://github.com/MapColonies/external-to-osm-tag-mapping)
+1. 💪 Opened PR [#49](https://github.com/MapColonies/id-2-osm/pull/49) in [MapColonies/id-2-osm](https://github.com/MapColonies/id-2-osm)
+2. 🎉 Merged PR [#30](https://github.com/MapColonies/osm-change-generator-server/pull/30) in [MapColonies/osm-change-generator-server](https://github.com/MapColonies/osm-change-generator-server)
+3. 💪 Opened PR [#30](https://github.com/MapColonies/osm-change-generator-server/pull/30) in [MapColonies/osm-change-generator-server](https://github.com/MapColonies/osm-change-generator-server)
+4. 🎉 Merged PR [#29](https://github.com/MapColonies/osm-change-generator-server/pull/29) in [MapColonies/osm-change-generator-server](https://github.com/MapColonies/osm-change-generator-server)
+5. 💪 Opened PR [#29](https://github.com/MapColonies/osm-change-generator-server/pull/29) in [MapColonies/osm-change-generator-server](https://github.com/MapColonies/osm-change-generator-server)
 <!--END_SECTION:activity-->
