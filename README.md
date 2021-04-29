@@ -25,9 +25,9 @@ Check out my first npm package: [slack-emojis](https://www.npmjs.com/package/sla
 
 ## Recent Acitivty
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#25](https://github.com/MapColonies/ts-server-boilerplate/issues/25) in [MapColonies/ts-server-boilerplate](https://github.com/MapColonies/ts-server-boilerplate)
-2. 🗣 Commented on [#25](https://github.com/MapColonies/ts-server-boilerplate/issues/25) in [MapColonies/ts-server-boilerplate](https://github.com/MapColonies/ts-server-boilerplate)
-3. ❗️ Closed issue [#37](https://github.com/MapColonies/ts-server-boilerplate/issues/37) in [MapColonies/ts-server-boilerplate](https://github.com/MapColonies/ts-server-boilerplate)
-4. 🗣 Commented on [#37](https://github.com/MapColonies/ts-server-boilerplate/issues/37) in [MapColonies/ts-server-boilerplate](https://github.com/MapColonies/ts-server-boilerplate)
-5. 💪 Opened PR [#73](https://github.com/MapColonies/ts-server-boilerplate/pull/73) in [MapColonies/ts-server-boilerplate](https://github.com/MapColonies/ts-server-boilerplate)
+1. 🎉 Merged PR [#20](https://github.com/MapColonies/telemetry/pull/20) in [MapColonies/telemetry](https://github.com/MapColonies/telemetry)
+2. 💪 Opened PR [#20](https://github.com/MapColonies/telemetry/pull/20) in [MapColonies/telemetry](https://github.com/MapColonies/telemetry)
+3. ❗️ Closed issue [#25](https://github.com/MapColonies/ts-server-boilerplate/issues/25) in [MapColonies/ts-server-boilerplate](https://github.com/MapColonies/ts-server-boilerplate)
+4. 🗣 Commented on [#25](https://github.com/MapColonies/ts-server-boilerplate/issues/25) in [MapColonies/ts-server-boilerplate](https://github.com/MapColonies/ts-server-boilerplate)
+5. ❗️ Closed issue [#37](https://github.com/MapColonies/ts-server-boilerplate/issues/37) in [MapColonies/ts-server-boilerplate](https://github.com/MapColonies/ts-server-boilerplate)
 <!--END_SECTION:activity-->
