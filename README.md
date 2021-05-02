@@ -25,9 +25,9 @@ Check out my first npm package: [slack-emojis](https://www.npmjs.com/package/sla
 
 ## Recent Acitivty
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#51](https://github.com/MapColonies/external-to-osm-tag-mapping/pull/51) in [MapColonies/external-to-osm-tag-mapping](https://github.com/MapColonies/external-to-osm-tag-mapping)
-2. 🎉 Merged PR [#50](https://github.com/MapColonies/external-to-osm-tag-mapping/pull/50) in [MapColonies/external-to-osm-tag-mapping](https://github.com/MapColonies/external-to-osm-tag-mapping)
-3. 🎉 Merged PR [#34](https://github.com/MapColonies/change-merger/pull/34) in [MapColonies/change-merger](https://github.com/MapColonies/change-merger)
-4. 💪 Opened PR [#50](https://github.com/MapColonies/external-to-osm-tag-mapping/pull/50) in [MapColonies/external-to-osm-tag-mapping](https://github.com/MapColonies/external-to-osm-tag-mapping)
-5. 💪 Opened PR [#49](https://github.com/MapColonies/external-to-osm-tag-mapping/pull/49) in [MapColonies/external-to-osm-tag-mapping](https://github.com/MapColonies/external-to-osm-tag-mapping)
+1. 🎉 Merged PR [#51](https://github.com/MapColonies/external-to-osm-tag-mapping/pull/51) in [MapColonies/external-to-osm-tag-mapping](https://github.com/MapColonies/external-to-osm-tag-mapping)
+2. 💪 Opened PR [#51](https://github.com/MapColonies/external-to-osm-tag-mapping/pull/51) in [MapColonies/external-to-osm-tag-mapping](https://github.com/MapColonies/external-to-osm-tag-mapping)
+3. 🎉 Merged PR [#50](https://github.com/MapColonies/external-to-osm-tag-mapping/pull/50) in [MapColonies/external-to-osm-tag-mapping](https://github.com/MapColonies/external-to-osm-tag-mapping)
+4. 🎉 Merged PR [#34](https://github.com/MapColonies/change-merger/pull/34) in [MapColonies/change-merger](https://github.com/MapColonies/change-merger)
+5. 💪 Opened PR [#50](https://github.com/MapColonies/external-to-osm-tag-mapping/pull/50) in [MapColonies/external-to-osm-tag-mapping](https://github.com/MapColonies/external-to-osm-tag-mapping)
 <!--END_SECTION:activity-->
