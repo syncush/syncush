@@ -25,9 +25,9 @@ Check out my first npm package: [slack-emojis](https://www.npmjs.com/package/sla
 
 ## Recent Acitivty
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#52](https://github.com/MapColonies/id-2-osm/pull/52) in [MapColonies/id-2-osm](https://github.com/MapColonies/id-2-osm)
-2. 🎉 Merged PR [#51](https://github.com/MapColonies/external-to-osm-tag-mapping/pull/51) in [MapColonies/external-to-osm-tag-mapping](https://github.com/MapColonies/external-to-osm-tag-mapping)
-3. 💪 Opened PR [#51](https://github.com/MapColonies/external-to-osm-tag-mapping/pull/51) in [MapColonies/external-to-osm-tag-mapping](https://github.com/MapColonies/external-to-osm-tag-mapping)
-4. 🎉 Merged PR [#50](https://github.com/MapColonies/external-to-osm-tag-mapping/pull/50) in [MapColonies/external-to-osm-tag-mapping](https://github.com/MapColonies/external-to-osm-tag-mapping)
-5. 🎉 Merged PR [#34](https://github.com/MapColonies/change-merger/pull/34) in [MapColonies/change-merger](https://github.com/MapColonies/change-merger)
+1. ❗️ Closed issue [#36](https://github.com/MapColonies/ts-server-boilerplate/issues/36) in [MapColonies/ts-server-boilerplate](https://github.com/MapColonies/ts-server-boilerplate)
+2. 🗣 Commented on [#36](https://github.com/MapColonies/ts-server-boilerplate/issues/36) in [MapColonies/ts-server-boilerplate](https://github.com/MapColonies/ts-server-boilerplate)
+3. 🎉 Merged PR [#52](https://github.com/MapColonies/id-2-osm/pull/52) in [MapColonies/id-2-osm](https://github.com/MapColonies/id-2-osm)
+4. 🎉 Merged PR [#51](https://github.com/MapColonies/external-to-osm-tag-mapping/pull/51) in [MapColonies/external-to-osm-tag-mapping](https://github.com/MapColonies/external-to-osm-tag-mapping)
+5. 💪 Opened PR [#51](https://github.com/MapColonies/external-to-osm-tag-mapping/pull/51) in [MapColonies/external-to-osm-tag-mapping](https://github.com/MapColonies/external-to-osm-tag-mapping)
 <!--END_SECTION:activity-->
