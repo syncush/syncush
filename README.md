@@ -25,9 +25,9 @@ Check out my first npm package: [slack-emojis](https://www.npmjs.com/package/sla
 
 ## Recent Acitivty
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#55](https://github.com/MapColonies/id-2-osm/pull/55) in [MapColonies/id-2-osm](https://github.com/MapColonies/id-2-osm)
-2. 💪 Opened PR [#55](https://github.com/MapColonies/id-2-osm/pull/55) in [MapColonies/id-2-osm](https://github.com/MapColonies/id-2-osm)
-3. 🎉 Merged PR [#20](https://github.com/MapColonies/id-merger/pull/20) in [MapColonies/id-merger](https://github.com/MapColonies/id-merger)
-4. 🎉 Merged PR [#53](https://github.com/MapColonies/id-2-osm/pull/53) in [MapColonies/id-2-osm](https://github.com/MapColonies/id-2-osm)
-5. 🎉 Merged PR [#32](https://github.com/MapColonies/osm-change-generator-server/pull/32) in [MapColonies/osm-change-generator-server](https://github.com/MapColonies/osm-change-generator-server)
+1. 🎉 Merged PR [#54](https://github.com/MapColonies/id-2-osm/pull/54) in [MapColonies/id-2-osm](https://github.com/MapColonies/id-2-osm)
+2. 🎉 Merged PR [#55](https://github.com/MapColonies/id-2-osm/pull/55) in [MapColonies/id-2-osm](https://github.com/MapColonies/id-2-osm)
+3. 💪 Opened PR [#55](https://github.com/MapColonies/id-2-osm/pull/55) in [MapColonies/id-2-osm](https://github.com/MapColonies/id-2-osm)
+4. 🎉 Merged PR [#20](https://github.com/MapColonies/id-merger/pull/20) in [MapColonies/id-merger](https://github.com/MapColonies/id-merger)
+5. 🎉 Merged PR [#53](https://github.com/MapColonies/id-2-osm/pull/53) in [MapColonies/id-2-osm](https://github.com/MapColonies/id-2-osm)
 <!--END_SECTION:activity-->
