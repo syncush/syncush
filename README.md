@@ -25,9 +25,9 @@ Check out my first npm package: [slack-emojis](https://www.npmjs.com/package/sla
 
 ## Recent Acitivty
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/syncush/test-meow/pull/1) in [syncush/test-meow](https://github.com/syncush/test-meow)
-2. 💪 Opened PR [#579](https://github.com/Zooz/predator/pull/579) in [Zooz/predator](https://github.com/Zooz/predator)
-3. 🎉 Merged PR [#79](https://github.com/MapColonies/ts-server-boilerplate/pull/79) in [MapColonies/ts-server-boilerplate](https://github.com/MapColonies/ts-server-boilerplate)
-4. ❗️ Closed issue [#78](https://github.com/MapColonies/ts-server-boilerplate/issues/78) in [MapColonies/ts-server-boilerplate](https://github.com/MapColonies/ts-server-boilerplate)
-5. 💪 Opened PR [#79](https://github.com/MapColonies/ts-server-boilerplate/pull/79) in [MapColonies/ts-server-boilerplate](https://github.com/MapColonies/ts-server-boilerplate)
+1. 🎉 Merged PR [#15](https://github.com/MapColonies/planet-dumper/pull/15) in [MapColonies/planet-dumper](https://github.com/MapColonies/planet-dumper)
+2. ❗️ Closed issue [#14](https://github.com/MapColonies/planet-dumper/issues/14) in [MapColonies/planet-dumper](https://github.com/MapColonies/planet-dumper)
+3. 💪 Opened PR [#1](https://github.com/syncush/test-meow/pull/1) in [syncush/test-meow](https://github.com/syncush/test-meow)
+4. 💪 Opened PR [#579](https://github.com/Zooz/predator/pull/579) in [Zooz/predator](https://github.com/Zooz/predator)
+5. 🎉 Merged PR [#79](https://github.com/MapColonies/ts-server-boilerplate/pull/79) in [MapColonies/ts-server-boilerplate](https://github.com/MapColonies/ts-server-boilerplate)
 <!--END_SECTION:activity-->
