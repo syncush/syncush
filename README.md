@@ -25,9 +25,9 @@ Check out my first npm package: [slack-emojis](https://www.npmjs.com/package/sla
 
 ## Recent Acitivty
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#30](https://github.com/MapColonies/dump-server/pull/30) in [MapColonies/dump-server](https://github.com/MapColonies/dump-server)
-2. 💪 Opened PR [#29](https://github.com/MapColonies/dump-server/pull/29) in [MapColonies/dump-server](https://github.com/MapColonies/dump-server)
-3. 🎉 Merged PR [#22](https://github.com/MapColonies/telemetry/pull/22) in [MapColonies/telemetry](https://github.com/MapColonies/telemetry)
-4. ❗️ Opened issue [#28](https://github.com/MapColonies/dump-server/issues/28) in [MapColonies/dump-server](https://github.com/MapColonies/dump-server)
-5. ❗️ Opened issue [#27](https://github.com/MapColonies/dump-server/issues/27) in [MapColonies/dump-server](https://github.com/MapColonies/dump-server)
+1. 🎉 Merged PR [#29](https://github.com/MapColonies/dump-server/pull/29) in [MapColonies/dump-server](https://github.com/MapColonies/dump-server)
+2. ❗️ Closed issue [#28](https://github.com/MapColonies/dump-server/issues/28) in [MapColonies/dump-server](https://github.com/MapColonies/dump-server)
+3. 🎉 Merged PR [#30](https://github.com/MapColonies/dump-server/pull/30) in [MapColonies/dump-server](https://github.com/MapColonies/dump-server)
+4. ❗️ Closed issue [#27](https://github.com/MapColonies/dump-server/issues/27) in [MapColonies/dump-server](https://github.com/MapColonies/dump-server)
+5. 💪 Opened PR [#30](https://github.com/MapColonies/dump-server/pull/30) in [MapColonies/dump-server](https://github.com/MapColonies/dump-server)
 <!--END_SECTION:activity-->
