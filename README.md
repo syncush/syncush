@@ -1,7 +1,5 @@
 ## Hi there! 👋
-<p>
-  <img src="https://i.imgur.com/agb7xe9.png" />
-</p>
+
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=syncush&theme=tokyonight">
 </p>
@@ -31,3 +29,5 @@ Check out my first npm package: [slack-emojis](https://www.npmjs.com/package/sla
 4. 🎉 Merged PR [#85](https://github.com/MapColonies/ts-server-boilerplate/pull/85) in [MapColonies/ts-server-boilerplate](https://github.com/MapColonies/ts-server-boilerplate)
 5. 🎉 Merged PR [#83](https://github.com/MapColonies/ts-server-boilerplate/pull/83) in [MapColonies/ts-server-boilerplate](https://github.com/MapColonies/ts-server-boilerplate)
 <!--END_SECTION:activity-->
+
+![contrib](./profile-3d-contrib/profile-green-animate.svg)
