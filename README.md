@@ -23,11 +23,11 @@ Check out my first npm package: [slack-emojis](https://www.npmjs.com/package/sla
 
 ## Recent Acitivty
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3748](https://github.com/cli/cli/issues/3748) in [cli/cli](https://github.com/cli/cli)
-2. ❗️ Opened issue [#3748](https://github.com/cli/cli/issues/3748) in [cli/cli](https://github.com/cli/cli)
-3. 💪 Opened PR [#581](https://github.com/Zooz/predator/pull/581) in [Zooz/predator](https://github.com/Zooz/predator)
-4. 🎉 Merged PR [#25](https://github.com/MapColonies/id-merger/pull/25) in [MapColonies/id-merger](https://github.com/MapColonies/id-merger)
-5. 🎉 Merged PR [#55](https://github.com/MapColonies/external-to-osm-tag-mapping/pull/55) in [MapColonies/external-to-osm-tag-mapping](https://github.com/MapColonies/external-to-osm-tag-mapping)
+1. 🎉 Merged PR [#35](https://github.com/MapColonies/osm-change-generator-server/pull/35) in [MapColonies/osm-change-generator-server](https://github.com/MapColonies/osm-change-generator-server)
+2. 🗣 Commented on [#3748](https://github.com/cli/cli/issues/3748) in [cli/cli](https://github.com/cli/cli)
+3. ❗️ Opened issue [#3748](https://github.com/cli/cli/issues/3748) in [cli/cli](https://github.com/cli/cli)
+4. 💪 Opened PR [#581](https://github.com/Zooz/predator/pull/581) in [Zooz/predator](https://github.com/Zooz/predator)
+5. 🎉 Merged PR [#25](https://github.com/MapColonies/id-merger/pull/25) in [MapColonies/id-merger](https://github.com/MapColonies/id-merger)
 <!--END_SECTION:activity-->
 
 ![contrib](./profile-3d-contrib/profile-green-animate.svg)
