@@ -23,11 +23,11 @@ Check out my first npm package: [slack-emojis](https://www.npmjs.com/package/sla
 
 ## Recent Acitivty
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#84](https://github.com/MapColonies/ts-server-boilerplate/pull/84) in [MapColonies/ts-server-boilerplate](https://github.com/MapColonies/ts-server-boilerplate)
-2. 🎉 Merged PR [#35](https://github.com/MapColonies/osm-change-generator-server/pull/35) in [MapColonies/osm-change-generator-server](https://github.com/MapColonies/osm-change-generator-server)
-3. 🗣 Commented on [#3748](https://github.com/cli/cli/issues/3748) in [cli/cli](https://github.com/cli/cli)
-4. ❗️ Opened issue [#3748](https://github.com/cli/cli/issues/3748) in [cli/cli](https://github.com/cli/cli)
-5. 💪 Opened PR [#581](https://github.com/Zooz/predator/pull/581) in [Zooz/predator](https://github.com/Zooz/predator)
+1. 🎉 Merged PR [#5](https://github.com/MapColonies/osm-sync-tracker/pull/5) in [MapColonies/osm-sync-tracker](https://github.com/MapColonies/osm-sync-tracker)
+2. 🎉 Merged PR [#84](https://github.com/MapColonies/ts-server-boilerplate/pull/84) in [MapColonies/ts-server-boilerplate](https://github.com/MapColonies/ts-server-boilerplate)
+3. 🎉 Merged PR [#35](https://github.com/MapColonies/osm-change-generator-server/pull/35) in [MapColonies/osm-change-generator-server](https://github.com/MapColonies/osm-change-generator-server)
+4. 🗣 Commented on [#3748](https://github.com/cli/cli/issues/3748) in [cli/cli](https://github.com/cli/cli)
+5. ❗️ Opened issue [#3748](https://github.com/cli/cli/issues/3748) in [cli/cli](https://github.com/cli/cli)
 <!--END_SECTION:activity-->
 
 ![contrib](./profile-3d-contrib/profile-green-animate.svg)
