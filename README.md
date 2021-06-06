@@ -23,11 +23,11 @@ Check out my first npm package: [slack-emojis](https://www.npmjs.com/package/sla
 
 ## Recent Acitivty
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#581](https://github.com/Zooz/predator/issues/581) in [Zooz/predator](https://github.com/Zooz/predator)
-2. 🗣 Commented on [#1055](https://github.com/artilleryio/artillery/issues/1055) in [artilleryio/artillery](https://github.com/artilleryio/artillery)
-3. 🎉 Merged PR [#5](https://github.com/MapColonies/osm-sync-tracker/pull/5) in [MapColonies/osm-sync-tracker](https://github.com/MapColonies/osm-sync-tracker)
-4. 🎉 Merged PR [#84](https://github.com/MapColonies/ts-server-boilerplate/pull/84) in [MapColonies/ts-server-boilerplate](https://github.com/MapColonies/ts-server-boilerplate)
-5. 🎉 Merged PR [#35](https://github.com/MapColonies/osm-change-generator-server/pull/35) in [MapColonies/osm-change-generator-server](https://github.com/MapColonies/osm-change-generator-server)
+1. 🎉 Merged PR [#56](https://github.com/MapColonies/external-to-osm-tag-mapping/pull/56) in [MapColonies/external-to-osm-tag-mapping](https://github.com/MapColonies/external-to-osm-tag-mapping)
+2. 🎉 Merged PR [#26](https://github.com/MapColonies/id-merger/pull/26) in [MapColonies/id-merger](https://github.com/MapColonies/id-merger)
+3. 🎉 Merged PR [#36](https://github.com/MapColonies/osm-change-generator-server/pull/36) in [MapColonies/osm-change-generator-server](https://github.com/MapColonies/osm-change-generator-server)
+4. 🗣 Commented on [#581](https://github.com/Zooz/predator/issues/581) in [Zooz/predator](https://github.com/Zooz/predator)
+5. 🗣 Commented on [#1055](https://github.com/artilleryio/artillery/issues/1055) in [artilleryio/artillery](https://github.com/artilleryio/artillery)
 <!--END_SECTION:activity-->
 
 ![contrib](./profile-3d-contrib/profile-green-animate.svg)
