@@ -23,11 +23,11 @@ Check out my first npm package: [slack-emojis](https://www.npmjs.com/package/sla
 
 ## Recent Acitivty
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#61](https://github.com/MapColonies/external-to-osm-tag-mapping/pull/61) in [MapColonies/external-to-osm-tag-mapping](https://github.com/MapColonies/external-to-osm-tag-mapping)
-2. 💪 Opened PR [#66](https://github.com/MapColonies/id-2-osm/pull/66) in [MapColonies/id-2-osm](https://github.com/MapColonies/id-2-osm)
-3. 🎉 Merged PR [#12](https://github.com/MapColonies/osm-sync-tracker/pull/12) in [MapColonies/osm-sync-tracker](https://github.com/MapColonies/osm-sync-tracker)
-4. ❗️ Closed issue [#11](https://github.com/MapColonies/osm-sync-tracker/issues/11) in [MapColonies/osm-sync-tracker](https://github.com/MapColonies/osm-sync-tracker)
-5. 🗣 Commented on [#166](https://github.com/maplibre/maplibre-gl-js/issues/166) in [maplibre/maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js)
+1. 🎉 Merged PR [#65](https://github.com/MapColonies/id-2-osm/pull/65) in [MapColonies/id-2-osm](https://github.com/MapColonies/id-2-osm)
+2. 🎉 Merged PR [#63](https://github.com/MapColonies/id-2-osm/pull/63) in [MapColonies/id-2-osm](https://github.com/MapColonies/id-2-osm)
+3. 🎉 Merged PR [#62](https://github.com/MapColonies/id-2-osm/pull/62) in [MapColonies/id-2-osm](https://github.com/MapColonies/id-2-osm)
+4. 🎉 Merged PR [#61](https://github.com/MapColonies/id-2-osm/pull/61) in [MapColonies/id-2-osm](https://github.com/MapColonies/id-2-osm)
+5. 🎉 Merged PR [#59](https://github.com/MapColonies/external-to-osm-tag-mapping/pull/59) in [MapColonies/external-to-osm-tag-mapping](https://github.com/MapColonies/external-to-osm-tag-mapping)
 <!--END_SECTION:activity-->
 
 ![contrib](./profile-3d-contrib/profile-green-animate.svg)
