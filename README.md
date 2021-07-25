@@ -23,11 +23,11 @@ Check out my first npm package: [slack-emojis](https://www.npmjs.com/package/sla
 
 ## Recent Acitivty
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#587](https://github.com/open-telemetry/opentelemetry-js-contrib/issues/587) in [open-telemetry/opentelemetry-js-contrib](https://github.com/open-telemetry/opentelemetry-js-contrib)
-2. 🗣 Commented on [#587](https://github.com/open-telemetry/opentelemetry-js-contrib/issues/587) in [open-telemetry/opentelemetry-js-contrib](https://github.com/open-telemetry/opentelemetry-js-contrib)
-3. ❌ Closed PR [#30](https://github.com/MapColonies/telemetry/pull/30) in [MapColonies/telemetry](https://github.com/MapColonies/telemetry)
-4. ❌ Closed PR [#31](https://github.com/MapColonies/telemetry/pull/31) in [MapColonies/telemetry](https://github.com/MapColonies/telemetry)
-5. 💪 Opened PR [#31](https://github.com/MapColonies/dump-server/pull/31) in [MapColonies/dump-server](https://github.com/MapColonies/dump-server)
+1. ❌ Closed PR [#34](https://github.com/MapColonies/telemetry/pull/34) in [MapColonies/telemetry](https://github.com/MapColonies/telemetry)
+2. ❌ Closed PR [#33](https://github.com/MapColonies/telemetry/pull/33) in [MapColonies/telemetry](https://github.com/MapColonies/telemetry)
+3. ❌ Closed PR [#82](https://github.com/MapColonies/id-2-osm/pull/82) in [MapColonies/id-2-osm](https://github.com/MapColonies/id-2-osm)
+4. ❌ Closed PR [#81](https://github.com/MapColonies/id-2-osm/pull/81) in [MapColonies/id-2-osm](https://github.com/MapColonies/id-2-osm)
+5. 🗣 Commented on [#587](https://github.com/open-telemetry/opentelemetry-js-contrib/issues/587) in [open-telemetry/opentelemetry-js-contrib](https://github.com/open-telemetry/opentelemetry-js-contrib)
 <!--END_SECTION:activity-->
 
 ![contrib](./profile-3d-contrib/profile-green-animate.svg)
