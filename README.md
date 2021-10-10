@@ -23,11 +23,11 @@ Check out my first npm package: [slack-emojis](https://www.npmjs.com/package/sla
 
 ## Recent Acitivty
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#93](https://github.com/MapColonies/external-to-osm-tag-mapping/pull/93) in [MapColonies/external-to-osm-tag-mapping](https://github.com/MapColonies/external-to-osm-tag-mapping)
-2. ❌ Closed PR [#99](https://github.com/MapColonies/external-to-osm-tag-mapping/pull/99) in [MapColonies/external-to-osm-tag-mapping](https://github.com/MapColonies/external-to-osm-tag-mapping)
-3. ❌ Closed PR [#98](https://github.com/MapColonies/external-to-osm-tag-mapping/pull/98) in [MapColonies/external-to-osm-tag-mapping](https://github.com/MapColonies/external-to-osm-tag-mapping)
-4. ❌ Closed PR [#2](https://github.com/MapColonies/replica-server/pull/2) in [MapColonies/replica-server](https://github.com/MapColonies/replica-server)
-5. 💪 Opened PR [#105](https://github.com/MapColonies/id-2-osm/pull/105) in [MapColonies/id-2-osm](https://github.com/MapColonies/id-2-osm)
+1. 🗣 Commented on [#3](https://github.com/MapColonies/replica-server/issues/3) in [MapColonies/replica-server](https://github.com/MapColonies/replica-server)
+2. ❌ Closed PR [#3](https://github.com/MapColonies/replica-server/pull/3) in [MapColonies/replica-server](https://github.com/MapColonies/replica-server)
+3. 🎉 Merged PR [#93](https://github.com/MapColonies/external-to-osm-tag-mapping/pull/93) in [MapColonies/external-to-osm-tag-mapping](https://github.com/MapColonies/external-to-osm-tag-mapping)
+4. ❌ Closed PR [#99](https://github.com/MapColonies/external-to-osm-tag-mapping/pull/99) in [MapColonies/external-to-osm-tag-mapping](https://github.com/MapColonies/external-to-osm-tag-mapping)
+5. ❌ Closed PR [#98](https://github.com/MapColonies/external-to-osm-tag-mapping/pull/98) in [MapColonies/external-to-osm-tag-mapping](https://github.com/MapColonies/external-to-osm-tag-mapping)
 <!--END_SECTION:activity-->
 
 ![contrib](./profile-3d-contrib/profile-green-animate.svg)
