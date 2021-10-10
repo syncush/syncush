@@ -23,11 +23,11 @@ Check out my first npm package: [slack-emojis](https://www.npmjs.com/package/sla
 
 ## Recent Acitivty
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/MapColonies/replica-server/issues/3) in [MapColonies/replica-server](https://github.com/MapColonies/replica-server)
-2. ❌ Closed PR [#3](https://github.com/MapColonies/replica-server/pull/3) in [MapColonies/replica-server](https://github.com/MapColonies/replica-server)
-3. 🎉 Merged PR [#93](https://github.com/MapColonies/external-to-osm-tag-mapping/pull/93) in [MapColonies/external-to-osm-tag-mapping](https://github.com/MapColonies/external-to-osm-tag-mapping)
-4. ❌ Closed PR [#99](https://github.com/MapColonies/external-to-osm-tag-mapping/pull/99) in [MapColonies/external-to-osm-tag-mapping](https://github.com/MapColonies/external-to-osm-tag-mapping)
-5. ❌ Closed PR [#98](https://github.com/MapColonies/external-to-osm-tag-mapping/pull/98) in [MapColonies/external-to-osm-tag-mapping](https://github.com/MapColonies/external-to-osm-tag-mapping)
+1. 🎉 Merged PR [#107](https://github.com/MapColonies/id-2-osm/pull/107) in [MapColonies/id-2-osm](https://github.com/MapColonies/id-2-osm)
+2. ❗️ Closed issue [#106](https://github.com/MapColonies/id-2-osm/issues/106) in [MapColonies/id-2-osm](https://github.com/MapColonies/id-2-osm)
+3. 🎉 Merged PR [#23](https://github.com/MapColonies/osm-sync-tracker/pull/23) in [MapColonies/osm-sync-tracker](https://github.com/MapColonies/osm-sync-tracker)
+4. ❗️ Closed issue [#22](https://github.com/MapColonies/osm-sync-tracker/issues/22) in [MapColonies/osm-sync-tracker](https://github.com/MapColonies/osm-sync-tracker)
+5. 🎉 Merged PR [#5](https://github.com/MapColonies/replica-server/pull/5) in [MapColonies/replica-server](https://github.com/MapColonies/replica-server)
 <!--END_SECTION:activity-->
 
 ![contrib](./profile-3d-contrib/profile-green-animate.svg)
