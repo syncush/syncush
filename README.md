@@ -23,11 +23,11 @@ Check out my first npm package: [slack-emojis](https://www.npmjs.com/package/sla
 
 ## Recent Acitivty
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#179](https://github.com/MapColonies/ts-server-boilerplate/pull/179) in [MapColonies/ts-server-boilerplate](https://github.com/MapColonies/ts-server-boilerplate)
-2. ❌ Closed PR [#178](https://github.com/MapColonies/ts-server-boilerplate/pull/178) in [MapColonies/ts-server-boilerplate](https://github.com/MapColonies/ts-server-boilerplate)
-3. ❌ Closed PR [#177](https://github.com/MapColonies/ts-server-boilerplate/pull/177) in [MapColonies/ts-server-boilerplate](https://github.com/MapColonies/ts-server-boilerplate)
-4. ❌ Closed PR [#176](https://github.com/MapColonies/ts-server-boilerplate/pull/176) in [MapColonies/ts-server-boilerplate](https://github.com/MapColonies/ts-server-boilerplate)
-5. ❌ Closed PR [#175](https://github.com/MapColonies/ts-server-boilerplate/pull/175) in [MapColonies/ts-server-boilerplate](https://github.com/MapColonies/ts-server-boilerplate)
+1. 🎉 Merged PR [#5](https://github.com/MapColonies/error-express-handler/pull/5) in [MapColonies/error-express-handler](https://github.com/MapColonies/error-express-handler)
+2. ❗️ Closed issue [#4](https://github.com/MapColonies/error-express-handler/issues/4) in [MapColonies/error-express-handler](https://github.com/MapColonies/error-express-handler)
+3. ❌ Closed PR [#179](https://github.com/MapColonies/ts-server-boilerplate/pull/179) in [MapColonies/ts-server-boilerplate](https://github.com/MapColonies/ts-server-boilerplate)
+4. ❌ Closed PR [#178](https://github.com/MapColonies/ts-server-boilerplate/pull/178) in [MapColonies/ts-server-boilerplate](https://github.com/MapColonies/ts-server-boilerplate)
+5. ❌ Closed PR [#177](https://github.com/MapColonies/ts-server-boilerplate/pull/177) in [MapColonies/ts-server-boilerplate](https://github.com/MapColonies/ts-server-boilerplate)
 <!--END_SECTION:activity-->
 
 ![contrib](./profile-3d-contrib/profile-green-animate.svg)
