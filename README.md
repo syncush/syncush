@@ -23,11 +23,11 @@ Check out my first npm package: [slack-emojis](https://www.npmjs.com/package/sla
 
 ## Recent Acitivty
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#187](https://github.com/MapColonies/ts-server-boilerplate/pull/187) in [MapColonies/ts-server-boilerplate](https://github.com/MapColonies/ts-server-boilerplate)
-2. 🎉 Merged PR [#100](https://github.com/MapColonies/external-to-osm-tag-mapping/pull/100) in [MapColonies/external-to-osm-tag-mapping](https://github.com/MapColonies/external-to-osm-tag-mapping)
-3. ❌ Closed PR [#177](https://github.com/MapColonies/ts-server-boilerplate/pull/177) in [MapColonies/ts-server-boilerplate](https://github.com/MapColonies/ts-server-boilerplate)
-4. ❌ Closed PR [#175](https://github.com/MapColonies/ts-server-boilerplate/pull/175) in [MapColonies/ts-server-boilerplate](https://github.com/MapColonies/ts-server-boilerplate)
-5. ❌ Closed PR [#176](https://github.com/MapColonies/ts-server-boilerplate/pull/176) in [MapColonies/ts-server-boilerplate](https://github.com/MapColonies/ts-server-boilerplate)
+1. 🎉 Merged PR [#181](https://github.com/MapColonies/ts-server-boilerplate/pull/181) in [MapColonies/ts-server-boilerplate](https://github.com/MapColonies/ts-server-boilerplate)
+2. ❗️ Closed issue [#180](https://github.com/MapColonies/ts-server-boilerplate/issues/180) in [MapColonies/ts-server-boilerplate](https://github.com/MapColonies/ts-server-boilerplate)
+3. 🎉 Merged PR [#187](https://github.com/MapColonies/ts-server-boilerplate/pull/187) in [MapColonies/ts-server-boilerplate](https://github.com/MapColonies/ts-server-boilerplate)
+4. ❌ Closed PR [#182](https://github.com/MapColonies/ts-server-boilerplate/pull/182) in [MapColonies/ts-server-boilerplate](https://github.com/MapColonies/ts-server-boilerplate)
+5. ❌ Closed PR [#185](https://github.com/MapColonies/ts-server-boilerplate/pull/185) in [MapColonies/ts-server-boilerplate](https://github.com/MapColonies/ts-server-boilerplate)
 <!--END_SECTION:activity-->
 
 ![contrib](./profile-3d-contrib/profile-green-animate.svg)
