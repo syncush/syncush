@@ -23,11 +23,11 @@ Check out my first npm package: [slack-emojis](https://www.npmjs.com/package/sla
 
 ## Recent Acitivty
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#126](https://github.com/MapColonies/external-to-osm-tag-mapping/pull/126) in [MapColonies/external-to-osm-tag-mapping](https://github.com/MapColonies/external-to-osm-tag-mapping)
-2. ❌ Closed PR [#127](https://github.com/MapColonies/external-to-osm-tag-mapping/pull/127) in [MapColonies/external-to-osm-tag-mapping](https://github.com/MapColonies/external-to-osm-tag-mapping)
-3. ❌ Closed PR [#128](https://github.com/MapColonies/external-to-osm-tag-mapping/pull/128) in [MapColonies/external-to-osm-tag-mapping](https://github.com/MapColonies/external-to-osm-tag-mapping)
-4. ❌ Closed PR [#130](https://github.com/MapColonies/external-to-osm-tag-mapping/pull/130) in [MapColonies/external-to-osm-tag-mapping](https://github.com/MapColonies/external-to-osm-tag-mapping)
-5. ❌ Closed PR [#125](https://github.com/MapColonies/external-to-osm-tag-mapping/pull/125) in [MapColonies/external-to-osm-tag-mapping](https://github.com/MapColonies/external-to-osm-tag-mapping)
+1. ❌ Closed PR [#133](https://github.com/MapColonies/external-to-osm-tag-mapping/pull/133) in [MapColonies/external-to-osm-tag-mapping](https://github.com/MapColonies/external-to-osm-tag-mapping)
+2. ❌ Closed PR [#132](https://github.com/MapColonies/external-to-osm-tag-mapping/pull/132) in [MapColonies/external-to-osm-tag-mapping](https://github.com/MapColonies/external-to-osm-tag-mapping)
+3. ❌ Closed PR [#131](https://github.com/MapColonies/external-to-osm-tag-mapping/pull/131) in [MapColonies/external-to-osm-tag-mapping](https://github.com/MapColonies/external-to-osm-tag-mapping)
+4. ❌ Closed PR [#129](https://github.com/MapColonies/external-to-osm-tag-mapping/pull/129) in [MapColonies/external-to-osm-tag-mapping](https://github.com/MapColonies/external-to-osm-tag-mapping)
+5. ❌ Closed PR [#126](https://github.com/MapColonies/external-to-osm-tag-mapping/pull/126) in [MapColonies/external-to-osm-tag-mapping](https://github.com/MapColonies/external-to-osm-tag-mapping)
 <!--END_SECTION:activity-->
 
 ![contrib](./profile-3d-contrib/profile-green-animate.svg)
