@@ -23,11 +23,11 @@ Check out my first npm package: [slack-emojis](https://www.npmjs.com/package/sla
 
 ## Recent Acitivty
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#133](https://github.com/MapColonies/external-to-osm-tag-mapping/pull/133) in [MapColonies/external-to-osm-tag-mapping](https://github.com/MapColonies/external-to-osm-tag-mapping)
-2. ❌ Closed PR [#132](https://github.com/MapColonies/external-to-osm-tag-mapping/pull/132) in [MapColonies/external-to-osm-tag-mapping](https://github.com/MapColonies/external-to-osm-tag-mapping)
-3. ❌ Closed PR [#131](https://github.com/MapColonies/external-to-osm-tag-mapping/pull/131) in [MapColonies/external-to-osm-tag-mapping](https://github.com/MapColonies/external-to-osm-tag-mapping)
-4. ❌ Closed PR [#129](https://github.com/MapColonies/external-to-osm-tag-mapping/pull/129) in [MapColonies/external-to-osm-tag-mapping](https://github.com/MapColonies/external-to-osm-tag-mapping)
-5. ❌ Closed PR [#126](https://github.com/MapColonies/external-to-osm-tag-mapping/pull/126) in [MapColonies/external-to-osm-tag-mapping](https://github.com/MapColonies/external-to-osm-tag-mapping)
+1. 🎉 Merged PR [#205](https://github.com/MapColonies/ts-server-boilerplate/pull/205) in [MapColonies/ts-server-boilerplate](https://github.com/MapColonies/ts-server-boilerplate)
+2. ❌ Closed PR [#199](https://github.com/MapColonies/ts-server-boilerplate/pull/199) in [MapColonies/ts-server-boilerplate](https://github.com/MapColonies/ts-server-boilerplate)
+3. ❌ Closed PR [#198](https://github.com/MapColonies/ts-server-boilerplate/pull/198) in [MapColonies/ts-server-boilerplate](https://github.com/MapColonies/ts-server-boilerplate)
+4. ❌ Closed PR [#197](https://github.com/MapColonies/ts-server-boilerplate/pull/197) in [MapColonies/ts-server-boilerplate](https://github.com/MapColonies/ts-server-boilerplate)
+5. ❌ Closed PR [#196](https://github.com/MapColonies/ts-server-boilerplate/pull/196) in [MapColonies/ts-server-boilerplate](https://github.com/MapColonies/ts-server-boilerplate)
 <!--END_SECTION:activity-->
 
 ![contrib](./profile-3d-contrib/profile-green-animate.svg)
