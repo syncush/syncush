@@ -23,11 +23,11 @@ Check out my first npm package: [slack-emojis](https://www.npmjs.com/package/sla
 
 ## Recent Acitivty
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#227](https://github.com/MapColonies/ts-server-boilerplate/pull/227) in [MapColonies/ts-server-boilerplate](https://github.com/MapColonies/ts-server-boilerplate)
-2. ❌ Closed PR [#226](https://github.com/MapColonies/ts-server-boilerplate/pull/226) in [MapColonies/ts-server-boilerplate](https://github.com/MapColonies/ts-server-boilerplate)
-3. ❌ Closed PR [#225](https://github.com/MapColonies/ts-server-boilerplate/pull/225) in [MapColonies/ts-server-boilerplate](https://github.com/MapColonies/ts-server-boilerplate)
-4. ❌ Closed PR [#224](https://github.com/MapColonies/ts-server-boilerplate/pull/224) in [MapColonies/ts-server-boilerplate](https://github.com/MapColonies/ts-server-boilerplate)
-5. ❌ Closed PR [#223](https://github.com/MapColonies/ts-server-boilerplate/pull/223) in [MapColonies/ts-server-boilerplate](https://github.com/MapColonies/ts-server-boilerplate)
+1. ❌ Closed PR [#110](https://github.com/MapColonies/id-2-osm/pull/110) in [MapColonies/id-2-osm](https://github.com/MapColonies/id-2-osm)
+2. ❌ Closed PR [#109](https://github.com/MapColonies/id-2-osm/pull/109) in [MapColonies/id-2-osm](https://github.com/MapColonies/id-2-osm)
+3. 🎉 Merged PR [#132](https://github.com/MapColonies/id-2-osm/pull/132) in [MapColonies/id-2-osm](https://github.com/MapColonies/id-2-osm)
+4. 💪 Opened PR [#132](https://github.com/MapColonies/id-2-osm/pull/132) in [MapColonies/id-2-osm](https://github.com/MapColonies/id-2-osm)
+5. 🎉 Merged PR [#108](https://github.com/MapColonies/id-2-osm/pull/108) in [MapColonies/id-2-osm](https://github.com/MapColonies/id-2-osm)
 <!--END_SECTION:activity-->
 
 ![contrib](./profile-3d-contrib/profile-green-animate.svg)
