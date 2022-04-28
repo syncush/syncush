@@ -23,11 +23,11 @@ Check out my first npm package: [slack-emojis](https://www.npmjs.com/package/sla
 
 ## Recent Acitivty
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#255](https://github.com/MapColonies/ts-server-boilerplate/pull/255) in [MapColonies/ts-server-boilerplate](https://github.com/MapColonies/ts-server-boilerplate)
-2. ❌ Closed PR [#254](https://github.com/MapColonies/ts-server-boilerplate/pull/254) in [MapColonies/ts-server-boilerplate](https://github.com/MapColonies/ts-server-boilerplate)
-3. ❌ Closed PR [#253](https://github.com/MapColonies/ts-server-boilerplate/pull/253) in [MapColonies/ts-server-boilerplate](https://github.com/MapColonies/ts-server-boilerplate)
-4. ❌ Closed PR [#252](https://github.com/MapColonies/ts-server-boilerplate/pull/252) in [MapColonies/ts-server-boilerplate](https://github.com/MapColonies/ts-server-boilerplate)
-5. ❌ Closed PR [#251](https://github.com/MapColonies/ts-server-boilerplate/pull/251) in [MapColonies/ts-server-boilerplate](https://github.com/MapColonies/ts-server-boilerplate)
+1. 🎉 Merged PR [#37](https://github.com/MapColonies/osm-sync-tracker/pull/37) in [MapColonies/osm-sync-tracker](https://github.com/MapColonies/osm-sync-tracker)
+2. ❗️ Closed issue [#35](https://github.com/MapColonies/osm-sync-tracker/issues/35) in [MapColonies/osm-sync-tracker](https://github.com/MapColonies/osm-sync-tracker)
+3. 🎉 Merged PR [#255](https://github.com/MapColonies/ts-server-boilerplate/pull/255) in [MapColonies/ts-server-boilerplate](https://github.com/MapColonies/ts-server-boilerplate)
+4. ❌ Closed PR [#254](https://github.com/MapColonies/ts-server-boilerplate/pull/254) in [MapColonies/ts-server-boilerplate](https://github.com/MapColonies/ts-server-boilerplate)
+5. ❌ Closed PR [#253](https://github.com/MapColonies/ts-server-boilerplate/pull/253) in [MapColonies/ts-server-boilerplate](https://github.com/MapColonies/ts-server-boilerplate)
 <!--END_SECTION:activity-->
 
 ![contrib](./profile-3d-contrib/profile-green-animate.svg)
