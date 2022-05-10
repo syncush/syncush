@@ -23,11 +23,11 @@ Check out my first npm package: [slack-emojis](https://www.npmjs.com/package/sla
 
 ## Recent Acitivty
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#41](https://github.com/MapColonies/osm-sync-tracker/issues/41) in [MapColonies/osm-sync-tracker](https://github.com/MapColonies/osm-sync-tracker)
-2. 🎉 Merged PR [#42](https://github.com/MapColonies/osm-sync-tracker/pull/42) in [MapColonies/osm-sync-tracker](https://github.com/MapColonies/osm-sync-tracker)
-3. 🎉 Merged PR [#5](https://github.com/MapColonies/k8s-job-chief/pull/5) in [MapColonies/k8s-job-chief](https://github.com/MapColonies/k8s-job-chief)
-4. ❗️ Closed issue [#4](https://github.com/MapColonies/k8s-job-chief/issues/4) in [MapColonies/k8s-job-chief](https://github.com/MapColonies/k8s-job-chief)
-5. 🎉 Merged PR [#9](https://github.com/MapColonies/token-cli/pull/9) in [MapColonies/token-cli](https://github.com/MapColonies/token-cli)
+1. 💪 Opened PR [#55](https://github.com/MapColonies/exporter-s3-download/pull/55) in [MapColonies/exporter-s3-download](https://github.com/MapColonies/exporter-s3-download)
+2. ❗️ Closed issue [#41](https://github.com/MapColonies/osm-sync-tracker/issues/41) in [MapColonies/osm-sync-tracker](https://github.com/MapColonies/osm-sync-tracker)
+3. 🎉 Merged PR [#42](https://github.com/MapColonies/osm-sync-tracker/pull/42) in [MapColonies/osm-sync-tracker](https://github.com/MapColonies/osm-sync-tracker)
+4. 🎉 Merged PR [#5](https://github.com/MapColonies/k8s-job-chief/pull/5) in [MapColonies/k8s-job-chief](https://github.com/MapColonies/k8s-job-chief)
+5. ❗️ Closed issue [#4](https://github.com/MapColonies/k8s-job-chief/issues/4) in [MapColonies/k8s-job-chief](https://github.com/MapColonies/k8s-job-chief)
 <!--END_SECTION:activity-->
 
 ![contrib](./profile-3d-contrib/profile-green-animate.svg)
