@@ -23,11 +23,11 @@ Check out my first npm package: [slack-emojis](https://www.npmjs.com/package/sla
 
 ## Recent Acitivty
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#15](https://github.com/MapColonies/cosmocrat-cli-dockerized/pull/15) in [MapColonies/cosmocrat-cli-dockerized](https://github.com/MapColonies/cosmocrat-cli-dockerized)
-2. 💪 Opened PR [#55](https://github.com/MapColonies/exporter-s3-download/pull/55) in [MapColonies/exporter-s3-download](https://github.com/MapColonies/exporter-s3-download)
-3. ❗️ Closed issue [#41](https://github.com/MapColonies/osm-sync-tracker/issues/41) in [MapColonies/osm-sync-tracker](https://github.com/MapColonies/osm-sync-tracker)
-4. 🎉 Merged PR [#42](https://github.com/MapColonies/osm-sync-tracker/pull/42) in [MapColonies/osm-sync-tracker](https://github.com/MapColonies/osm-sync-tracker)
-5. 🎉 Merged PR [#5](https://github.com/MapColonies/k8s-job-chief/pull/5) in [MapColonies/k8s-job-chief](https://github.com/MapColonies/k8s-job-chief)
+1. 💪 Opened PR [#27](https://github.com/MapColonies/automation-server-test/pull/27) in [MapColonies/automation-server-test](https://github.com/MapColonies/automation-server-test)
+2. 💪 Opened PR [#15](https://github.com/MapColonies/cosmocrat-cli-dockerized/pull/15) in [MapColonies/cosmocrat-cli-dockerized](https://github.com/MapColonies/cosmocrat-cli-dockerized)
+3. 💪 Opened PR [#55](https://github.com/MapColonies/exporter-s3-download/pull/55) in [MapColonies/exporter-s3-download](https://github.com/MapColonies/exporter-s3-download)
+4. ❗️ Closed issue [#41](https://github.com/MapColonies/osm-sync-tracker/issues/41) in [MapColonies/osm-sync-tracker](https://github.com/MapColonies/osm-sync-tracker)
+5. 🎉 Merged PR [#42](https://github.com/MapColonies/osm-sync-tracker/pull/42) in [MapColonies/osm-sync-tracker](https://github.com/MapColonies/osm-sync-tracker)
 <!--END_SECTION:activity-->
 
 ![contrib](./profile-3d-contrib/profile-green-animate.svg)
