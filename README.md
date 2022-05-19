@@ -23,11 +23,11 @@ Check out my first npm package: [slack-emojis](https://www.npmjs.com/package/sla
 
 ## Recent Acitivty
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#266](https://github.com/MapColonies/ts-server-boilerplate/pull/266) in [MapColonies/ts-server-boilerplate](https://github.com/MapColonies/ts-server-boilerplate)
-2. 💪 Opened PR [#265](https://github.com/MapColonies/ts-server-boilerplate/pull/265) in [MapColonies/ts-server-boilerplate](https://github.com/MapColonies/ts-server-boilerplate)
-3. 💪 Opened PR [#264](https://github.com/MapColonies/ts-server-boilerplate/pull/264) in [MapColonies/ts-server-boilerplate](https://github.com/MapColonies/ts-server-boilerplate)
-4. 💪 Opened PR [#263](https://github.com/MapColonies/ts-server-boilerplate/pull/263) in [MapColonies/ts-server-boilerplate](https://github.com/MapColonies/ts-server-boilerplate)
-5. 🎉 Merged PR [#260](https://github.com/MapColonies/ts-server-boilerplate/pull/260) in [MapColonies/ts-server-boilerplate](https://github.com/MapColonies/ts-server-boilerplate)
+1. 💪 Opened PR [#138](https://github.com/MapColonies/discrete-overseer-creator/pull/138) in [MapColonies/discrete-overseer-creator](https://github.com/MapColonies/discrete-overseer-creator)
+2. 💪 Opened PR [#266](https://github.com/MapColonies/ts-server-boilerplate/pull/266) in [MapColonies/ts-server-boilerplate](https://github.com/MapColonies/ts-server-boilerplate)
+3. 💪 Opened PR [#265](https://github.com/MapColonies/ts-server-boilerplate/pull/265) in [MapColonies/ts-server-boilerplate](https://github.com/MapColonies/ts-server-boilerplate)
+4. 💪 Opened PR [#264](https://github.com/MapColonies/ts-server-boilerplate/pull/264) in [MapColonies/ts-server-boilerplate](https://github.com/MapColonies/ts-server-boilerplate)
+5. 💪 Opened PR [#263](https://github.com/MapColonies/ts-server-boilerplate/pull/263) in [MapColonies/ts-server-boilerplate](https://github.com/MapColonies/ts-server-boilerplate)
 <!--END_SECTION:activity-->
 
 ![contrib](./profile-3d-contrib/profile-green-animate.svg)
