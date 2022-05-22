@@ -23,11 +23,11 @@ Check out my first npm package: [slack-emojis](https://www.npmjs.com/package/sla
 
 ## Recent Acitivty
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#64](https://github.com/MapColonies/id-merger/pull/64) in [MapColonies/id-merger](https://github.com/MapColonies/id-merger)
-2. 🎉 Merged PR [#268](https://github.com/MapColonies/ts-server-boilerplate/pull/268) in [MapColonies/ts-server-boilerplate](https://github.com/MapColonies/ts-server-boilerplate)
-3. ❌ Closed PR [#262](https://github.com/MapColonies/ts-server-boilerplate/pull/262) in [MapColonies/ts-server-boilerplate](https://github.com/MapColonies/ts-server-boilerplate)
-4. ❌ Closed PR [#265](https://github.com/MapColonies/ts-server-boilerplate/pull/265) in [MapColonies/ts-server-boilerplate](https://github.com/MapColonies/ts-server-boilerplate)
-5. ❌ Closed PR [#266](https://github.com/MapColonies/ts-server-boilerplate/pull/266) in [MapColonies/ts-server-boilerplate](https://github.com/MapColonies/ts-server-boilerplate)
+1. 🎉 Merged PR [#75](https://github.com/MapColonies/change-merger/pull/75) in [MapColonies/change-merger](https://github.com/MapColonies/change-merger)
+2. 🎉 Merged PR [#76](https://github.com/MapColonies/change-merger/pull/76) in [MapColonies/change-merger](https://github.com/MapColonies/change-merger)
+3. ❌ Closed PR [#74](https://github.com/MapColonies/change-merger/pull/74) in [MapColonies/change-merger](https://github.com/MapColonies/change-merger)
+4. ❌ Closed PR [#73](https://github.com/MapColonies/change-merger/pull/73) in [MapColonies/change-merger](https://github.com/MapColonies/change-merger)
+5. ❌ Closed PR [#72](https://github.com/MapColonies/change-merger/pull/72) in [MapColonies/change-merger](https://github.com/MapColonies/change-merger)
 <!--END_SECTION:activity-->
 
 ![contrib](./profile-3d-contrib/profile-green-animate.svg)
