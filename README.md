@@ -23,11 +23,11 @@ Check out my first npm package: [slack-emojis](https://www.npmjs.com/package/sla
 
 ## Recent Acitivty
 <!--START_SECTION:activity-->
-1. ❌ Reopened PR [#274](https://github.com/MapColonies/ts-server-boilerplate/pull/274) in [MapColonies/ts-server-boilerplate](https://github.com/MapColonies/ts-server-boilerplate)
-2. ❌ Reopened PR [#273](https://github.com/MapColonies/ts-server-boilerplate/pull/273) in [MapColonies/ts-server-boilerplate](https://github.com/MapColonies/ts-server-boilerplate)
-3. ❌ Reopened PR [#272](https://github.com/MapColonies/ts-server-boilerplate/pull/272) in [MapColonies/ts-server-boilerplate](https://github.com/MapColonies/ts-server-boilerplate)
-4. ❌ Reopened PR [#271](https://github.com/MapColonies/ts-server-boilerplate/pull/271) in [MapColonies/ts-server-boilerplate](https://github.com/MapColonies/ts-server-boilerplate)
-5. ❌ Closed PR [#33](https://github.com/MapColonies/dump-server/pull/33) in [MapColonies/dump-server](https://github.com/MapColonies/dump-server)
+1. 🎉 Merged PR [#148](https://github.com/MapColonies/external-to-osm-tag-mapping/pull/148) in [MapColonies/external-to-osm-tag-mapping](https://github.com/MapColonies/external-to-osm-tag-mapping)
+2. ❌ Reopened PR [#274](https://github.com/MapColonies/ts-server-boilerplate/pull/274) in [MapColonies/ts-server-boilerplate](https://github.com/MapColonies/ts-server-boilerplate)
+3. ❌ Reopened PR [#273](https://github.com/MapColonies/ts-server-boilerplate/pull/273) in [MapColonies/ts-server-boilerplate](https://github.com/MapColonies/ts-server-boilerplate)
+4. ❌ Reopened PR [#272](https://github.com/MapColonies/ts-server-boilerplate/pull/272) in [MapColonies/ts-server-boilerplate](https://github.com/MapColonies/ts-server-boilerplate)
+5. ❌ Reopened PR [#271](https://github.com/MapColonies/ts-server-boilerplate/pull/271) in [MapColonies/ts-server-boilerplate](https://github.com/MapColonies/ts-server-boilerplate)
 <!--END_SECTION:activity-->
 
 ![contrib](./profile-3d-contrib/profile-green-animate.svg)
