@@ -23,11 +23,11 @@ Check out my first npm package: [slack-emojis](https://www.npmjs.com/package/sla
 
 ## Recent Acitivty
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#198](https://github.com/MapColonies/image-exporter-client/pull/198) in [MapColonies/image-exporter-client](https://github.com/MapColonies/image-exporter-client)
-2. 💪 Opened PR [#311](https://github.com/MapColonies/discrete-layer-client/pull/311) in [MapColonies/discrete-layer-client](https://github.com/MapColonies/discrete-layer-client)
-3. 💪 Opened PR [#275](https://github.com/MapColonies/ts-server-boilerplate/pull/275) in [MapColonies/ts-server-boilerplate](https://github.com/MapColonies/ts-server-boilerplate)
-4. 💪 Opened PR [#103](https://github.com/MapColonies/export-request-storage/pull/103) in [MapColonies/export-request-storage](https://github.com/MapColonies/export-request-storage)
-5. 🎉 Merged PR [#17](https://github.com/MapColonies/retiler/pull/17) in [MapColonies/retiler](https://github.com/MapColonies/retiler)
+1. 💪 Opened PR [#122](https://github.com/MapColonies/3d-ingestion-job/pull/122) in [MapColonies/3d-ingestion-job](https://github.com/MapColonies/3d-ingestion-job)
+2. 💪 Opened PR [#198](https://github.com/MapColonies/image-exporter-client/pull/198) in [MapColonies/image-exporter-client](https://github.com/MapColonies/image-exporter-client)
+3. 💪 Opened PR [#311](https://github.com/MapColonies/discrete-layer-client/pull/311) in [MapColonies/discrete-layer-client](https://github.com/MapColonies/discrete-layer-client)
+4. 💪 Opened PR [#275](https://github.com/MapColonies/ts-server-boilerplate/pull/275) in [MapColonies/ts-server-boilerplate](https://github.com/MapColonies/ts-server-boilerplate)
+5. 💪 Opened PR [#103](https://github.com/MapColonies/export-request-storage/pull/103) in [MapColonies/export-request-storage](https://github.com/MapColonies/export-request-storage)
 <!--END_SECTION:activity-->
 
 ![contrib](./profile-3d-contrib/profile-green-animate.svg)
