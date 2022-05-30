@@ -23,11 +23,11 @@ Check out my first npm package: [slack-emojis](https://www.npmjs.com/package/sla
 
 ## Recent Acitivty
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#44](https://github.com/MapColonies/telemetry/pull/44) in [MapColonies/telemetry](https://github.com/MapColonies/telemetry)
-2. ❌ Closed PR [#42](https://github.com/MapColonies/telemetry/pull/42) in [MapColonies/telemetry](https://github.com/MapColonies/telemetry)
-3. 🎉 Merged PR [#41](https://github.com/MapColonies/telemetry/pull/41) in [MapColonies/telemetry](https://github.com/MapColonies/telemetry)
-4. 🎉 Merged PR [#8](https://github.com/MapColonies/osm2pgsql-wrapper/pull/8) in [MapColonies/osm2pgsql-wrapper](https://github.com/MapColonies/osm2pgsql-wrapper)
-5. ❗️ Closed issue [#6](https://github.com/MapColonies/osm2pgsql-wrapper/issues/6) in [MapColonies/osm2pgsql-wrapper](https://github.com/MapColonies/osm2pgsql-wrapper)
+1. ❌ Closed PR [#45](https://github.com/MapColonies/telemetry/pull/45) in [MapColonies/telemetry](https://github.com/MapColonies/telemetry)
+2. ❌ Closed PR [#43](https://github.com/MapColonies/telemetry/pull/43) in [MapColonies/telemetry](https://github.com/MapColonies/telemetry)
+3. ❌ Closed PR [#44](https://github.com/MapColonies/telemetry/pull/44) in [MapColonies/telemetry](https://github.com/MapColonies/telemetry)
+4. ❌ Closed PR [#42](https://github.com/MapColonies/telemetry/pull/42) in [MapColonies/telemetry](https://github.com/MapColonies/telemetry)
+5. 🎉 Merged PR [#41](https://github.com/MapColonies/telemetry/pull/41) in [MapColonies/telemetry](https://github.com/MapColonies/telemetry)
 <!--END_SECTION:activity-->
 
 ![contrib](./profile-3d-contrib/profile-green-animate.svg)
