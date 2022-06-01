@@ -23,11 +23,11 @@ Check out my first npm package: [slack-emojis](https://www.npmjs.com/package/sla
 
 ## Recent Acitivty
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#65](https://github.com/MapColonies/id-merger/pull/65) in [MapColonies/id-merger](https://github.com/MapColonies/id-merger)
-2. 💪 Opened PR [#65](https://github.com/MapColonies/id-merger/pull/65) in [MapColonies/id-merger](https://github.com/MapColonies/id-merger)
-3. 🎉 Merged PR [#150](https://github.com/MapColonies/id-2-osm/pull/150) in [MapColonies/id-2-osm](https://github.com/MapColonies/id-2-osm)
-4. 💪 Opened PR [#150](https://github.com/MapColonies/id-2-osm/pull/150) in [MapColonies/id-2-osm](https://github.com/MapColonies/id-2-osm)
-5. 🎉 Merged PR [#151](https://github.com/MapColonies/external-to-osm-tag-mapping/pull/151) in [MapColonies/external-to-osm-tag-mapping](https://github.com/MapColonies/external-to-osm-tag-mapping)
+1. 🎉 Merged PR [#277](https://github.com/MapColonies/ts-server-boilerplate/pull/277) in [MapColonies/ts-server-boilerplate](https://github.com/MapColonies/ts-server-boilerplate)
+2. 💪 Opened PR [#6](https://github.com/MapColonies/k8s-job-chief/pull/6) in [MapColonies/k8s-job-chief](https://github.com/MapColonies/k8s-job-chief)
+3. 💪 Opened PR [#277](https://github.com/MapColonies/ts-server-boilerplate/pull/277) in [MapColonies/ts-server-boilerplate](https://github.com/MapColonies/ts-server-boilerplate)
+4. 🎉 Merged PR [#9](https://github.com/MapColonies/js-logger/pull/9) in [MapColonies/js-logger](https://github.com/MapColonies/js-logger)
+5. 💪 Opened PR [#9](https://github.com/MapColonies/js-logger/pull/9) in [MapColonies/js-logger](https://github.com/MapColonies/js-logger)
 <!--END_SECTION:activity-->
 
 ![contrib](./profile-3d-contrib/profile-green-animate.svg)
