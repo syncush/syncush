@@ -23,11 +23,11 @@ Check out my first npm package: [slack-emojis](https://www.npmjs.com/package/sla
 
 ## Recent Acitivty
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#8](https://github.com/MapColonies/error-express-handler/pull/8) in [MapColonies/error-express-handler](https://github.com/MapColonies/error-express-handler)
-2. 🎉 Merged PR [#36](https://github.com/MapColonies/dump-server/pull/36) in [MapColonies/dump-server](https://github.com/MapColonies/dump-server)
-3. 💪 Opened PR [#36](https://github.com/MapColonies/dump-server/pull/36) in [MapColonies/dump-server](https://github.com/MapColonies/dump-server)
-4. 🎉 Merged PR [#6](https://github.com/MapColonies/error-express-handler/pull/6) in [MapColonies/error-express-handler](https://github.com/MapColonies/error-express-handler)
-5. 🎉 Merged PR [#84](https://github.com/MapColonies/change-merger/pull/84) in [MapColonies/change-merger](https://github.com/MapColonies/change-merger)
+1. 🎉 Merged PR [#65](https://github.com/MapColonies/id-merger/pull/65) in [MapColonies/id-merger](https://github.com/MapColonies/id-merger)
+2. 💪 Opened PR [#65](https://github.com/MapColonies/id-merger/pull/65) in [MapColonies/id-merger](https://github.com/MapColonies/id-merger)
+3. 🎉 Merged PR [#150](https://github.com/MapColonies/id-2-osm/pull/150) in [MapColonies/id-2-osm](https://github.com/MapColonies/id-2-osm)
+4. 💪 Opened PR [#150](https://github.com/MapColonies/id-2-osm/pull/150) in [MapColonies/id-2-osm](https://github.com/MapColonies/id-2-osm)
+5. 🎉 Merged PR [#151](https://github.com/MapColonies/external-to-osm-tag-mapping/pull/151) in [MapColonies/external-to-osm-tag-mapping](https://github.com/MapColonies/external-to-osm-tag-mapping)
 <!--END_SECTION:activity-->
 
 ![contrib](./profile-3d-contrib/profile-green-animate.svg)
