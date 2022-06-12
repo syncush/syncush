@@ -23,11 +23,11 @@ Check out my first npm package: [slack-emojis](https://www.npmjs.com/package/sla
 
 ## Recent Acitivty
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#46](https://github.com/MapColonies/telemetry/pull/46) in [MapColonies/telemetry](https://github.com/MapColonies/telemetry)
-2. 🎉 Merged PR [#71](https://github.com/MapColonies/osm-change-generator-server/pull/71) in [MapColonies/osm-change-generator-server](https://github.com/MapColonies/osm-change-generator-server)
-3. 🎉 Merged PR [#10](https://github.com/MapColonies/js-logger/pull/10) in [MapColonies/js-logger](https://github.com/MapColonies/js-logger)
-4. 🎉 Merged PR [#47](https://github.com/MapColonies/telemetry/pull/47) in [MapColonies/telemetry](https://github.com/MapColonies/telemetry)
-5. 🎉 Merged PR [#151](https://github.com/MapColonies/id-2-osm/pull/151) in [MapColonies/id-2-osm](https://github.com/MapColonies/id-2-osm)
+1. 💪 Opened PR [#9](https://github.com/MapColonies/replica-server/pull/9) in [MapColonies/replica-server](https://github.com/MapColonies/replica-server)
+2. 🎉 Merged PR [#46](https://github.com/MapColonies/telemetry/pull/46) in [MapColonies/telemetry](https://github.com/MapColonies/telemetry)
+3. 🎉 Merged PR [#71](https://github.com/MapColonies/osm-change-generator-server/pull/71) in [MapColonies/osm-change-generator-server](https://github.com/MapColonies/osm-change-generator-server)
+4. 🎉 Merged PR [#10](https://github.com/MapColonies/js-logger/pull/10) in [MapColonies/js-logger](https://github.com/MapColonies/js-logger)
+5. 🎉 Merged PR [#47](https://github.com/MapColonies/telemetry/pull/47) in [MapColonies/telemetry](https://github.com/MapColonies/telemetry)
 <!--END_SECTION:activity-->
 
 ![contrib](./profile-3d-contrib/profile-green-animate.svg)
