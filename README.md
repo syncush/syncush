@@ -23,11 +23,11 @@ Check out my first npm package: [slack-emojis](https://www.npmjs.com/package/sla
 
 ## Recent Acitivty
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#152](https://github.com/MapColonies/external-to-osm-tag-mapping/pull/152) in [MapColonies/external-to-osm-tag-mapping](https://github.com/MapColonies/external-to-osm-tag-mapping)
-2. 🎉 Merged PR [#48](https://github.com/MapColonies/osm-sync-tracker/pull/48) in [MapColonies/osm-sync-tracker](https://github.com/MapColonies/osm-sync-tracker)
-3. 🎉 Merged PR [#2](https://github.com/MapColonies/osmdbt-wrapper/pull/2) in [MapColonies/osmdbt-wrapper](https://github.com/MapColonies/osmdbt-wrapper)
-4. 💪 Opened PR [#152](https://github.com/MapColonies/external-to-osm-tag-mapping/pull/152) in [MapColonies/external-to-osm-tag-mapping](https://github.com/MapColonies/external-to-osm-tag-mapping)
-5. 🎉 Merged PR [#10](https://github.com/MapColonies/replica-server/pull/10) in [MapColonies/replica-server](https://github.com/MapColonies/replica-server)
+1. ❌ Closed PR [#1](https://github.com/syncush/predator/pull/1) in [syncush/predator](https://github.com/syncush/predator)
+2. ❌ Closed PR [#4](https://github.com/syncush/predator/pull/4) in [syncush/predator](https://github.com/syncush/predator)
+3. ❌ Closed PR [#3](https://github.com/syncush/predator/pull/3) in [syncush/predator](https://github.com/syncush/predator)
+4. ❌ Closed PR [#2](https://github.com/syncush/predator/pull/2) in [syncush/predator](https://github.com/syncush/predator)
+5. ❌ Closed PR [#5](https://github.com/syncush/predator/pull/5) in [syncush/predator](https://github.com/syncush/predator)
 <!--END_SECTION:activity-->
 
 ![contrib](./profile-3d-contrib/profile-green-animate.svg)
