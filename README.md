@@ -23,11 +23,11 @@ Check out my first npm package: [slack-emojis](https://www.npmjs.com/package/sla
 
 ## Recent Acitivty
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/MapColonies/osmdbt-wrapper/pull/3) in [MapColonies/osmdbt-wrapper](https://github.com/MapColonies/osmdbt-wrapper)
-2. 🎉 Merged PR [#10](https://github.com/MapColonies/metatile-queue-populator/pull/10) in [MapColonies/metatile-queue-populator](https://github.com/MapColonies/metatile-queue-populator)
-3. 🎉 Merged PR [#8](https://github.com/MapColonies/k8s-job-chief/pull/8) in [MapColonies/k8s-job-chief](https://github.com/MapColonies/k8s-job-chief)
-4. 🎉 Merged PR [#66](https://github.com/MapColonies/id-merger/pull/66) in [MapColonies/id-merger](https://github.com/MapColonies/id-merger)
-5. 🎉 Merged PR [#153](https://github.com/MapColonies/external-to-osm-tag-mapping/pull/153) in [MapColonies/external-to-osm-tag-mapping](https://github.com/MapColonies/external-to-osm-tag-mapping)
+1. 🎉 Merged PR [#19](https://github.com/MapColonies/retiler/pull/19) in [MapColonies/retiler](https://github.com/MapColonies/retiler)
+2. 🎉 Merged PR [#49](https://github.com/MapColonies/osm-sync-tracker/pull/49) in [MapColonies/osm-sync-tracker](https://github.com/MapColonies/osm-sync-tracker)
+3. 🎉 Merged PR [#3](https://github.com/MapColonies/osmdbt-wrapper/pull/3) in [MapColonies/osmdbt-wrapper](https://github.com/MapColonies/osmdbt-wrapper)
+4. 🎉 Merged PR [#10](https://github.com/MapColonies/metatile-queue-populator/pull/10) in [MapColonies/metatile-queue-populator](https://github.com/MapColonies/metatile-queue-populator)
+5. 🎉 Merged PR [#8](https://github.com/MapColonies/k8s-job-chief/pull/8) in [MapColonies/k8s-job-chief](https://github.com/MapColonies/k8s-job-chief)
 <!--END_SECTION:activity-->
 
 ![contrib](./profile-3d-contrib/profile-green-animate.svg)
