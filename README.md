@@ -23,11 +23,11 @@ Check out my first npm package: [slack-emojis](https://www.npmjs.com/package/sla
 
 ## Recent Acitivty
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#86](https://github.com/MapColonies/change-merger/pull/86) in [MapColonies/change-merger](https://github.com/MapColonies/change-merger)
-2. 💪 Opened PR [#86](https://github.com/MapColonies/change-merger/pull/86) in [MapColonies/change-merger](https://github.com/MapColonies/change-merger)
-3. ❌ Closed PR [#4](https://github.com/MapColonies/cleanup-registry/pull/4) in [MapColonies/cleanup-registry](https://github.com/MapColonies/cleanup-registry)
-4. ❌ Closed PR [#2](https://github.com/MapColonies/cleanup-registry/pull/2) in [MapColonies/cleanup-registry](https://github.com/MapColonies/cleanup-registry)
-5. ❌ Closed PR [#3](https://github.com/MapColonies/cleanup-registry/pull/3) in [MapColonies/cleanup-registry](https://github.com/MapColonies/cleanup-registry)
+1. 🎉 Merged PR [#20](https://github.com/MapColonies/shared-images/pull/20) in [MapColonies/shared-images](https://github.com/MapColonies/shared-images)
+2. 🎉 Merged PR [#86](https://github.com/MapColonies/change-merger/pull/86) in [MapColonies/change-merger](https://github.com/MapColonies/change-merger)
+3. 💪 Opened PR [#86](https://github.com/MapColonies/change-merger/pull/86) in [MapColonies/change-merger](https://github.com/MapColonies/change-merger)
+4. ❌ Closed PR [#4](https://github.com/MapColonies/cleanup-registry/pull/4) in [MapColonies/cleanup-registry](https://github.com/MapColonies/cleanup-registry)
+5. ❌ Closed PR [#2](https://github.com/MapColonies/cleanup-registry/pull/2) in [MapColonies/cleanup-registry](https://github.com/MapColonies/cleanup-registry)
 <!--END_SECTION:activity-->
 
 ![contrib](./profile-3d-contrib/profile-green-animate.svg)
