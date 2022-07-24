@@ -23,11 +23,11 @@ Check out my first npm package: [slack-emojis](https://www.npmjs.com/package/sla
 
 ## Recent Acitivty
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/MapColonies/geoserver-datadir-sync/pull/6) in [MapColonies/geoserver-datadir-sync](https://github.com/MapColonies/geoserver-datadir-sync)
-2. 🎉 Merged PR [#11](https://github.com/MapColonies/osm2pgsql-wrapper/pull/11) in [MapColonies/osm2pgsql-wrapper](https://github.com/MapColonies/osm2pgsql-wrapper)
-3. 🎉 Merged PR [#20](https://github.com/MapColonies/shared-images/pull/20) in [MapColonies/shared-images](https://github.com/MapColonies/shared-images)
-4. 🎉 Merged PR [#86](https://github.com/MapColonies/change-merger/pull/86) in [MapColonies/change-merger](https://github.com/MapColonies/change-merger)
-5. 💪 Opened PR [#86](https://github.com/MapColonies/change-merger/pull/86) in [MapColonies/change-merger](https://github.com/MapColonies/change-merger)
+1. 🎉 Merged PR [#5](https://github.com/MapColonies/cleanup-registry/pull/5) in [MapColonies/cleanup-registry](https://github.com/MapColonies/cleanup-registry)
+2. 🎉 Merged PR [#6](https://github.com/MapColonies/geoserver-datadir-sync/pull/6) in [MapColonies/geoserver-datadir-sync](https://github.com/MapColonies/geoserver-datadir-sync)
+3. 🎉 Merged PR [#11](https://github.com/MapColonies/osm2pgsql-wrapper/pull/11) in [MapColonies/osm2pgsql-wrapper](https://github.com/MapColonies/osm2pgsql-wrapper)
+4. 🎉 Merged PR [#20](https://github.com/MapColonies/shared-images/pull/20) in [MapColonies/shared-images](https://github.com/MapColonies/shared-images)
+5. 🎉 Merged PR [#86](https://github.com/MapColonies/change-merger/pull/86) in [MapColonies/change-merger](https://github.com/MapColonies/change-merger)
 <!--END_SECTION:activity-->
 
 ![contrib](./profile-3d-contrib/profile-green-animate.svg)
