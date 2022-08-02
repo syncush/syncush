@@ -23,11 +23,11 @@ Check out my first npm package: [slack-emojis](https://www.npmjs.com/package/sla
 
 ## Recent Acitivty
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#31](https://github.com/MapColonies/developer-portal/pull/31) in [MapColonies/developer-portal](https://github.com/MapColonies/developer-portal)
-2. 💪 Opened PR [#35](https://github.com/MapColonies/developer-portal/pull/35) in [MapColonies/developer-portal](https://github.com/MapColonies/developer-portal)
-3. 💪 Opened PR [#4](https://github.com/MapColonies/osmdbt-wrapper/pull/4) in [MapColonies/osmdbt-wrapper](https://github.com/MapColonies/osmdbt-wrapper)
-4. 🎉 Merged PR [#33](https://github.com/MapColonies/developer-portal/pull/33) in [MapColonies/developer-portal](https://github.com/MapColonies/developer-portal)
-5. 🎉 Merged PR [#30](https://github.com/MapColonies/developer-portal/pull/30) in [MapColonies/developer-portal](https://github.com/MapColonies/developer-portal)
+1. 🎉 Merged PR [#7](https://github.com/MapColonies/geoserver-datadir-sync/pull/7) in [MapColonies/geoserver-datadir-sync](https://github.com/MapColonies/geoserver-datadir-sync)
+2. 🎉 Merged PR [#31](https://github.com/MapColonies/developer-portal/pull/31) in [MapColonies/developer-portal](https://github.com/MapColonies/developer-portal)
+3. 💪 Opened PR [#35](https://github.com/MapColonies/developer-portal/pull/35) in [MapColonies/developer-portal](https://github.com/MapColonies/developer-portal)
+4. 💪 Opened PR [#4](https://github.com/MapColonies/osmdbt-wrapper/pull/4) in [MapColonies/osmdbt-wrapper](https://github.com/MapColonies/osmdbt-wrapper)
+5. 🎉 Merged PR [#33](https://github.com/MapColonies/developer-portal/pull/33) in [MapColonies/developer-portal](https://github.com/MapColonies/developer-portal)
 <!--END_SECTION:activity-->
 
 ![contrib](./profile-3d-contrib/profile-green-animate.svg)
