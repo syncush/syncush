@@ -23,11 +23,11 @@ Check out my first npm package: [slack-emojis](https://www.npmjs.com/package/sla
 
 ## Recent Acitivty
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#21](https://github.com/MapColonies/shared-images/pull/21) in [MapColonies/shared-images](https://github.com/MapColonies/shared-images)
-2. ❌ Closed PR [#1](https://github.com/MapColonies/mapcolonies-dev-cli/pull/1) in [MapColonies/mapcolonies-dev-cli](https://github.com/MapColonies/mapcolonies-dev-cli)
-3. ❌ Closed PR [#29](https://github.com/MapColonies/developer-portal/pull/29) in [MapColonies/developer-portal](https://github.com/MapColonies/developer-portal)
-4. 🎉 Merged PR [#35](https://github.com/MapColonies/developer-portal/pull/35) in [MapColonies/developer-portal](https://github.com/MapColonies/developer-portal)
-5. 🎉 Merged PR [#7](https://github.com/MapColonies/geoserver-datadir-sync/pull/7) in [MapColonies/geoserver-datadir-sync](https://github.com/MapColonies/geoserver-datadir-sync)
+1. 🎉 Merged PR [#278](https://github.com/MapColonies/ts-server-boilerplate/pull/278) in [MapColonies/ts-server-boilerplate](https://github.com/MapColonies/ts-server-boilerplate)
+2. 🎉 Merged PR [#21](https://github.com/MapColonies/shared-images/pull/21) in [MapColonies/shared-images](https://github.com/MapColonies/shared-images)
+3. ❌ Closed PR [#1](https://github.com/MapColonies/mapcolonies-dev-cli/pull/1) in [MapColonies/mapcolonies-dev-cli](https://github.com/MapColonies/mapcolonies-dev-cli)
+4. ❌ Closed PR [#29](https://github.com/MapColonies/developer-portal/pull/29) in [MapColonies/developer-portal](https://github.com/MapColonies/developer-portal)
+5. 🎉 Merged PR [#35](https://github.com/MapColonies/developer-portal/pull/35) in [MapColonies/developer-portal](https://github.com/MapColonies/developer-portal)
 <!--END_SECTION:activity-->
 
 ![contrib](./profile-3d-contrib/profile-green-animate.svg)
