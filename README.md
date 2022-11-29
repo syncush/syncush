@@ -23,11 +23,11 @@ Check out my first npm package: [slack-emojis](https://www.npmjs.com/package/sla
 
 ## Recent Acitivty
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#46](https://github.com/MapColonies/developer-portal/pull/46) in [MapColonies/developer-portal](https://github.com/MapColonies/developer-portal)
-2. ❗️ Opened issue [#38](https://github.com/openblocks-dev/openblocks/issues/38) in [openblocks-dev/openblocks](https://github.com/openblocks-dev/openblocks)
-3. 🎉 Merged PR [#9](https://github.com/MapColonies/error-express-handler/pull/9) in [MapColonies/error-express-handler](https://github.com/MapColonies/error-express-handler)
-4. ❌ Closed PR [#44](https://github.com/MapColonies/developer-portal/pull/44) in [MapColonies/developer-portal](https://github.com/MapColonies/developer-portal)
-5. 🎉 Merged PR [#6](https://github.com/MapColonies/openapi-express-viewer/pull/6) in [MapColonies/openapi-express-viewer](https://github.com/MapColonies/openapi-express-viewer)
+1. 🎉 Merged PR [#45](https://github.com/MapColonies/developer-portal/pull/45) in [MapColonies/developer-portal](https://github.com/MapColonies/developer-portal)
+2. 🎉 Merged PR [#43](https://github.com/MapColonies/developer-portal/pull/43) in [MapColonies/developer-portal](https://github.com/MapColonies/developer-portal)
+3. ❌ Closed PR [#46](https://github.com/MapColonies/developer-portal/pull/46) in [MapColonies/developer-portal](https://github.com/MapColonies/developer-portal)
+4. ❗️ Opened issue [#38](https://github.com/openblocks-dev/openblocks/issues/38) in [openblocks-dev/openblocks](https://github.com/openblocks-dev/openblocks)
+5. 🎉 Merged PR [#9](https://github.com/MapColonies/error-express-handler/pull/9) in [MapColonies/error-express-handler](https://github.com/MapColonies/error-express-handler)
 <!--END_SECTION:activity-->
 
 ![contrib](./profile-3d-contrib/profile-green-animate.svg)
