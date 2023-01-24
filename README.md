@@ -23,11 +23,11 @@ Check out my first npm package: [slack-emojis](https://www.npmjs.com/package/sla
 
 ## Recent Acitivty
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#27](https://github.com/MapColonies/shared-images/pull/27) in [MapColonies/shared-images](https://github.com/MapColonies/shared-images)
-2. 🗣 Commented on [#27](https://github.com/MapColonies/shared-images/issues/27) in [MapColonies/shared-images](https://github.com/MapColonies/shared-images)
-3. ❗️ Opened issue [#14608](https://github.com/microsoft/terminal/issues/14608) in [microsoft/terminal](https://github.com/microsoft/terminal)
-4. 🎉 Merged PR [#48](https://github.com/MapColonies/developer-portal/pull/48) in [MapColonies/developer-portal](https://github.com/MapColonies/developer-portal)
-5. 🎉 Merged PR [#49](https://github.com/MapColonies/developer-portal/pull/49) in [MapColonies/developer-portal](https://github.com/MapColonies/developer-portal)
+1. 🗣 Commented on [#50](https://github.com/MapColonies/developer-portal/issues/50) in [MapColonies/developer-portal](https://github.com/MapColonies/developer-portal)
+2. 🎉 Merged PR [#27](https://github.com/MapColonies/shared-images/pull/27) in [MapColonies/shared-images](https://github.com/MapColonies/shared-images)
+3. 🗣 Commented on [#27](https://github.com/MapColonies/shared-images/issues/27) in [MapColonies/shared-images](https://github.com/MapColonies/shared-images)
+4. ❗️ Opened issue [#14608](https://github.com/microsoft/terminal/issues/14608) in [microsoft/terminal](https://github.com/microsoft/terminal)
+5. 🎉 Merged PR [#48](https://github.com/MapColonies/developer-portal/pull/48) in [MapColonies/developer-portal](https://github.com/MapColonies/developer-portal)
 <!--END_SECTION:activity-->
 
 ![contrib](./profile-3d-contrib/profile-green-animate.svg)
