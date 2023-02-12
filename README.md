@@ -23,11 +23,11 @@ Check out my first npm package: [slack-emojis](https://www.npmjs.com/package/sla
 
 ## Recent Acitivty
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#29](https://github.com/MapColonies/shared-images/pull/29) in [MapColonies/shared-images](https://github.com/MapColonies/shared-images)
-2. 🎉 Merged PR [#50](https://github.com/MapColonies/developer-portal/pull/50) in [MapColonies/developer-portal](https://github.com/MapColonies/developer-portal)
-3. 🎉 Merged PR [#28](https://github.com/MapColonies/shared-images/pull/28) in [MapColonies/shared-images](https://github.com/MapColonies/shared-images)
-4. 🗣 Commented on [#50](https://github.com/MapColonies/developer-portal/issues/50) in [MapColonies/developer-portal](https://github.com/MapColonies/developer-portal)
-5. 🎉 Merged PR [#27](https://github.com/MapColonies/shared-images/pull/27) in [MapColonies/shared-images](https://github.com/MapColonies/shared-images)
+1. ❌ Closed PR [#51](https://github.com/MapColonies/developer-portal/pull/51) in [MapColonies/developer-portal](https://github.com/MapColonies/developer-portal)
+2. 🎉 Merged PR [#29](https://github.com/MapColonies/shared-images/pull/29) in [MapColonies/shared-images](https://github.com/MapColonies/shared-images)
+3. 🎉 Merged PR [#50](https://github.com/MapColonies/developer-portal/pull/50) in [MapColonies/developer-portal](https://github.com/MapColonies/developer-portal)
+4. 🎉 Merged PR [#28](https://github.com/MapColonies/shared-images/pull/28) in [MapColonies/shared-images](https://github.com/MapColonies/shared-images)
+5. 🗣 Commented on [#50](https://github.com/MapColonies/developer-portal/issues/50) in [MapColonies/developer-portal](https://github.com/MapColonies/developer-portal)
 <!--END_SECTION:activity-->
 
 ![contrib](./profile-3d-contrib/profile-green-animate.svg)
