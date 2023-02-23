@@ -23,11 +23,11 @@ Check out my first npm package: [slack-emojis](https://www.npmjs.com/package/sla
 
 ## Recent Acitivty
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#23](https://github.com/MapColonies/retiler/pull/23) in [MapColonies/retiler](https://github.com/MapColonies/retiler)
-2. 💪 Opened PR [#29](https://github.com/MapColonies/planet-dumper/pull/29) in [MapColonies/planet-dumper](https://github.com/MapColonies/planet-dumper)
-3. 💪 Opened PR [#14](https://github.com/MapColonies/osm2pgsql-wrapper/pull/14) in [MapColonies/osm2pgsql-wrapper](https://github.com/MapColonies/osm2pgsql-wrapper)
-4. ❌ Closed PR [#52](https://github.com/MapColonies/developer-portal/pull/52) in [MapColonies/developer-portal](https://github.com/MapColonies/developer-portal)
-5. ❌ Closed PR [#51](https://github.com/MapColonies/developer-portal/pull/51) in [MapColonies/developer-portal](https://github.com/MapColonies/developer-portal)
+1. 🎉 Merged PR [#47](https://github.com/MapColonies/developer-portal/pull/47) in [MapColonies/developer-portal](https://github.com/MapColonies/developer-portal)
+2. 🗣 Commented on [#47](https://github.com/MapColonies/developer-portal/issues/47) in [MapColonies/developer-portal](https://github.com/MapColonies/developer-portal)
+3. 💪 Opened PR [#23](https://github.com/MapColonies/retiler/pull/23) in [MapColonies/retiler](https://github.com/MapColonies/retiler)
+4. 💪 Opened PR [#29](https://github.com/MapColonies/planet-dumper/pull/29) in [MapColonies/planet-dumper](https://github.com/MapColonies/planet-dumper)
+5. 💪 Opened PR [#14](https://github.com/MapColonies/osm2pgsql-wrapper/pull/14) in [MapColonies/osm2pgsql-wrapper](https://github.com/MapColonies/osm2pgsql-wrapper)
 <!--END_SECTION:activity-->
 
 ![contrib](./profile-3d-contrib/profile-green-animate.svg)
