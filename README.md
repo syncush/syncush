@@ -23,11 +23,11 @@ Check out my first npm package: [slack-emojis](https://www.npmjs.com/package/sla
 
 ## Recent Acitivty
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#53](https://github.com/MapColonies/developer-portal/pull/53) in [MapColonies/developer-portal](https://github.com/MapColonies/developer-portal)
-2. 🎉 Merged PR [#10](https://github.com/MapColonies/osmdbt-wrapper/pull/10) in [MapColonies/osmdbt-wrapper](https://github.com/MapColonies/osmdbt-wrapper)
-3. 🎉 Merged PR [#47](https://github.com/MapColonies/developer-portal/pull/47) in [MapColonies/developer-portal](https://github.com/MapColonies/developer-portal)
-4. 🗣 Commented on [#47](https://github.com/MapColonies/developer-portal/issues/47) in [MapColonies/developer-portal](https://github.com/MapColonies/developer-portal)
-5. 💪 Opened PR [#23](https://github.com/MapColonies/retiler/pull/23) in [MapColonies/retiler](https://github.com/MapColonies/retiler)
+1. 🎉 Merged PR [#54](https://github.com/MapColonies/developer-portal/pull/54) in [MapColonies/developer-portal](https://github.com/MapColonies/developer-portal)
+2. 🎉 Merged PR [#53](https://github.com/MapColonies/developer-portal/pull/53) in [MapColonies/developer-portal](https://github.com/MapColonies/developer-portal)
+3. 🎉 Merged PR [#10](https://github.com/MapColonies/osmdbt-wrapper/pull/10) in [MapColonies/osmdbt-wrapper](https://github.com/MapColonies/osmdbt-wrapper)
+4. 🎉 Merged PR [#47](https://github.com/MapColonies/developer-portal/pull/47) in [MapColonies/developer-portal](https://github.com/MapColonies/developer-portal)
+5. 🗣 Commented on [#47](https://github.com/MapColonies/developer-portal/issues/47) in [MapColonies/developer-portal](https://github.com/MapColonies/developer-portal)
 <!--END_SECTION:activity-->
 
 ![contrib](./profile-3d-contrib/profile-green-animate.svg)
