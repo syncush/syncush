@@ -23,11 +23,11 @@ Check out my first npm package: [slack-emojis](https://www.npmjs.com/package/sla
 
 ## Recent Acitivty
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#5](https://github.com/MapColonies/arstotzka/pull/5) in [MapColonies/arstotzka](https://github.com/MapColonies/arstotzka)
-2. ❌ Closed PR [#1](https://github.com/MapColonies/arstotzka/pull/1) in [MapColonies/arstotzka](https://github.com/MapColonies/arstotzka)
-3. ❌ Closed PR [#3](https://github.com/MapColonies/arstotzka/pull/3) in [MapColonies/arstotzka](https://github.com/MapColonies/arstotzka)
-4. ❌ Closed PR [#4](https://github.com/MapColonies/arstotzka/pull/4) in [MapColonies/arstotzka](https://github.com/MapColonies/arstotzka)
-5. 🎉 Merged PR [#282](https://github.com/MapColonies/ts-server-boilerplate/pull/282) in [MapColonies/ts-server-boilerplate](https://github.com/MapColonies/ts-server-boilerplate)
+1. 🎉 Merged PR [#3](https://github.com/MapColonies/opa-la/pull/3) in [MapColonies/opa-la](https://github.com/MapColonies/opa-la)
+2. ❌ Closed PR [#5](https://github.com/MapColonies/arstotzka/pull/5) in [MapColonies/arstotzka](https://github.com/MapColonies/arstotzka)
+3. ❌ Closed PR [#1](https://github.com/MapColonies/arstotzka/pull/1) in [MapColonies/arstotzka](https://github.com/MapColonies/arstotzka)
+4. ❌ Closed PR [#3](https://github.com/MapColonies/arstotzka/pull/3) in [MapColonies/arstotzka](https://github.com/MapColonies/arstotzka)
+5. ❌ Closed PR [#4](https://github.com/MapColonies/arstotzka/pull/4) in [MapColonies/arstotzka](https://github.com/MapColonies/arstotzka)
 <!--END_SECTION:activity-->
 
 ![contrib](./profile-3d-contrib/profile-green-animate.svg)
