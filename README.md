@@ -23,11 +23,11 @@ Check out my first npm package: [slack-emojis](https://www.npmjs.com/package/sla
 
 ## Recent Acitivty
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com/MapColonies/opa-la/issues/6) in [MapColonies/opa-la](https://github.com/MapColonies/opa-la)
-2. 🎉 Merged PR [#55](https://github.com/MapColonies/osm-sync-tracker/pull/55) in [MapColonies/osm-sync-tracker](https://github.com/MapColonies/osm-sync-tracker)
-3. 🎉 Merged PR [#25](https://github.com/MapColonies/retiler/pull/25) in [MapColonies/retiler](https://github.com/MapColonies/retiler)
-4. 🎉 Merged PR [#3](https://github.com/MapColonies/opa-la/pull/3) in [MapColonies/opa-la](https://github.com/MapColonies/opa-la)
-5. ❌ Closed PR [#5](https://github.com/MapColonies/arstotzka/pull/5) in [MapColonies/arstotzka](https://github.com/MapColonies/arstotzka)
+1. 🎉 Merged PR [#6](https://github.com/MapColonies/opa-la/pull/6) in [MapColonies/opa-la](https://github.com/MapColonies/opa-la)
+2. 🗣 Commented on [#6](https://github.com/MapColonies/opa-la/issues/6) in [MapColonies/opa-la](https://github.com/MapColonies/opa-la)
+3. 🎉 Merged PR [#55](https://github.com/MapColonies/osm-sync-tracker/pull/55) in [MapColonies/osm-sync-tracker](https://github.com/MapColonies/osm-sync-tracker)
+4. 🎉 Merged PR [#25](https://github.com/MapColonies/retiler/pull/25) in [MapColonies/retiler](https://github.com/MapColonies/retiler)
+5. 🎉 Merged PR [#3](https://github.com/MapColonies/opa-la/pull/3) in [MapColonies/opa-la](https://github.com/MapColonies/opa-la)
 <!--END_SECTION:activity-->
 
 ![contrib](./profile-3d-contrib/profile-green-animate.svg)
