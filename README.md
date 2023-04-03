@@ -23,11 +23,11 @@ Check out my first npm package: [slack-emojis](https://www.npmjs.com/package/sla
 
 ## Recent Acitivty
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/MapColonies/express-access-log-middleware/pull/6) in [MapColonies/express-access-log-middleware](https://github.com/MapColonies/express-access-log-middleware)
-2. 🗣 Commented on [#422](https://github.com/mapproxy/mapproxy/issues/422) in [mapproxy/mapproxy](https://github.com/mapproxy/mapproxy)
-3. 🎉 Merged PR [#6](https://github.com/MapColonies/opa-la/pull/6) in [MapColonies/opa-la](https://github.com/MapColonies/opa-la)
-4. 🗣 Commented on [#6](https://github.com/MapColonies/opa-la/issues/6) in [MapColonies/opa-la](https://github.com/MapColonies/opa-la)
-5. 🎉 Merged PR [#55](https://github.com/MapColonies/osm-sync-tracker/pull/55) in [MapColonies/osm-sync-tracker](https://github.com/MapColonies/osm-sync-tracker)
+1. ❗️ Closed issue [#3](https://github.com/MapColonies/telemetry/issues/3) in [MapColonies/telemetry](https://github.com/MapColonies/telemetry)
+2. ❌ Closed PR [#50](https://github.com/MapColonies/telemetry/pull/50) in [MapColonies/telemetry](https://github.com/MapColonies/telemetry)
+3. ❌ Closed PR [#49](https://github.com/MapColonies/telemetry/pull/49) in [MapColonies/telemetry](https://github.com/MapColonies/telemetry)
+4. 🎉 Merged PR [#6](https://github.com/MapColonies/express-access-log-middleware/pull/6) in [MapColonies/express-access-log-middleware](https://github.com/MapColonies/express-access-log-middleware)
+5. 🗣 Commented on [#422](https://github.com/mapproxy/mapproxy/issues/422) in [mapproxy/mapproxy](https://github.com/mapproxy/mapproxy)
 <!--END_SECTION:activity-->
 
 ![contrib](./profile-3d-contrib/profile-green-animate.svg)
