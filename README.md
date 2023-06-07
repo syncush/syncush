@@ -23,11 +23,11 @@ Check out my first npm package: [slack-emojis](https://www.npmjs.com/package/sla
 
 ## Recent Acitivty
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#23](https://github.com/MapColonies/opa-la/pull/23) in [MapColonies/opa-la](https://github.com/MapColonies/opa-la)
-2. 🎉 Merged PR [#32](https://github.com/MapColonies/shared-images/pull/32) in [MapColonies/shared-images](https://github.com/MapColonies/shared-images)
-3. 🚀 Published release [v3.0.1](https://github.com/v3.0.1) in [MapColonies/developer-portal](https://github.com/MapColonies/developer-portal)
-4. 💪 Opened PR [#32](https://github.com/MapColonies/shared-images/pull/32) in [MapColonies/shared-images](https://github.com/MapColonies/shared-images)
-5. 🎉 Merged PR [#2](https://github.com/MapColonies/bundler/pull/2) in [MapColonies/bundler](https://github.com/MapColonies/bundler)
+1. 💪 Opened PR [#16](https://github.com/MapColonies/osm2pgsql-wrapper/pull/16) in [MapColonies/osm2pgsql-wrapper](https://github.com/MapColonies/osm2pgsql-wrapper)
+2. 🎉 Merged PR [#23](https://github.com/MapColonies/opa-la/pull/23) in [MapColonies/opa-la](https://github.com/MapColonies/opa-la)
+3. 🎉 Merged PR [#32](https://github.com/MapColonies/shared-images/pull/32) in [MapColonies/shared-images](https://github.com/MapColonies/shared-images)
+4. 🚀 Published release [v3.0.1](https://github.com/v3.0.1) in [MapColonies/developer-portal](https://github.com/MapColonies/developer-portal)
+5. 💪 Opened PR [#32](https://github.com/MapColonies/shared-images/pull/32) in [MapColonies/shared-images](https://github.com/MapColonies/shared-images)
 <!--END_SECTION:activity-->
 
 ![contrib](./profile-3d-contrib/profile-green-animate.svg)
