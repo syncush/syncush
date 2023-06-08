@@ -23,11 +23,11 @@ Check out my first npm package: [slack-emojis](https://www.npmjs.com/package/sla
 
 ## Recent Acitivty
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/MapColonies/types/pull/1) in [MapColonies/types](https://github.com/MapColonies/types)
-2. 💪 Opened PR [#90](https://github.com/MapColonies/change-merger/pull/90) in [MapColonies/change-merger](https://github.com/MapColonies/change-merger)
-3. 💪 Opened PR [#32](https://github.com/MapColonies/planet-dumper/pull/32) in [MapColonies/planet-dumper](https://github.com/MapColonies/planet-dumper)
-4. 💪 Opened PR [#16](https://github.com/MapColonies/osm2pgsql-wrapper/pull/16) in [MapColonies/osm2pgsql-wrapper](https://github.com/MapColonies/osm2pgsql-wrapper)
-5. 🎉 Merged PR [#23](https://github.com/MapColonies/opa-la/pull/23) in [MapColonies/opa-la](https://github.com/MapColonies/opa-la)
+1. 🎉 Merged PR [#1](https://github.com/MapColonies/export-interfaces/pull/1) in [MapColonies/export-interfaces](https://github.com/MapColonies/export-interfaces)
+2. 🎉 Merged PR [#1](https://github.com/MapColonies/types/pull/1) in [MapColonies/types](https://github.com/MapColonies/types)
+3. 💪 Opened PR [#90](https://github.com/MapColonies/change-merger/pull/90) in [MapColonies/change-merger](https://github.com/MapColonies/change-merger)
+4. 💪 Opened PR [#32](https://github.com/MapColonies/planet-dumper/pull/32) in [MapColonies/planet-dumper](https://github.com/MapColonies/planet-dumper)
+5. 💪 Opened PR [#16](https://github.com/MapColonies/osm2pgsql-wrapper/pull/16) in [MapColonies/osm2pgsql-wrapper](https://github.com/MapColonies/osm2pgsql-wrapper)
 <!--END_SECTION:activity-->
 
 ![contrib](./profile-3d-contrib/profile-green-animate.svg)
