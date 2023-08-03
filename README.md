@@ -23,11 +23,11 @@ Check out my first npm package: [slack-emojis](https://www.npmjs.com/package/sla
 
 ## Recent Acitivty
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#18](https://github.com/MapColonies/osm2pgsql-wrapper/pull/18) in [MapColonies/osm2pgsql-wrapper](https://github.com/MapColonies/osm2pgsql-wrapper)
-2. 🎉 Merged PR [#35](https://github.com/MapColonies/shared-images/pull/35) in [MapColonies/shared-images](https://github.com/MapColonies/shared-images)
-3. 🎉 Merged PR [#34](https://github.com/MapColonies/shared-images/pull/34) in [MapColonies/shared-images](https://github.com/MapColonies/shared-images)
-4. 🗣 Commented on [#157](https://github.com/MapColonies/external-to-osm-tag-mapping/pull/157#issuecomment-1647962964) in [MapColonies/external-to-osm-tag-mapping](https://github.com/MapColonies/external-to-osm-tag-mapping)
-5. 🎉 Merged PR [#33](https://github.com/MapColonies/shared-images/pull/33) in [MapColonies/shared-images](https://github.com/MapColonies/shared-images)
+1. ❗ Opened issue [#60](https://github.com/bloomberg/blazingmq/issues/60) in [bloomberg/blazingmq](https://github.com/bloomberg/blazingmq)
+2. 🎉 Merged PR [#18](https://github.com/MapColonies/osm2pgsql-wrapper/pull/18) in [MapColonies/osm2pgsql-wrapper](https://github.com/MapColonies/osm2pgsql-wrapper)
+3. 🎉 Merged PR [#35](https://github.com/MapColonies/shared-images/pull/35) in [MapColonies/shared-images](https://github.com/MapColonies/shared-images)
+4. 🎉 Merged PR [#34](https://github.com/MapColonies/shared-images/pull/34) in [MapColonies/shared-images](https://github.com/MapColonies/shared-images)
+5. 🗣 Commented on [#157](https://github.com/MapColonies/external-to-osm-tag-mapping/pull/157#issuecomment-1647962964) in [MapColonies/external-to-osm-tag-mapping](https://github.com/MapColonies/external-to-osm-tag-mapping)
 <!--END_SECTION:activity-->
 
 ![contrib](./profile-3d-contrib/profile-green-animate.svg)
