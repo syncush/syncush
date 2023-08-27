@@ -23,11 +23,11 @@ Check out my first npm package: [slack-emojis](https://www.npmjs.com/package/sla
 
 ## Recent Acitivty
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#54](https://github.com/MapColonies/telemetry/pull/54) in [MapColonies/telemetry](https://github.com/MapColonies/telemetry)
-2. 💪 Opened PR [#55](https://github.com/MapColonies/telemetry/pull/55) in [MapColonies/telemetry](https://github.com/MapColonies/telemetry)
-3. 🗣 Commented on [#60](https://github.com/bloomberg/blazingmq/issues/60#issuecomment-1665163847) in [bloomberg/blazingmq](https://github.com/bloomberg/blazingmq)
-4. ❗ Opened issue [#60](https://github.com/bloomberg/blazingmq/issues/60) in [bloomberg/blazingmq](https://github.com/bloomberg/blazingmq)
-5. 🎉 Merged PR [#18](https://github.com/MapColonies/osm2pgsql-wrapper/pull/18) in [MapColonies/osm2pgsql-wrapper](https://github.com/MapColonies/osm2pgsql-wrapper)
+1. ❌ Closed PR [#55](https://github.com/MapColonies/telemetry/pull/55) in [MapColonies/telemetry](https://github.com/MapColonies/telemetry)
+2. 🎉 Merged PR [#54](https://github.com/MapColonies/telemetry/pull/54) in [MapColonies/telemetry](https://github.com/MapColonies/telemetry)
+3. 💪 Opened PR [#55](https://github.com/MapColonies/telemetry/pull/55) in [MapColonies/telemetry](https://github.com/MapColonies/telemetry)
+4. 🗣 Commented on [#60](https://github.com/bloomberg/blazingmq/issues/60#issuecomment-1665163847) in [bloomberg/blazingmq](https://github.com/bloomberg/blazingmq)
+5. ❗ Opened issue [#60](https://github.com/bloomberg/blazingmq/issues/60) in [bloomberg/blazingmq](https://github.com/bloomberg/blazingmq)
 <!--END_SECTION:activity-->
 
 ![contrib](./profile-3d-contrib/profile-green-animate.svg)
