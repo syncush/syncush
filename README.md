@@ -23,11 +23,11 @@ Check out my first npm package: [slack-emojis](https://www.npmjs.com/package/sla
 
 ## Recent Acitivty
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#31](https://github.com/MapColonies/eslint-config/pull/31) in [MapColonies/eslint-config](https://github.com/MapColonies/eslint-config)
-2. 💪 Opened PR [#29](https://github.com/MapColonies/retiler/pull/29) in [MapColonies/retiler](https://github.com/MapColonies/retiler)
-3. ❌ Closed PR [#30](https://github.com/MapColonies/eslint-config/pull/30) in [MapColonies/eslint-config](https://github.com/MapColonies/eslint-config)
-4. 🎉 Merged PR [#60](https://github.com/MapColonies/developer-portal/pull/60) in [MapColonies/developer-portal](https://github.com/MapColonies/developer-portal)
-5. 💪 Opened PR [#276](https://github.com/Dominique92/ol-geocoder/pull/276) in [Dominique92/ol-geocoder](https://github.com/Dominique92/ol-geocoder)
+1. 💪 Opened PR [#35](https://github.com/MapColonies/planet-dumper/pull/35) in [MapColonies/planet-dumper](https://github.com/MapColonies/planet-dumper)
+2. 💪 Opened PR [#21](https://github.com/MapColonies/osm2pgsql-wrapper/pull/21) in [MapColonies/osm2pgsql-wrapper](https://github.com/MapColonies/osm2pgsql-wrapper)
+3. 🎉 Merged PR [#31](https://github.com/MapColonies/eslint-config/pull/31) in [MapColonies/eslint-config](https://github.com/MapColonies/eslint-config)
+4. 💪 Opened PR [#29](https://github.com/MapColonies/retiler/pull/29) in [MapColonies/retiler](https://github.com/MapColonies/retiler)
+5. ❌ Closed PR [#30](https://github.com/MapColonies/eslint-config/pull/30) in [MapColonies/eslint-config](https://github.com/MapColonies/eslint-config)
 <!--END_SECTION:activity-->
 
 ![contrib](./profile-3d-contrib/profile-green-animate.svg)
