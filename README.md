@@ -23,11 +23,11 @@ Check out my first npm package: [slack-emojis](https://www.npmjs.com/package/sla
 
 ## Recent Acitivty
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#31](https://github.com/MapColonies/retiler/pull/31) in [MapColonies/retiler](https://github.com/MapColonies/retiler)
-2. 💪 Opened PR [#31](https://github.com/MapColonies/node-osm-api/pull/31) in [MapColonies/node-osm-api](https://github.com/MapColonies/node-osm-api)
-3. 💪 Opened PR [#35](https://github.com/MapColonies/planet-dumper/pull/35) in [MapColonies/planet-dumper](https://github.com/MapColonies/planet-dumper)
-4. 💪 Opened PR [#21](https://github.com/MapColonies/osm2pgsql-wrapper/pull/21) in [MapColonies/osm2pgsql-wrapper](https://github.com/MapColonies/osm2pgsql-wrapper)
-5. 🎉 Merged PR [#31](https://github.com/MapColonies/eslint-config/pull/31) in [MapColonies/eslint-config](https://github.com/MapColonies/eslint-config)
+1. ❌ Closed PR [#31](https://github.com/MapColonies/retiler/pull/31) in [MapColonies/retiler](https://github.com/MapColonies/retiler)
+2. ❌ Closed PR [#29](https://github.com/MapColonies/retiler/pull/29) in [MapColonies/retiler](https://github.com/MapColonies/retiler)
+3. ❌ Closed PR [#27](https://github.com/MapColonies/retiler/pull/27) in [MapColonies/retiler](https://github.com/MapColonies/retiler)
+4. ❌ Closed PR [#23](https://github.com/MapColonies/retiler/pull/23) in [MapColonies/retiler](https://github.com/MapColonies/retiler)
+5. ❌ Closed PR [#22](https://github.com/MapColonies/retiler/pull/22) in [MapColonies/retiler](https://github.com/MapColonies/retiler)
 <!--END_SECTION:activity-->
 
 ![contrib](./profile-3d-contrib/profile-green-animate.svg)
