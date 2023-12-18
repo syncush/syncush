@@ -23,11 +23,11 @@ Check out my first npm package: [slack-emojis](https://www.npmjs.com/package/sla
 
 ## Recent Acitivty
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#14](https://github.com/MapColonies/js-logger/pull/14) in [MapColonies/js-logger](https://github.com/MapColonies/js-logger)
-2. 🗣 Commented on [#66](https://github.com/MapColonies/developer-portal/pull/66#issuecomment-1856069943) in [MapColonies/developer-portal](https://github.com/MapColonies/developer-portal)
-3. 💪 Opened PR [#11](https://github.com/MapColonies/k8s-job-chief/pull/11) in [MapColonies/k8s-job-chief](https://github.com/MapColonies/k8s-job-chief)
-4. 🎉 Merged PR [#30](https://github.com/MapColonies/retiler/pull/30) in [MapColonies/retiler](https://github.com/MapColonies/retiler)
-5. 🎉 Merged PR [#22](https://github.com/MapColonies/osm2pgsql-wrapper/pull/22) in [MapColonies/osm2pgsql-wrapper](https://github.com/MapColonies/osm2pgsql-wrapper)
+1. 🎉 Merged PR [#19](https://github.com/MapColonies/3d-helm/pull/19) in [MapColonies/3d-helm](https://github.com/MapColonies/3d-helm)
+2. 💪 Opened PR [#14](https://github.com/MapColonies/js-logger/pull/14) in [MapColonies/js-logger](https://github.com/MapColonies/js-logger)
+3. 🗣 Commented on [#66](https://github.com/MapColonies/developer-portal/pull/66#issuecomment-1856069943) in [MapColonies/developer-portal](https://github.com/MapColonies/developer-portal)
+4. 💪 Opened PR [#11](https://github.com/MapColonies/k8s-job-chief/pull/11) in [MapColonies/k8s-job-chief](https://github.com/MapColonies/k8s-job-chief)
+5. 🎉 Merged PR [#30](https://github.com/MapColonies/retiler/pull/30) in [MapColonies/retiler](https://github.com/MapColonies/retiler)
 <!--END_SECTION:activity-->
 
 ![contrib](./profile-3d-contrib/profile-green-animate.svg)
