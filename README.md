@@ -23,11 +23,11 @@ Check out my first npm package: [slack-emojis](https://www.npmjs.com/package/sla
 
 ## Recent Acitivty
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#27](https://github.com/MapColonies/osm2pgsql-wrapper/pull/27) in [MapColonies/osm2pgsql-wrapper](https://github.com/MapColonies/osm2pgsql-wrapper)
-2. 💪 Opened PR [#48](https://github.com/MapColonies/dump-server/pull/48) in [MapColonies/dump-server](https://github.com/MapColonies/dump-server)
-3. 💪 Opened PR [#76](https://github.com/MapColonies/osm-change-generator-server/pull/76) in [MapColonies/osm-change-generator-server](https://github.com/MapColonies/osm-change-generator-server)
-4. 💪 Opened PR [#158](https://github.com/MapColonies/external-to-osm-tag-mapping/pull/158) in [MapColonies/external-to-osm-tag-mapping](https://github.com/MapColonies/external-to-osm-tag-mapping)
-5. 💪 Opened PR [#12](https://github.com/MapColonies/k8s-job-chief/pull/12) in [MapColonies/k8s-job-chief](https://github.com/MapColonies/k8s-job-chief)
+1. 💪 Opened PR [#93](https://github.com/MapColonies/change-merger/pull/93) in [MapColonies/change-merger](https://github.com/MapColonies/change-merger)
+2. 💪 Opened PR [#71](https://github.com/MapColonies/id-merger/pull/71) in [MapColonies/id-merger](https://github.com/MapColonies/id-merger)
+3. 💪 Opened PR [#161](https://github.com/MapColonies/id-2-osm/pull/161) in [MapColonies/id-2-osm](https://github.com/MapColonies/id-2-osm)
+4. 💪 Opened PR [#299](https://github.com/MapColonies/ts-server-boilerplate/pull/299) in [MapColonies/ts-server-boilerplate](https://github.com/MapColonies/ts-server-boilerplate)
+5. 💪 Opened PR [#36](https://github.com/MapColonies/retiler/pull/36) in [MapColonies/retiler](https://github.com/MapColonies/retiler)
 <!--END_SECTION:activity-->
 
 ![contrib](./profile-3d-contrib/profile-green-animate.svg)
