@@ -23,10 +23,10 @@ Check out my first npm package: [slack-emojis](https://www.npmjs.com/package/sla
 
 ## Recent Acitivty
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11](https://github.com/MapColonies/error-express-handler/issues/11#issuecomment-2444125874) in [MapColonies/error-express-handler](https://github.com/MapColonies/error-express-handler)
-2. 🗣 Commented on [#11](https://github.com/MapColonies/error-express-handler/issues/11#issuecomment-2444123181) in [MapColonies/error-express-handler](https://github.com/MapColonies/error-express-handler)
-3. 🗣 Commented on [#97](https://github.com/MapColonies/developer-portal/pull/97#issuecomment-2444110240) in [MapColonies/developer-portal](https://github.com/MapColonies/developer-portal)
-4. 💪 Opened PR [#71](https://github.com/MapColonies/id-merger/pull/71) in [MapColonies/id-merger](https://github.com/MapColonies/id-merger)
+1. 🗣 Commented on [#97](https://github.com/MapColonies/developer-portal/pull/97#issuecomment-2481478549) in [MapColonies/developer-portal](https://github.com/MapColonies/developer-portal)
+2. 🗣 Commented on [#11](https://github.com/MapColonies/error-express-handler/issues/11#issuecomment-2444125874) in [MapColonies/error-express-handler](https://github.com/MapColonies/error-express-handler)
+3. 🗣 Commented on [#11](https://github.com/MapColonies/error-express-handler/issues/11#issuecomment-2444123181) in [MapColonies/error-express-handler](https://github.com/MapColonies/error-express-handler)
+4. 🗣 Commented on [#97](https://github.com/MapColonies/developer-portal/pull/97#issuecomment-2444110240) in [MapColonies/developer-portal](https://github.com/MapColonies/developer-portal)
 5. 💪 Opened PR [#161](https://github.com/MapColonies/id-2-osm/pull/161) in [MapColonies/id-2-osm](https://github.com/MapColonies/id-2-osm)
 <!--END_SECTION:activity-->
 
