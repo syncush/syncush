@@ -23,11 +23,11 @@ Check out my first npm package: [slack-emojis](https://www.npmjs.com/package/sla
 
 ## Recent Acitivty
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#37](https://github.com/MapColonies/eslint-config/pull/37) in [MapColonies/eslint-config](https://github.com/MapColonies/eslint-config)
-2. ❌ Reopened PR [#37](https://github.com/MapColonies/eslint-config/pull/37) in [MapColonies/eslint-config](https://github.com/MapColonies/eslint-config)
-3. ❌ Closed PR [#37](https://github.com/MapColonies/eslint-config/pull/37) in [MapColonies/eslint-config](https://github.com/MapColonies/eslint-config)
-4. 🗣 Commented on [#97](https://github.com/MapColonies/developer-portal/pull/97#issuecomment-2481478549) in [MapColonies/developer-portal](https://github.com/MapColonies/developer-portal)
-5. 🗣 Commented on [#11](https://github.com/MapColonies/error-express-handler/issues/11#issuecomment-2444125874) in [MapColonies/error-express-handler](https://github.com/MapColonies/error-express-handler)
+1. 🗣 Commented on [#117](https://github.com/MapColonies/developer-portal/pull/117#issuecomment-2607661210) in [MapColonies/developer-portal](https://github.com/MapColonies/developer-portal)
+2. 🎉 Merged PR [#37](https://github.com/MapColonies/eslint-config/pull/37) in [MapColonies/eslint-config](https://github.com/MapColonies/eslint-config)
+3. ❌ Reopened PR [#37](https://github.com/MapColonies/eslint-config/pull/37) in [MapColonies/eslint-config](https://github.com/MapColonies/eslint-config)
+4. ❌ Closed PR [#37](https://github.com/MapColonies/eslint-config/pull/37) in [MapColonies/eslint-config](https://github.com/MapColonies/eslint-config)
+5. 🗣 Commented on [#97](https://github.com/MapColonies/developer-portal/pull/97#issuecomment-2481478549) in [MapColonies/developer-portal](https://github.com/MapColonies/developer-portal)
 <!--END_SECTION:activity-->
 
 ![contrib](./profile-3d-contrib/profile-green-animate.svg)
