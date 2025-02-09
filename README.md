@@ -23,10 +23,10 @@ Check out my first npm package: [slack-emojis](https://www.npmjs.com/package/sla
 
 ## Recent Acitivty
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#32](https://github.com/MapColonies/eslint-config/pull/32#issuecomment-2633166980) in [MapColonies/eslint-config](https://github.com/MapColonies/eslint-config)
-2. 🗣 Commented on [#8](https://github.com/MapColonies/commitlint-config/pull/8#issuecomment-2615279204) in [MapColonies/commitlint-config](https://github.com/MapColonies/commitlint-config)
-3. 🗣 Commented on [#117](https://github.com/MapColonies/developer-portal/pull/117#issuecomment-2607661210) in [MapColonies/developer-portal](https://github.com/MapColonies/developer-portal)
-4. ❌ Reopened PR [#37](https://github.com/MapColonies/eslint-config/pull/37) in [MapColonies/eslint-config](https://github.com/MapColonies/eslint-config)
+1. 💪 Opened PR [#145](https://github.com/MapColonies/developer-portal/pull/145) in [MapColonies/developer-portal](https://github.com/MapColonies/developer-portal)
+2. 🗣 Commented on [#32](https://github.com/MapColonies/eslint-config/pull/32#issuecomment-2633166980) in [MapColonies/eslint-config](https://github.com/MapColonies/eslint-config)
+3. 🗣 Commented on [#8](https://github.com/MapColonies/commitlint-config/pull/8#issuecomment-2615279204) in [MapColonies/commitlint-config](https://github.com/MapColonies/commitlint-config)
+4. 🗣 Commented on [#117](https://github.com/MapColonies/developer-portal/pull/117#issuecomment-2607661210) in [MapColonies/developer-portal](https://github.com/MapColonies/developer-portal)
 5. ❌ Closed PR [#37](https://github.com/MapColonies/eslint-config/pull/37) in [MapColonies/eslint-config](https://github.com/MapColonies/eslint-config)
 <!--END_SECTION:activity-->
 
