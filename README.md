@@ -23,7 +23,7 @@ Check out my first npm package: [slack-emojis](https://www.npmjs.com/package/sla
 
 ## Recent Acitivty
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#97](https://github.com/MapColonies/config-server/pull/97) in [MapColonies/config-server](https://github.com/MapColonies/config-server)
+1. 🗣 Commented on [#61](https://github.com/MapColonies/opa-la/issues/61#issuecomment-3016695469) in [MapColonies/opa-la](https://github.com/MapColonies/opa-la)
 2. ❗ Opened issue [#103067](https://github.com/grafana/grafana/issues/103067) in [grafana/grafana](https://github.com/grafana/grafana)
 3. 🎉 Merged PR [#349](https://github.com/MapColonies/ts-server-boilerplate/pull/349) in [MapColonies/ts-server-boilerplate](https://github.com/MapColonies/ts-server-boilerplate)
 4. 🗣 Commented on [#343](https://github.com/MapColonies/ts-server-boilerplate/pull/343#issuecomment-2746181974) in [MapColonies/ts-server-boilerplate](https://github.com/MapColonies/ts-server-boilerplate)
