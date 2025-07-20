@@ -23,11 +23,11 @@ Check out my first npm package: [slack-emojis](https://www.npmjs.com/package/sla
 
 ## Recent Acitivty
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#2922](https://github.com/Turfjs/turf/issues/2922) in [Turfjs/turf](https://github.com/Turfjs/turf)
-2. 🗣 Commented on [#160](https://github.com/MapColonies/developer-portal/pull/160#issuecomment-3088667981) in [MapColonies/developer-portal](https://github.com/MapColonies/developer-portal)
-3. 💪 Opened PR [#89](https://github.com/MapColonies/opa-la/pull/89) in [MapColonies/opa-la](https://github.com/MapColonies/opa-la)
-4. 💪 Opened PR [#159](https://github.com/MapColonies/developer-portal/pull/159) in [MapColonies/developer-portal](https://github.com/MapColonies/developer-portal)
-5. 🗣 Commented on [#11](https://github.com/MapColonies/lookup-tables/pull/11#issuecomment-3043695282) in [MapColonies/lookup-tables](https://github.com/MapColonies/lookup-tables)
+1. 💪 Opened PR [#30](https://github.com/MapColonies/mc-utils/pull/30) in [MapColonies/mc-utils](https://github.com/MapColonies/mc-utils)
+2. ❗ Opened issue [#2922](https://github.com/Turfjs/turf/issues/2922) in [Turfjs/turf](https://github.com/Turfjs/turf)
+3. 🗣 Commented on [#160](https://github.com/MapColonies/developer-portal/pull/160#issuecomment-3088667981) in [MapColonies/developer-portal](https://github.com/MapColonies/developer-portal)
+4. 💪 Opened PR [#89](https://github.com/MapColonies/opa-la/pull/89) in [MapColonies/opa-la](https://github.com/MapColonies/opa-la)
+5. 💪 Opened PR [#159](https://github.com/MapColonies/developer-portal/pull/159) in [MapColonies/developer-portal](https://github.com/MapColonies/developer-portal)
 <!--END_SECTION:activity-->
 
 ![contrib](./profile-3d-contrib/profile-green-animate.svg)
