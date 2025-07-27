@@ -23,11 +23,11 @@ Check out my first npm package: [slack-emojis](https://www.npmjs.com/package/sla
 
 ## Recent Acitivty
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#15](https://github.com/MapColonies/mc-utils/pull/15) in [MapColonies/mc-utils](https://github.com/MapColonies/mc-utils)
-2. ❌ Closed PR [#3](https://github.com/MapColonies/exporter-cleanup/pull/3) in [MapColonies/exporter-cleanup](https://github.com/MapColonies/exporter-cleanup)
-3. ❌ Closed PR [#1](https://github.com/MapColonies/exporter-cleanup/pull/1) in [MapColonies/exporter-cleanup](https://github.com/MapColonies/exporter-cleanup)
-4. ❌ Closed PR [#2](https://github.com/MapColonies/exporter-cleanup/pull/2) in [MapColonies/exporter-cleanup](https://github.com/MapColonies/exporter-cleanup)
-5. ❌ Closed PR [#4](https://github.com/MapColonies/exporter-cleanup/pull/4) in [MapColonies/exporter-cleanup](https://github.com/MapColonies/exporter-cleanup)
+1. 💪 Opened PR [#55](https://github.com/MapColonies/js-logger/pull/55) in [MapColonies/js-logger](https://github.com/MapColonies/js-logger)
+2. 💪 Opened PR [#54](https://github.com/MapColonies/js-logger/pull/54) in [MapColonies/js-logger](https://github.com/MapColonies/js-logger)
+3. 🎉 Merged PR [#52](https://github.com/MapColonies/js-logger/pull/52) in [MapColonies/js-logger](https://github.com/MapColonies/js-logger)
+4. 🗣 Commented on [#52](https://github.com/MapColonies/js-logger/pull/52#issuecomment-3124414728) in [MapColonies/js-logger](https://github.com/MapColonies/js-logger)
+5. ❌ Closed PR [#15](https://github.com/MapColonies/mc-utils/pull/15) in [MapColonies/mc-utils](https://github.com/MapColonies/mc-utils)
 <!--END_SECTION:activity-->
 
 ![contrib](./profile-3d-contrib/profile-green-animate.svg)
