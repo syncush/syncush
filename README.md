@@ -23,11 +23,11 @@ Check out my first npm package: [slack-emojis](https://www.npmjs.com/package/sla
 
 ## Recent Acitivty
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#46](https://github.com/MapColonies/openapi-helpers/pull/46) in [MapColonies/openapi-helpers](https://github.com/MapColonies/openapi-helpers)
-2. 🎉 Merged PR [#85](https://github.com/MapColonies/config/pull/85) in [MapColonies/config](https://github.com/MapColonies/config)
-3. 🗣 Commented on [#44](https://github.com/MapColonies/config/pull/44#issuecomment-3127154200) in [MapColonies/config](https://github.com/MapColonies/config)
-4. 🗣 Commented on [#44](https://github.com/MapColonies/config/pull/44#issuecomment-3126642390) in [MapColonies/config](https://github.com/MapColonies/config)
-5. 🗣 Commented on [#43](https://github.com/MapColonies/config/pull/43#issuecomment-3126640156) in [MapColonies/config](https://github.com/MapColonies/config)
+1. 🎉 Merged PR [#98](https://github.com/MapColonies/opa-la/pull/98) in [MapColonies/opa-la](https://github.com/MapColonies/opa-la)
+2. 🎉 Merged PR [#46](https://github.com/MapColonies/openapi-helpers/pull/46) in [MapColonies/openapi-helpers](https://github.com/MapColonies/openapi-helpers)
+3. 🎉 Merged PR [#85](https://github.com/MapColonies/config/pull/85) in [MapColonies/config](https://github.com/MapColonies/config)
+4. 🗣 Commented on [#44](https://github.com/MapColonies/config/pull/44#issuecomment-3127154200) in [MapColonies/config](https://github.com/MapColonies/config)
+5. 🗣 Commented on [#44](https://github.com/MapColonies/config/pull/44#issuecomment-3126642390) in [MapColonies/config](https://github.com/MapColonies/config)
 <!--END_SECTION:activity-->
 
 ![contrib](./profile-3d-contrib/profile-green-animate.svg)
