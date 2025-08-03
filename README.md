@@ -23,11 +23,11 @@ Check out my first npm package: [slack-emojis](https://www.npmjs.com/package/sla
 
 ## Recent Acitivty
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#56](https://github.com/MapColonies/js-logger/pull/56) in [MapColonies/js-logger](https://github.com/MapColonies/js-logger)
-2. 🎉 Merged PR [#53](https://github.com/MapColonies/js-logger/pull/53) in [MapColonies/js-logger](https://github.com/MapColonies/js-logger)
-3. 🚀 Published release [v9.0.1](https://github.com/MapColonies/mc-priority-queue/releases/tag/v9.0.1) in [MapColonies/mc-priority-queue](https://github.com/MapColonies/mc-priority-queue)
-4. 🎉 Merged PR [#46](https://github.com/MapColonies/mc-priority-queue/pull/46) in [MapColonies/mc-priority-queue](https://github.com/MapColonies/mc-priority-queue)
-5. 🎉 Merged PR [#45](https://github.com/MapColonies/mc-priority-queue/pull/45) in [MapColonies/mc-priority-queue](https://github.com/MapColonies/mc-priority-queue)
+1. 🗣 Commented on [#17](https://github.com/MapColonies/nginx/pull/17#issuecomment-3148334981) in [MapColonies/nginx](https://github.com/MapColonies/nginx)
+2. 💪 Opened PR [#34](https://github.com/MapColonies/mc-utils/pull/34) in [MapColonies/mc-utils](https://github.com/MapColonies/mc-utils)
+3. 🎉 Merged PR [#56](https://github.com/MapColonies/js-logger/pull/56) in [MapColonies/js-logger](https://github.com/MapColonies/js-logger)
+4. 🎉 Merged PR [#53](https://github.com/MapColonies/js-logger/pull/53) in [MapColonies/js-logger](https://github.com/MapColonies/js-logger)
+5. 🚀 Published release [v9.0.1](https://github.com/MapColonies/mc-priority-queue/releases/tag/v9.0.1) in [MapColonies/mc-priority-queue](https://github.com/MapColonies/mc-priority-queue)
 <!--END_SECTION:activity-->
 
 ![contrib](./profile-3d-contrib/profile-green-animate.svg)
