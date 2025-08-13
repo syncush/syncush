@@ -23,11 +23,11 @@ Check out my first npm package: [slack-emojis](https://www.npmjs.com/package/sla
 
 ## Recent Acitivty
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#39](https://github.com/MapColonies/mc-utils/pull/39) in [MapColonies/mc-utils](https://github.com/MapColonies/mc-utils)
-2. 🎉 Merged PR [#38](https://github.com/MapColonies/mc-utils/pull/38) in [MapColonies/mc-utils](https://github.com/MapColonies/mc-utils)
-3. 💪 Opened PR [#38](https://github.com/MapColonies/mc-utils/pull/38) in [MapColonies/mc-utils](https://github.com/MapColonies/mc-utils)
-4. 💪 Opened PR [#47](https://github.com/MapColonies/mc-priority-queue/pull/47) in [MapColonies/mc-priority-queue](https://github.com/MapColonies/mc-priority-queue)
-5. 🎉 Merged PR [#37](https://github.com/MapColonies/mc-utils/pull/37) in [MapColonies/mc-utils](https://github.com/MapColonies/mc-utils)
+1. 🔒 Closed issue [#1](https://github.com/MapColonies/pycsw/issues/1) in [MapColonies/pycsw](https://github.com/MapColonies/pycsw)
+2. 🔒 Closed issue [#26](https://github.com/MapColonies/pycsw/issues/26) in [MapColonies/pycsw](https://github.com/MapColonies/pycsw)
+3. 🔒 Closed issue [#50](https://github.com/MapColonies/pycsw/issues/50) in [MapColonies/pycsw](https://github.com/MapColonies/pycsw)
+4. 🎉 Merged PR [#39](https://github.com/MapColonies/mc-utils/pull/39) in [MapColonies/mc-utils](https://github.com/MapColonies/mc-utils)
+5. 🎉 Merged PR [#38](https://github.com/MapColonies/mc-utils/pull/38) in [MapColonies/mc-utils](https://github.com/MapColonies/mc-utils)
 <!--END_SECTION:activity-->
 
 ![contrib](./profile-3d-contrib/profile-green-animate.svg)
