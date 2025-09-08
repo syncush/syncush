@@ -23,11 +23,11 @@ Check out my first npm package: [slack-emojis](https://www.npmjs.com/package/sla
 
 ## Recent Acitivty
 <!--START_SECTION:activity-->
-1. ❌ Assigned PR [#107](undefined) in [MapColonies/opa-la](https://github.com/MapColonies/opa-la)
-2. 💪 Opened PR [#107](undefined) in [MapColonies/opa-la](https://github.com/MapColonies/opa-la)
-3. 🗣 Commented on [#17](https://github.com/MapColonies/nginx/pull/17#issuecomment-3239859026) in [MapColonies/nginx](https://github.com/MapColonies/nginx)
-4. 🔒 Closed issue [#1](https://github.com/MapColonies/pycsw/issues/1) in [MapColonies/pycsw](https://github.com/MapColonies/pycsw)
-5. 🔒 Closed issue [#26](https://github.com/MapColonies/pycsw/issues/26) in [MapColonies/pycsw](https://github.com/MapColonies/pycsw)
+1. 💪 Opened PR [#107](https://github.com/MapColonies/opa-la/pull/107) in [MapColonies/opa-la](https://github.com/MapColonies/opa-la)
+2. 🎉 Merged PR [#78](https://github.com/MapColonies/geocoding/pull/78) in [MapColonies/geocoding](https://github.com/MapColonies/geocoding)
+3. 🎉 Merged PR [#96](https://github.com/MapColonies/pycsw/pull/96) in [MapColonies/pycsw](https://github.com/MapColonies/pycsw)
+4. 🗣 Commented on [#17](https://github.com/MapColonies/nginx/pull/17#issuecomment-3239859026) in [MapColonies/nginx](https://github.com/MapColonies/nginx)
+5. 🔒 Closed issue [#1](https://github.com/MapColonies/pycsw/issues/1) in [MapColonies/pycsw](https://github.com/MapColonies/pycsw)
 <!--END_SECTION:activity-->
 
 ![contrib](./profile-3d-contrib/profile-green-animate.svg)
