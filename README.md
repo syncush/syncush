@@ -23,8 +23,8 @@ Check out my first npm package: [slack-emojis](https://www.npmjs.com/package/sla
 
 ## Recent Acitivty
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2650](https://github.com/geostyler/geostyler/pull/2650#issuecomment-3462167534) in [geostyler/geostyler](https://github.com/geostyler/geostyler)
-2. 💪 Opened PR [#2650](undefined) in [geostyler/geostyler](https://github.com/geostyler/geostyler)
+1. 🗣 Commented on [#17](https://github.com/MapColonies/nginx/pull/17#issuecomment-3477545244) in [MapColonies/nginx](https://github.com/MapColonies/nginx)
+2. 🗣 Commented on [#2650](https://github.com/geostyler/geostyler/pull/2650#issuecomment-3462167534) in [geostyler/geostyler](https://github.com/geostyler/geostyler)
 3. ❌ Closed PR [#1](undefined) in [MapColonies/dem-heights](https://github.com/MapColonies/dem-heights)
 4. ❌ Closed PR [#2](undefined) in [MapColonies/dem-heights](https://github.com/MapColonies/dem-heights)
 5. ❌ Closed PR [#4](undefined) in [MapColonies/dem-heights](https://github.com/MapColonies/dem-heights)
