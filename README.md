@@ -23,10 +23,10 @@ Check out my first npm package: [slack-emojis](https://www.npmjs.com/package/sla
 
 ## Recent Acitivty
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/MapColonies/geoserver/pull/5#issuecomment-3796833706) in [MapColonies/geoserver](https://github.com/MapColonies/geoserver)
-2. 🗣 Commented on [#77](https://github.com/MapColonies/docker-mapproxy/pull/77#issuecomment-3710051578) in [MapColonies/docker-mapproxy](https://github.com/MapColonies/docker-mapproxy)
-3. ❌ Closed PR [#1](undefined) in [MapColonies/dem-heights](https://github.com/MapColonies/dem-heights)
-4. ❌ Closed PR [#2](undefined) in [MapColonies/dem-heights](https://github.com/MapColonies/dem-heights)
+1. 🗣 Commented on [#5](https://github.com/MapColonies/geoserver/pull/5#issuecomment-3798272119) in [MapColonies/geoserver](https://github.com/MapColonies/geoserver)
+2. ❌ Closed PR [#1](https://github.com/MapColonies/geojson-viewer/pull/1) in [MapColonies/geojson-viewer](https://github.com/MapColonies/geojson-viewer)
+3. 🗣 Commented on [#5](https://github.com/MapColonies/geoserver/pull/5#issuecomment-3796833706) in [MapColonies/geoserver](https://github.com/MapColonies/geoserver)
+4. 🗣 Commented on [#77](https://github.com/MapColonies/docker-mapproxy/pull/77#issuecomment-3710051578) in [MapColonies/docker-mapproxy](https://github.com/MapColonies/docker-mapproxy)
 5. ❌ Closed PR [#4](undefined) in [MapColonies/dem-heights](https://github.com/MapColonies/dem-heights)
 <!--END_SECTION:activity-->
 
