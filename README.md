@@ -23,7 +23,7 @@ Check out my first npm package: [slack-emojis](https://www.npmjs.com/package/sla
 
 ## Recent Acitivty
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/MapColonies/geoserver/pull/5#issuecomment-3867016770) in [MapColonies/geoserver](https://github.com/MapColonies/geoserver)
+1. 🗣 Commented on [#17](https://github.com/MapColonies/nginx/pull/17#issuecomment-4098103281) in [MapColonies/nginx](https://github.com/MapColonies/nginx)
 2. 🗣 Commented on [#17](https://github.com/MapColonies/nginx/pull/17#issuecomment-3830618327) in [MapColonies/nginx](https://github.com/MapColonies/nginx)
 3. 🗣 Commented on [#3](https://github.com/MapColonies/geojson-viewer/pull/3#issuecomment-3803927609) in [MapColonies/geojson-viewer](https://github.com/MapColonies/geojson-viewer)
 4. 🗣 Commented on [#5](https://github.com/MapColonies/geoserver/pull/5#issuecomment-3798272119) in [MapColonies/geoserver](https://github.com/MapColonies/geoserver)
