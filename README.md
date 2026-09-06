@@ -23,8 +23,8 @@ Check out my first npm package: [slack-emojis](https://www.npmjs.com/package/sla
 
 ## Recent Acitivty
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#59](https://github.com/MapColonies/nginx/pull/59#issuecomment-5307561112) in [MapColonies/nginx](https://github.com/MapColonies/nginx)
-2. ❌ Closed PR [#80](https://github.com/MapColonies/mc-utils/pull/80) in [MapColonies/mc-utils](https://github.com/MapColonies/mc-utils)
+1. 🚀 Published release [v1.0.0 - Production Release](https://github.com/MapColonies/metatile-queue-populator-ui/releases/tag/v1.0.0) in [MapColonies/metatile-queue-populator-ui](https://github.com/MapColonies/metatile-queue-populator-ui)
+2. 🗣 Commented on [#59](https://github.com/MapColonies/nginx/pull/59#issuecomment-5307561112) in [MapColonies/nginx](https://github.com/MapColonies/nginx)
 3. ❌ Closed PR [#76](https://github.com/MapColonies/mc-utils/pull/76) in [MapColonies/mc-utils](https://github.com/MapColonies/mc-utils)
 4. ❌ Closed PR [#79](https://github.com/MapColonies/mc-utils/pull/79) in [MapColonies/mc-utils](https://github.com/MapColonies/mc-utils)
 5. ❌ Closed PR [#78](https://github.com/MapColonies/mc-utils/pull/78) in [MapColonies/mc-utils](https://github.com/MapColonies/mc-utils)
